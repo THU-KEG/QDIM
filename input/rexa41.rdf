@@ -1,0 +1,83 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document72c46217e006a512715d3311cf3ae3b954e2959c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond02ca4c839b36c024daece9aa1b884be26584b05"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf0ea8604b6a273421dfc2156f66a6bc73f20842"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5ABEEA39276120DDBE1FC7D6DB42B796D9AB14CB"/>
+    <rdfs:label>Ontology Extraction for Distributed Environments.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person46145b70bc247ebdbe61c4fba8f4be96b2b6b9a4">
+    <foaf:name>Jed Dube</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personeca2f586f4c41a066871365d04ae812cdfd56258">
+    <foaf:name>Joseph Greenberg</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone0334369bf5cf2e399b113cbdde86146856963dc">
+    <foaf:name>Ellen M. Leadem</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentece17e765f28dd7dcca7b8425d4fef0cd0d5115f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond02ca4c839b36c024daece9aa1b884be26584b05"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone0334369bf5cf2e399b113cbdde86146856963dc"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personeca2f586f4c41a066871365d04ae812cdfd56258"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person46145b70bc247ebdbe61c4fba8f4be96b2b6b9a4"/>
+    <rdfs:label>Des gn and Implementat on of the Nat onal Inst tute of Env ronmental Health Sc ences Dubl n Core Metadata Schema.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personea8967181d9d0925fe71868e5b421f001198374e">
+    <foaf:name>Siu-wai Leung</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person6D9644A80878877F972CEA51413D4723B0DDD0EF">
+    <foaf:name>Chris Mellish</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document185258bd013bc47ec5c346526ec8d1f338cbc260">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond02ca4c839b36c024daece9aa1b884be26584b05"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone0334369bf5cf2e399b113cbdde86146856963dc"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personeca2f586f4c41a066871365d04ae812cdfd56258"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person46145b70bc247ebdbe61c4fba8f4be96b2b6b9a4"/>
+    <rdfs:label>Design and Implementation of the National Institute of Environmental Health Sciences Dublin Core Metadata Schema.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person5ABEEA39276120DDBE1FC7D6DB42B796D9AB14CB">
+    <foaf:name>W. Marco Schorlemmer</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document37ef9d5ae4caea7c857c4a240508dbd9d39a7948">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6D9644A80878877F972CEA51413D4723B0DDD0EF"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond02ca4c839b36c024daece9aa1b884be26584b05"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personea8967181d9d0925fe71868e5b421f001198374e"/>
+    <rdfs:label>Basic Gene Grammars and DNA-ChartParser for language processing of Escherichia coli promoter DNA sequences.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personcf0ea8604b6a273421dfc2156f66a6bc73f20842">
+    <foaf:name>Stephen Potter</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F">
+    <foaf:name>Derek H. Sleeman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persond02ca4c839b36c024daece9aa1b884be26584b05">
+    <foaf:name>Dave Robertson</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

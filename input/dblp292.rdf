@@ -1,0 +1,299 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ijmms/Sleeman85a">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Basic Algebra Revisited: A Study with 14-Year-Olds.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ml/CarbonaraS99">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Effective and Efficient Knowledge Base Refinement.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/cogsci/AlberdiSK00">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Accommodating surprise in taxonomic tasks: the role of expertise.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ci/MacmillanS87">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>An architecture for a self-improving instructional planner for intelligent tutoring systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ekaw/AjitSFK04">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>ConEditor: Tool to Input and Maintain Constraints.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/aim/CarbonellS82">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Artificial Intelligence Techniques and Methodology.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/kcap/WhiteS01">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>A grammar-driven knowledge acquisition tool that incorporates constraint propagation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ecml/SharmaS88">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>REFINER: A Case-Based Differential Diagnosis Aide for Knowledge Acquisition and Knowledge Refinement.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/kcap/NordlanderSB05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Knowledge base reuse through constraint relaxation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ijmms/Sleeman75">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>A Problem-Solving Monitor for a Deductive Reasoning Task.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ijmms/Sleeman85">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>UMFE: A User Modelling Front-End Subsystem.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/books/sp/staabS2004/HameedPS04">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Ontology Reconciliation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Book_Chapter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/webi/LamPSV06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>A Fine-Grained Approach to Resolving Unsatisfiable Ontologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/pakm/WillsFSCKCK04">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Issues in Moving to a Semantic Web for a Large Corporation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/eurovav/CrawS93">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Refinement in Response to Validation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/cogsci/SleemanKMWM89">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Studies of Diagnosis and Remediation with High School Algebra Students.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ijcai/Sleeman81">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>A Rule-Based Task Generation System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ecai/CrawS90">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Automating the Refinement of Knowledge-Based Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ekaw/WhiteS99">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>A Constraint-Based Approach to the Description of Competence.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/aimdm/McQuattASCJ99">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>The Analysis of Head Injury Data Using Decision Tree Techniques.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/aim/SleemanLM82">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Learning from Solution Paths: An Approach to the Credit Assignment Problem.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ekaw/SleemanRG06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Reuse: Revisiting Sisyphus-VT.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/aime/SleemanFGMC07">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>An Intelligent Aide for Interpreting a Patient's Dialysis Data Set.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/kbs/CorsarS06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Reusing JessTab rules in Protégé.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/cp/NordlanderBS03">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Identifying Inconsistent CSPs by Relaxation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/icml/CrawS91">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>The Flexibility of Speculative Refinement.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ekaw/SleemanC06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Assisting Domain Experts to Formulate and Solve Constraint Satisfaction Problems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ml/Sleemana90">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Extending Domain Theories: Two Case Studies in Student Modeling.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html">
+    <foaf:name>Derek H. Sleeman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/flairs/Sleeman05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Invited Talk: Cooperative Knowledge Acquisition and Knowledge Refinement Systems: A Review of Their Use in Intelligent Systems and Their Roles in the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/etai/WhiteS00">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>A Constraint-Based Approach to the Description and Detection of Fitness-for-Purpose.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ijmms/Sleeman75a">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>"Algorithmization in Learning and Instruction, " by L. N. Landa (Book Review).</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ijmms/SleemanRCGS95">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Consultant-2: pre- and post-processing of Machine Learning applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ecai/Sleeman82">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Inferring (Mal) Rules from Pupil's Protocols.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ijcai/Sleeman87">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Some Challenges for Intelligent Tutoring Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ai/AlberdiS97">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>ReTAX: A Step in the Automation of Taxonomic Revision.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ijcai/Sleeman77">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>A System Which Allows Students to Explore Algorithms.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/books/ios/omelayenkoK03/SleemanPRS03">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Ontology Extraction for Distributed Environments.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Book_Chapter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ai/SimonVS97">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Scientific Discovery and Simplicity of Method.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ijmms/SleemanCV00">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Introduction/Editorial: Machine Discovery.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/expert/PreeceFSCMP01">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Better Knowledge Management through Knowledge Engineering.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ml/Sleeman94">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Introduction to the Abstracts of the Invited Talks Presented at ML92 Conference in Aberdeen, 1-3 July 1992.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/kbs/WinterSP98">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Inventory management using constraint satisfaction and knowledge refinement techniques.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ijmms/KellySG93">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Artificial Intelligence in Education: Using State Space Search and Heuristics in Mathematics Instruction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/toplas/MaherS83">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Automatic Program Improvement: Variable Usage Transformations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ijcai/SleemanAKRSS85">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>User Modelling.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/kcap/AjitSFKH05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Acquisition and maintenance of constraints in engineering design.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/cacm/Sleeman86">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Special Section on The Challenges of Teaching Computer Programming.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/artmed/Sleeman02">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Knowledge Engineering and Management: The CommonKADS Methodology - G. Schreiber, H. Akkermans, A. Anjewierden, R. de Hoog, N. Shadbolt, W. van de Velde, B. Wielinga, The MIT Press, Cambridge, MA, 2000, ISBN: 0-262-19300-0.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/aicom/Sleeman94">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Towards a Technology and a Science of Machine Learning.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/kbs/HameedSP02">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Detecting mismatches among experts' ontologies acquired through knowledge elicitation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ekaw/SleemanM96">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Towards Painless Knowledge Acquisition.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ukcbr/OehlmannES95">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Self-Questioning and Experimentation: An Index Vocabulary of Situated Interaction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/aaai/OehlmannSE93">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Learning Plan Transformations from Self-Questions: A Memory-Based Approach.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ai/SleemanS81">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Modelling Student's Problem Solving.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/icml/CarbonaraS96">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Improving the Efficiency of Knowledge Base Refinement.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ijmms/MooreS88">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html"/>
+    <rdfs:label>Enhancing PIXIE's Tutoring Capabilities.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+</rdf:RDF>

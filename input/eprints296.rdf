@@ -1,0 +1,57 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1387367517_216">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person162881809_334"/>
+    <rdfs:label>Interpretations of Ontologies for Breast Cancer.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1835262621_411">
+    <foaf:name>Dasmahapatra, Srinandan</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1303940839_74">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1835262621_411"/>
+    <rdfs:label>Data Driven Ontology Evaluation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2133513605_311">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1835262621_411"/>
+    <rdfs:label>Identifying Communities of Practice through Ontology Network Analysis.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2124824152_253">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person929313389_364"/>
+    <rdfs:label>The Semantic Logger: Supporting Service Building from Personal Context.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person929313389_364">
+    <foaf:name>Dasmahapatra Southampton, Dr Srinandan</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1714833382_323">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person162881809_334"/>
+    <rdfs:label>Managing Reference: Ensuring Referential Integrity of Ontologies for the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1289882637_218">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person162881809_334"/>
+    <rdfs:label>Living with the Semantic Gap: Experiences and remedies in the context of medical imaging.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person162881809_334">
+    <foaf:name>Dasmahapatra, Dr Srinandan</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

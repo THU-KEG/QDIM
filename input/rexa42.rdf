@@ -1,0 +1,40 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document72c46217e006a512715d3311cf3ae3b954e2959c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond02ca4c839b36c024daece9aa1b884be26584b05"/>
+    <rdfs:label>Ontology Extraction for Distributed Environments.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document185258bd013bc47ec5c346526ec8d1f338cbc260">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond02ca4c839b36c024daece9aa1b884be26584b05"/>
+    <rdfs:label>Design and Implementation of the National Institute of Environmental Health Sciences Dublin Core Metadata Schema.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document37ef9d5ae4caea7c857c4a240508dbd9d39a7948">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond02ca4c839b36c024daece9aa1b884be26584b05"/>
+    <rdfs:label>Basic Gene Grammars and DNA-ChartParser for language processing of Escherichia coli promoter DNA sequences.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentece17e765f28dd7dcca7b8425d4fef0cd0d5115f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond02ca4c839b36c024daece9aa1b884be26584b05"/>
+    <rdfs:label>Des gn and Implementat on of the Nat onal Inst tute of Env ronmental Health Sc ences Dubl n Core Metadata Schema.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persond02ca4c839b36c024daece9aa1b884be26584b05">
+    <foaf:name>Dave Robertson</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

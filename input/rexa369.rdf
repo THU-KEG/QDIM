@@ -1,0 +1,35 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personcbcd1c9b62566e56a2db2279744954713b76dda6">
+    <foaf:name>Stuart E. Middleton</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3520e28d682348577e3920b0cfa09c96e34420b7">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person81A2053C95BC64338FC9E8AD663344EE29C94E9D"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personCFFDE8DD68C3B94067D54B32C4AC051981FF4318"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcbcd1c9b62566e56a2db2279744954713b76dda6"/>
+    <rdfs:label>Capturing knowledge of user preferences: ontologies in recommender systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personCFFDE8DD68C3B94067D54B32C4AC051981FF4318">
+    <foaf:name>Nigel Shadbolt</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person81A2053C95BC64338FC9E8AD663344EE29C94E9D">
+    <foaf:name>David De Roure</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

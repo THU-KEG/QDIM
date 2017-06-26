@@ -1,0 +1,130 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personca2e4c7709978fcdd40fa19ad4353f612b51dba5">
+    <foaf:name>Natasha Queiroz Lino</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person14942a6ef00911f08179bba174eb9e2d76a34809">
+    <foaf:name>Kit-ying Hui</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persond5e1d8a291fa6d43a438d745f388c717f962430c">
+    <foaf:name>Yun-Heh Chen-Burger</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personc324bfbd072c9eed435c25ce99281d68c1247556">
+    <foaf:name>D. Roberson</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0">
+    <foaf:name>Peter M D Gray</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person2e38b53e586ce61088405b621f91485390c613b5">
+    <foaf:name>Dave Roberston</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754">
+    <foaf:name>Jussi Stader</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb1e72d7dc59ed49ae24615552b0ebf187c47b53b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5c2096caab9afe6cbbc8b8f4e88eef22c2c1d028"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc324bfbd072c9eed435c25ce99281d68c1247556"/>
+    <rdfs:label>A Case-Based Reasoning Framework for Enterprise Knowledge Sharing an d Reusing.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person5c2096caab9afe6cbbc8b8f4e88eef22c2c1d028">
+    <foaf:name>Yun-Heh Chen-Burger</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person5c6badff16982b948b216e66c3f07221c23f0069">
+    <foaf:name>inandan Dasmahapatra</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personE94AD028A4DF7C9843380F3B1268E75C68F51FA3">
+    <foaf:name>Li Guo</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document214cbd6ad5dc5ddebd79c8f55f148ab29a6bea7d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5c2096caab9afe6cbbc8b8f4e88eef22c2c1d028"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personca2e4c7709978fcdd40fa19ad4353f612b51dba5"/>
+    <rdfs:label>Delivering Intelligent Planning Information to Mobile Device Users in Collaborative Environments.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentefdee67716b0aaa10690a94eff13523a3ae1f005">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5c2096caab9afe6cbbc8b8f4e88eef22c2c1d028"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person32219e357a98ca09fb72aa69ad425de4678b6e4b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person14942a6ef00911f08179bba174eb9e2d76a34809"/>
+    <rdfs:label>Supporting Collaboration Through Semantic-Based Workflow and Constraint Solving.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc">
+    <foaf:name>Yannis Kalfoglou</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person462d180d62267700f77d0e3ef74e936efd464193">
+    <foaf:name>Heh Chen-Burger</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3f4e7d36f73bd530087f11e9e58de0a5def2251d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5c2096caab9afe6cbbc8b8f4e88eef22c2c1d028"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2e38b53e586ce61088405b621f91485390c613b5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personE94AD028A4DF7C9843380F3B1268E75C68F51FA3"/>
+    <rdfs:label>Mapping a Business Process Model to a Semantic Web Service Model.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0">
+    <foaf:name>Austin Tate</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person8396aa0b0ad70b1fe8385b73794f2adcfbf473a5">
+    <foaf:name>David Robertson</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta42477c8bc783d9af8243b67fb8b75e5c71342cd">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5c6badff16982b948b216e66c3f07221c23f0069"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5c2096caab9afe6cbbc8b8f4e88eef22c2c1d028"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>FCA in Knowledge Technologies: Experiences and Opportunities.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person32219e357a98ca09fb72aa69ad425de4678b6e4b">
+    <foaf:name>Alun Preece</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7c2d4431de1e9b3c3e89fbdc7dd2182dec553fa1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person462d180d62267700f77d0e3ef74e936efd464193"/>
+    <rdfs:label>Formal support for adaptive workflow systems in a distributed environment.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB">
+    <foaf:name>Clauirton Siebra</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document30d370f8e913278c48fe1bcf740e0c477f028b4e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8396aa0b0ad70b1fe8385b73794f2adcfbf473a5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond5e1d8a291fa6d43a438d745f388c717f962430c"/>
+    <rdfs:label>Formal Support for an Informal Business Modelling Method.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+</rdf:RDF>

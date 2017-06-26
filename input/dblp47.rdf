@@ -1,0 +1,525 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Stein:Katrin.html">
+    <foaf:name>Katrin Stein</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/er/FoxvogB06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Foxvog:Douglas.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>Ontologizing EDI Semantics.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Finin:Timothy_W=.html">
+    <foaf:name>Timothy W. Finin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Feier:Cristina.html">
+    <foaf:name>Cristina Feier</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/icws/KrummenacherHPBF05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fensel:Dieter.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Polleres:Axel.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Hepp:Martin.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Krummenacher:Reto.html"/>
+    <rdfs:label>WWW or What Is Wrong with Web Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/deec/FoxvogB05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Foxvog:Douglas.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>Ontologizing EDI: First Steps and Initial Experience.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Krummenacher:Reto.html">
+    <foaf:name>Reto Krummenacher</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Moran:Matthew.html">
+    <foaf:name>Matthew Moran</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Hepp:Martin.html">
+    <foaf:name>Martin Hepp</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ao/RomanKLBLSPFBF05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Keller:Uwe.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bruijn:Jos_de.html"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lara:Rub=eacute=n.html"/>
+    <rdfs:label>Web Service Modeling Ontology.</rdfs:label>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fensel:Dieter.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lausen:Holger.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Stollberg:Michael.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Feier:Cristina.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Polleres:Axel.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Roman:Dumitru.html"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Garc=iacute=a=Crespo:=Aacute=ngel.html">
+    <foaf:name>Ángel García-Crespo</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/G=oacute=mez:Juan_Miguel.html">
+    <foaf:name>Juan Miguel Gómez</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ecra/FenselB02">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fensel:Dieter.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>The Web Service Modeling Framework WSMF.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Browne:Jim.html">
+    <foaf:name>Jim Browne</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Williams:Stuart_K=.html">
+    <foaf:name>Stuart K. Williams</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/o/Oren:Eyal.html">
+    <foaf:name>Eyal Oren</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html">
+    <foaf:name>Christoph Bussler</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/coopis/SchusterJHB96">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Heinl:Petra.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jablonski:Stefan.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Schuster:Hans.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>A General Framework for the Execution of Heterogenous Programs in Workflow Management Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fensel:Dieter.html">
+    <foaf:name>Dieter Fensel</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gal:Avigdor.html">
+    <foaf:name>Avigdor Gal</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gannon:Dennis.html">
+    <foaf:name>Dennis Gannon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ride/BusslerJ94">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jablonski:Stefan.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>Implementing Agent Coordination for Workflow Management Systems Using Active Database Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jablonski:Stefan.html">
+    <foaf:name>Stefan Jablonski</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/ijcis/YangB04">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/y/Yang:Jian.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>Guest Editors' Introduction: Service Oriented Modeling.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Miller:John_A=.html">
+    <foaf:name>John A. Miller</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/gidr/BusslerHJS97">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Heinl:Petra.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Schuster:Hans.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jablonski:Stefan.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>Transaktionsgestützte Ausführung von Workflows.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bruijn:Jos_de.html">
+    <foaf:name>Jos de Bruijn</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Mart=iacute=n:Fernando_Paniagua.html">
+    <foaf:name>Fernando Paniagua Martín</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Keller:Uwe.html">
+    <foaf:name>Uwe Keller</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Alor=Hern=aacute=ndez:Giner.html">
+    <foaf:name>Giner Alor-Hernández</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/pdis/SchusterJKB94">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jablonski:Stefan.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Schuster:Hans.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Kirsche:Thomas.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>A Client/Server Architecture for Distributed Workflow Management Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/semweb/FenselBM02">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Maedche:Alexander.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fensel:Dieter.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>Semantic Web Enabled Web Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/v/Vasiliu:Laurentiu.html">
+    <foaf:name>Laurentiu Vasiliu</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Paolucci:Massimo.html">
+    <foaf:name>Massimo Paolucci</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Benjamins:V=_Richard.html">
+    <foaf:name>V. Richard Benjamins</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/icdcs/SchusterJB97">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jablonski:Stefan.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Schuster:Hans.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>Client/Server Qualities: A Basis for Reliable Distributed Workflow Management Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Heinl:Petra.html">
+    <foaf:name>Petra Heinl</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/apweb/SapkotaKB06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sapkota:Brahmananda.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Kilgarriff:Edward.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>Role of Triple Space Computing in Semantic Web Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Acu=ntilde=a:C=eacute=sar_J=.html">
+    <foaf:name>César J. Acuña</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/iiwas/AcunaGMB05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Marcos:Esperanza.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/G=oacute=mez:Juan_Miguel.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Acu=ntilde=a:C=eacute=sar_J=.html"/>
+    <rdfs:label>A Web Portal Integration Architecture Based on Semantic Web Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Hofstede:Arthur_H=_M=_ter.html">
+    <foaf:name>Arthur H. M. ter Hofstede</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/internet/PetrieB06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Petrie:Charles_J=.html"/>
+    <rdfs:label>Industrial Semantics and Magic.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Kiepuszewski:Bartek.html">
+    <foaf:name>Bartek Kiepuszewski</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Kilgarriff:Edward.html">
+    <foaf:name>Edward Kilgarriff</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Kirsche:Thomas.html">
+    <foaf:name>Thomas Kirsche</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/sigmod/BusslerFM02">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Maedche:Alexander.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fensel:Dieter.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>A Conceptual Architecture for Semantic Web Enabled Web Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/emisa/JablonskiB93">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jablonski:Stefan.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>Objektorientierte Modellierung integrierter Informationssysteme.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Staab:Steffen.html">
+    <foaf:name>Steffen Staab</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/coopis/AalstBG04">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Aalst:Wil_M=_P=_van_der.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gal:Avigdor.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>PC Co-chairs' Message.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bell:David.html">
+    <foaf:name>David Bell</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Roman:Dumitru.html">
+    <foaf:name>Dumitru Roman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Foxvog:Douglas.html">
+    <foaf:name>Douglas Foxvog</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/wise/SapkotaVTRB05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Roman:Dumitru.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sapkota:Brahmananda.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/v/Vasiliu:Laurentiu.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Toma:Ioan.html"/>
+    <rdfs:label>Peer-to-Peer Technology Usage in Web Service Discovery and Matchmaking.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Petrie:Charles_J=.html">
+    <foaf:name>Charles J. Petrie</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/is/BellBY06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bell:David.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/y/Yang:Jian.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>The Semantic Web and Web Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lara:Rub=eacute=n.html">
+    <foaf:name>Rubén Lara</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/hicss/BusslerJ95">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jablonski:Stefan.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>Policy resolution for workflow management systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/internet/PetrieB03">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Petrie:Charles_J=.html"/>
+    <rdfs:label>Service Agents and Virtual Enterprises: A Survey.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/emisa/BusslerHJSS96">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Heinl:Petra.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Schuster:Hans.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jablonski:Stefan.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Stein:Katrin.html"/>
+    <rdfs:label>Das WWW als Benutzerschnittstelle und Basisdienst zur Applikationsintegration für Workflow-Management-Systeme.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Duke:Alistair.html">
+    <foaf:name>Alistair Duke</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Haller:Armin.html">
+    <foaf:name>Armin Haller</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sheth:Amit_P=.html">
+    <foaf:name>Amit P. Sheth</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/internet/BursteinBZFHPSW05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Paolucci:Massimo.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Williams:Stuart_K=.html"/>
+    <rdfs:label>A Semantic Web Services Architecture.</rdfs:label>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Finin:Timothy_W=.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sheth:Amit_P=.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/z/Zaremba:Michal.html"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Burstein:Mark_H=.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Huhns:Michael_N=.html"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/jisbd/AcunaGMB05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Marcos:Esperanza.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/G=oacute=mez:Juan_Miguel.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Acu=ntilde=a:C=eacute=sar_J=.html"/>
+    <rdfs:label>Una Arquitectura para la Integración de Portales Web basada en Servicios Web Semánticos.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Stollberg:Michael.html">
+    <foaf:name>Michael Stollberg</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wedekind:Hartmut.html">
+    <foaf:name>Hartmut Wedekind</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/icws/HallerCMOB05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cimpian:Emilia.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Mocan:Adrian.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Haller:Armin.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/o/Oren:Eyal.html"/>
+    <rdfs:label>WSMX - A Semantic Service-Oriented Architecture.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/caise/KiepuszewskiHB00">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Kiepuszewski:Bartek.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Hofstede:Arthur_H=_M=_ter.html"/>
+    <rdfs:label>On Structured Workflow Modelling.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/o/Omelayenko:Borys.html">
+    <foaf:name>Borys Omelayenko</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Toma:Ioan.html">
+    <foaf:name>Ioan Toma</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/bpm/StollbergRDB05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Roman:Dumitru.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Stollberg:Michael.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Duke:Alistair.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>Preface (WSCOBPM 2005).</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lausen:Holger.html">
+    <foaf:name>Holger Lausen</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Maedche:Alexander.html">
+    <foaf:name>Alexander Maedche</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/y/Yang:Jian.html">
+    <foaf:name>Jian Yang</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Schuster:Hans.html">
+    <foaf:name>Hans Schuster</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Huhns:Michael_N=.html">
+    <foaf:name>Michael N. Huhns</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Aalst:Wil_M=_P=_van_der.html">
+    <foaf:name>Wil M. P. van der Aalst</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sapkota:Brahmananda.html">
+    <foaf:name>Brahmananda Sapkota</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/pact/BusslerJKSW95">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wedekind:Hartmut.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Schuster:Hans.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jablonski:Stefan.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Kirsche:Thomas.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>Architectural Issues of Distributed Workflow Management Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Burstein:Mark_H=.html">
+    <foaf:name>Mark H. Burstein</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/o/Olmedo=Aguirre:Jos=eacute=_Oscar.html">
+    <foaf:name>José Oscar Olmedo-Aguirre</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/iceccs/GomezAOB05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/G=oacute=mez:Juan_Miguel.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Alor=Hern=aacute=ndez:Giner.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/o/Olmedo=Aguirre:Jos=eacute=_Oscar.html"/>
+    <rdfs:label>A B2B Conversational Architecture for Semantic Web Services Based on BPIMS-WS.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/flairs/OmelayenkoFB02">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fensel:Dieter.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/o/Omelayenko:Borys.html"/>
+    <rdfs:label>Mapping Technology for Enterprise Integration.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/icws/VasiliuZMBB04">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Browne:Jim.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/v/Vasiliu:Laurentiu.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/z/Zaremba:Michal.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Moran:Matthew.html"/>
+    <rdfs:label>Web-Service Semantic Enabled Implementation of Machine vs.Machine Business Negotiation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/aict/GomezMGB06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/G=oacute=mez:Juan_Miguel.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Garc=iacute=a=Crespo:=Aacute=ngel.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Mart=iacute=n:Fernando_Paniagua.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <rdfs:label>Modelling B2B Conversations with COOL for SemanticWeb Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Polleres:Axel.html">
+    <foaf:name>Axel Polleres</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/expert/StaabABSMBMFG03">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Aalst:Wil_M=_P=_van_der.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Benjamins:V=_Richard.html"/>
+    <rdfs:label>Web Services: Been There, Done That?</rdfs:label>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sheth:Amit_P=.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Maedche:Alexander.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fensel:Dieter.html"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Staab:Steffen.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gannon:Dennis.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Miller:John_A=.html"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/z/Zaremba:Michal.html">
+    <foaf:name>Michal Zaremba</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Marcos:Esperanza.html">
+    <foaf:name>Esperanza Marcos</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Domingue:John.html">
+    <foaf:name>John Domingue</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/aswc/RomanBMLDBF06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Roman:Dumitru.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Mocan:Adrian.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Domingue:John.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lausen:Holger.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fensel:Dieter.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bussler:Christoph.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bruijn:Jos_de.html"/>
+    <rdfs:label>WWW: WSMO, WSML, and WSMX in a Nutshell.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Mocan:Adrian.html">
+    <foaf:name>Adrian Mocan</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cimpian:Emilia.html">
+    <foaf:name>Emilia Cimpian</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

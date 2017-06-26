@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#personce58dc5fd4aae2fdbd1dab099e863f7e2e7e721b
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wickler:Gerhard.html
+0.9145196476281934
+http://kmi.open.ac.uk/fusion/dblp#documentdfe92c522715e37837e9c707872fd7384e33493c
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/otm/RybaW04
+1.0
+http://kmi.open.ac.uk/fusion/dblp#personaca20843d07ac54bd1804b3f9cfc6f3660c558b0
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Ryba:Michael.html
+0.6411685009250381

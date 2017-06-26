@@ -1,0 +1,89 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/policy/HansonBKSW07">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>Data-Purpose Algebra: Modeling Data Usage Policies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/semweb/Weitzner05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>Semantic Web Public Policy Challenges: Privacy, Provenance, Property and Personhood.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/www/Weitzner06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>Broken links on the web: local laws and the global free flow of information.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/acsac/Weitzner07">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>Personal Privacy without Computational Obscurity: Rethinking Privacy Protection Strategies for Open Information Networks.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/cacm/BermanW97">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>Directing Policy-Making Beyond the Net's Metaphor.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/internet/Weitzner07a">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>From Home to Home Page: New Challenges to Basic Notions of Privacy and Property.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/internet/Weitzner07b">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>Free Speech and Child Protection on the Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/internet/Weitzner07">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>Twelve Billion Bargaining Chips: The Web Side of the Net Neutrality Debate.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/internet/Weitzner07d">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>Beyond Secrecy: New Privacy Protection Strategies for Open Information Spaces.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/internet/Weitzner06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>In Search of Manageable Identity Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/policy/KagalBCW06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>Self-Describing Delegation Networks for the Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/internet/Weitzner07c">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>Whose Name Is It, Anyway? Decentralized Identity Systems on the Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/internet/Weitzner07e">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>Google, Profiling, and Privacy.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html">
+    <foaf:name>Daniel J. Weitzner</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/aaai/KagalBCW06">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Weitzner:Daniel_J=.html"/>
+    <rdfs:label>Using Semantic Web Technologies for Policy Management on the Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

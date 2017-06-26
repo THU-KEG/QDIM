@@ -1,0 +1,69 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/dagstuhl/TateDLN03">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dalton:Jeff.html"/>
+    <rdfs:label>Task-Achieving Agents on the World Wide Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/aips/TateLJD00">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dalton:Jeff.html"/>
+    <rdfs:label>Using AI Planning Technology for Army Small Unit Operations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/semweb/UszokBJTD04">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dalton:Jeff.html"/>
+    <rdfs:label>Applying KAoS Services to Ensure Policy Compliance for Semantic Web Services Workflow Composition and Enactment.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/expert/UszokBJJTDA04">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dalton:Jeff.html"/>
+    <rdfs:label>KAoS Policy Management for Semantic Web Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/aai/PageMRSCDPTSEBK05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dalton:Jeff.html"/>
+    <rdfs:label>Collaboration in the Semantic Grid: A Basis for E-Learning.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/aaai/TateDSABU04">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dalton:Jeff.html"/>
+    <rdfs:label>Intelligent Agents for Coalition Search and Rescue Task Support.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/aips/TateDL98">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dalton:Jeff.html"/>
+    <rdfs:label>Generation of Multiple Qualitatively Different Plan Options.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/aaai/TateDL00">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dalton:Jeff.html"/>
+    <rdfs:label>O-Plan: A Web-Based AI Planning Agent.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/aaai/TateDD94">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dalton:Jeff.html"/>
+    <rdfs:label>The Use of Condition Types to Restrict Search in an AI Planner.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/expert/LevineTD00">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dalton:Jeff.html"/>
+    <rdfs:label>O-P3: Supporting the Planning Process using Open Planning Process Panels.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dalton:Jeff.html">
+    <foaf:name>Jeff Dalton</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

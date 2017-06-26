@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#documentaa0ab92ad76a6ffc4aaf8f3483da9c85c7ab3ea0
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/atal/AshriLd04
+0.7258266617719644
+http://kmi.open.ac.uk/fusion/dblp#persone813f4de07f5ae20c04c03df3d7f528cfa39e0bd
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Ashri:Ronald.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#documentf8ab53dd8a74a81d88ae0f07067a041eeabbe812
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/pakm/WillsAACKK02
+0.7258266617719644

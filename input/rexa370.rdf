@@ -1,0 +1,49 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86">
+    <foaf:name>Steffen Staab</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1fea379d5e1aacc277b44a9fd79b8d3bfbb2ebe0">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8aa1f85770cd941af207f857588823049db3ee39"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person951951d9e5f6b9a0e74dcea7db36c1ca458b951d"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>S-CREAM - Semi-automatic CREAtion of Metadata.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person951951d9e5f6b9a0e74dcea7db36c1ca458b951d">
+    <foaf:name>Siegfried Handschuh</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person113caf99433a75a5d9d545962553d3d48aa36d74">
+    <foaf:name>S. Handschuh</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person8aa1f85770cd941af207f857588823049db3ee39">
+    <foaf:name>Fabio Ciravegna</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person35e9be82a3a394b5a390a6726fbdd8a80bd1e8bb">
+    <foaf:name>Ciravegna F. S</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentbbd22abb786d11550a15d7d9876e1e060537fa8b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person35e9be82a3a394b5a390a6726fbdd8a80bd1e8bb"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person113caf99433a75a5d9d545962553d3d48aa36d74"/>
+    <rdfs:label>CREAM -- Semi-automatic CREAtion of Metadata.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

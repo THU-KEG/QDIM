@@ -1,0 +1,17 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#document1636383653_123
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/nldb/LopezM04
+1.0
+http://kmi.open.ac.uk/fusion/dblp#person1788520599_223
+2
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Motta:Enrico.html
+0.7847222222222222
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lopez:Vanessa.html
+0.22341269841269842
+http://kmi.open.ac.uk/fusion/dblp#person-180082568_222
+2
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Motta:Enrico.html
+0.18035714285714285
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lopez:Vanessa.html
+0.7857142857142857

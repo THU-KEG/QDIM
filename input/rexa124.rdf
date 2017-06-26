@@ -1,0 +1,328 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta0d0440b839974a2e7c536ff133bae90e0053443">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2f173d0f0229d4594b11af276c0c58310dd5f399"/>
+    <rdfs:label>Representing hard-to-formalise, contextualised, multidisciplinary, organisational knowledge.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentbe8989a51f84ca3c46b46c26bd2dc59e0e5f2e2d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Cognitive Coherence Relations and Hypertext: From Cinematic Patterns to Scholarly Discourse.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentcf39962df133df37aa807db37a416fef03e13165">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Strategies and Asymmetries in Route Choices on Maps.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0f7c08ecf360b8e0ab9f0748fbc0187f21a1c6ce">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>The roots of computer supported argument visualization. Visualizing Argumentation: Software Tools for Collaborative and Educational Sense-Making.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc9ed682be930bed606a25669e3f94a42e2f88dc1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Knowledge Extraction by using an Ontology-bases Annotation Tool.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0003152e90cf2496f8238f164b98ff8ec3e15c25">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>ClaiMaker: Weaving a Semantic Web of Research Papers.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta8322487dc46c5b2aa950c3d6ca1e0d91f2dc6c1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Analyzing the Usability of a Design Rationale Notation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentcd5e42ea7026c67023c636270d22ca309c9f9d1d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Visualizing internetworked argumentation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd299ae5d1f8b6eb9303caa471079dd5b7c2c06a1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>World Wide Web usability: introduction to this special issue.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentf46bd92eda89c0c2b03e983acbb7f0d0a5c9e453">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Repurposing Requirements: Improving Collaborative Sensemaking over the Lifecycle.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document6f323eb0303c32aa379284d20bfdfc46e70480ac">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Negotiating the Construction of Organisational Memory Using Hypermedia Argument Spaces.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7284ccdab9c8920a93dfac94ce988c7599b8a286">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Representing Scholarly Claims in Internet Digital Libraries: A Knowledge Modelling Approach.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document9d81bc3bc737124bbaa47035ebb5b91cce96215a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Supporting ontology driven document enrichment within communities of practice.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta7c75aaaec8232f2eb5c8b285a31c02551352106">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Analyzing the Usability of a Design Rationale Notation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7f96a0a948f986719f425e12db83cbe3308df814">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Cognitive coherence relations and hypertext: from cinematic patterns to scholarly discourse.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document9db4a2452d6e7179736cec9e20819d8ab04824ac">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Solid reconstruction from orthographic opaque views using incremental extrusion.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document6ef87a0de07b20882feabb1b174e5ce46e1c477a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Eds.) World Wide Web Usability: Special Issue, Int.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854">
+    <foaf:name>Buckingham Shum</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc6170b46d87e6199be2b1777427d82f0872b68cf">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Balancing formality with informality: user centered requirements for knowledge management technologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd431abf922a76e283fc09af82ca67c6d1c71e8a1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Web-based Audio/Visual Interaction as Reusable Organisational Expertise.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document59b4763c5a5460112403ccebe5c7722b2642432c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Negotiating the Construction and Reconstruction of Organisational Memories.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentcf532b3d36154e4e65a57a87fd4c66bf8c17e97d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Scholarly Discourse as Computable Structure.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4bccd2a1b2d586bd6bed699b50cbe24220532497">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Semi-automatic annotation of contested knowledge on the world wide web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document6c535d77acff6fe97211978d1ca3593c2d53aa8c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Knowledge Representation with Ontologies: The Present and Future.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document32b76a9d7edeabaab66869d2bfda2465eeb71756">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Large scale telepresence and knowledge management.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente86dce04adecfa09a729dc1e478f3fd4fb91bb11">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Representing Scholarly Claims in Internet Digital Libraries: A Knowledge Modelling Approach.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document06d981f20c3b2bfd6084b36b58feaf1739fbeded">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Training software engineers in a novel usability evaluation technique.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person2f173d0f0229d4594b11af276c0c58310dd5f399">
+    <foaf:name>Buckingham Shum Simon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document232bcabc731e96d2af5c98a4dc1d7716c31ea69c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Eds.) World Wide Web Usability: Special Issue.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document63bc652d5bb2688ff716b65376097c0ab0d2237d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Towards 'cinematic' hypertext.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1f39b5717de5087c396a1b8dc609cdc50f326f10">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Multidisciplinary Modelling for User-Centred System Design: An Air-traffic Control Case Study.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1df2bdde5eb7e1643b2e085fb42c5d0277304586">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>B823 Experiences with Lyceum.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document8887440148e3d1e2c50f8338b2fe4d75524a531e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>JIME: An Interactive Journal for Interactive Media.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7db8762d73a8fbc570b974e265d230f0df88682d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Open Peer Review &amp; Argumentation: Loosening the Paper Chains on Journals. Ariadne (Bi-Monthly Magazine of the UK Electronic Libraries Programme) Issue 5.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1e5c6708e71cb910df1510aa3eb052c75376fcc5">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Ontology-driven document enrichment: princilpes, tools and applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenteb7d20bdeb55b693c292365e82ffb7f5808486ba">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Negotiating the Construction of Organisational Memories.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document9a433194120728fd31bc615e00b7127a13038aed">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Educational Authoring Tools and the Educational Object Economy: Introduction to this Special Issue from the East/West Group.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0acc2b5be0ab8d95f0c99abbb1aee6c7ce793838">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Designing representational coherence into an infrastructure for collective sensemaking.. Invited contribution to.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2a7f59d9e2871d8abf20c3fd2b2a7b54e3589a9f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Design Argumentation as Design Rationale.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document46d8043073d83c1435c205815067d50cb2b08790">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Negotiating the construction of organisational memories.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1d6d9a67be52b61f2391c675a187c68c783a09c1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Redesigning the Peer Review Process: A Developmental Theory-in-Action.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc36965a5a064e00f78a5dd97e7e1c9c5f8ac7a2c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Rapid knowledge construction: a case study in corporate contingency planning using collaborative hypermedia.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document328322011ce826107aca9b0afd217b270954dfea">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>CoAKTinG: Collaborative Advanced Knowledge Technologies in the Grid.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C">
+    <foaf:name>Simon Buckingham Shum</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2b7189425d0b10283de3c213aa68e184f8168343">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Template Driven Information Extraction for Populating Ontologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente7966fa2b08f4b063cdd941856f0515f2d572916">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>From Documents to Discourse: Shifting Conceptions of Scholarly Publishing.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7761ecbb52a3701ef57af9957c3a9b7c11702979">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>A Toolkit for Publishing Web Discussion Documents: Design Principles and Case Studies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document19ecfccec1540064306276e48cee461bd89519e9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Ontology-driven document enrichment: principles, tools and applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document55ad82599064e961f3038bf38d08b99e338ed6cd">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>ScholOnto: an ontology-based digital library server for research documents and discourse.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document6008ddec88d472d502cf407e1690a5c33a9f983b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>New Scenarios in Scholarly Publishing and Debate.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document76f6151bcd0bbf0ecb640972c1731682b75b4701">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Negotiating the Construction of Organizational Memories.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente0911aeb0314cf8c281d9a08b1bddc2ed031fd37">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Negotiating the Construction and Reconstruction of Organisational Memories.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1cf963805a03621788c59bab6ff2bddeca92e49e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Structuring Discourse for Collective Interpretation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente12236442fa99c075e0a84d391de8ee550ced844">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>On the Future of Journals: Digital Publishing and Argumentation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document30923a1aa5462228acb9fae57501ceb3f7659637">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Scholarly Discourse as Computable Structure.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenteca50af4742c1b1c12131ffbff38ff32ad256fa5">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Managing Research Knowledge in Distributed Communities: Two Approaches to Augmented Web Infrastructures.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document165b301524dd55f7ceae94bd3c829937b2327be5">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>MyPlanet: an ontology-driven Web-based personalised news service.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document61c18105a9db85d295aab31d280ba8399d8a84ab">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2f173d0f0229d4594b11af276c0c58310dd5f399"/>
+    <rdfs:label>Representing Hard-to-Formalise.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentbc9657ba6133a82cdb1c7b9df6472dfd31f92902">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <rdfs:label>Facilitated hypertext for collective sensemaking: 15 years on from gIBIS.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document453bd1464ec8c7c38d9c520f102cb9c11d27a07e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Practise what we preach: Making HCI design techniques usable.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentfe714b7551a0c529555b0d8ec9a531152b3dbeea">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Modelling Naturalistic Argumentation in Research Literatures: Representation and Interaction Design Issues.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0f311837c945a52ad1625368e85af04b71154c50">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>KMi Stadium: Webbased Audio.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc81dcc19e2a492e517c68df47dd6ec0b28d22201">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854"/>
+    <rdfs:label>Balancing Formality with Informality: User-Centred Requirements for Knowledge Management Technologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

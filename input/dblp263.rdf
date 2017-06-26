@@ -1,0 +1,164 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Funk:Adam.html">
+    <foaf:name>Adam Funk</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/dexaw/BontchevaCMTS02">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cunningham:Hamish.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Saggion:Horacio.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bontcheva:Kalina.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tablan:Valentin.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Maynard:Diana.html"/>
+    <rdfs:label>Developing Reusable and Robust Language Processing Components for Information Systems using GATE.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/semweb/FunkTBCDH07">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cunningham:Hamish.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Davis:Brian.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Handschuh:Siegfried.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bontcheva:Kalina.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tablan:Valentin.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Funk:Adam.html"/>
+    <rdfs:label>CLOnE: Controlled Language for Ontology Editing.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bontcheva:Kalina.html">
+    <foaf:name>Kalina Bontcheva</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lydon:Susannah_J=.html">
+    <foaf:name>Susannah J. Lydon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dowman:Mike.html">
+    <foaf:name>Mike Dowman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Maynard:Diana.html">
+    <foaf:name>Diana Maynard</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/talip/MaynardTBC03">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cunningham:Hamish.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bontcheva:Kalina.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tablan:Valentin.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Maynard:Diana.html"/>
+    <rdfs:label>Rapid customization of an information extraction system for a surprise language.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Popov:Borislav.html">
+    <foaf:name>Borislav Popov</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dewsnip:Michael.html">
+    <foaf:name>Michael Dewsnip</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/www/DowmanTCP05">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cunningham:Hamish.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dowman:Mike.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Popov:Borislav.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tablan:Valentin.html"/>
+    <rdfs:label>Web-assisted annotation, semantic indexing and search of television and radio news.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Saggion:Horacio.html">
+    <foaf:name>Horacio Saggion</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cunningham:Hamish.html">
+    <foaf:name>Hamish Cunningham</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/coling/CristeaIMT00">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cristea:Dan.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/i/Ide:Nancy.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Marcu:Daniel.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tablan:Valentin.html"/>
+    <rdfs:label>An Empirical Investigation of the Relation Between Discourse Structure and Co-Reference.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/jodl/WittenDDT04">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Witten:Ian_H=.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Don:Katherine_J=.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dewsnip:Michael.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tablan:Valentin.html"/>
+    <rdfs:label>Text mining in a digital library.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/acl/CunninghamMBT02">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cunningham:Hamish.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bontcheva:Kalina.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tablan:Valentin.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Maynard:Diana.html"/>
+    <rdfs:label>A framework and graphical development environment for robust NLP tools and applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Don:Katherine_J=.html">
+    <foaf:name>Katherine J. Don</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Handschuh:Siegfried.html">
+    <foaf:name>Siegfried Handschuh</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Marcu:Daniel.html">
+    <foaf:name>Daniel Marcu</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Davis:Brian.html">
+    <foaf:name>Brian Davis</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Witten:Ian_H=.html">
+    <foaf:name>Ian H. Witten</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/nldb/WoodLTMC04">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cunningham:Hamish.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lydon:Susannah_J=.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wood:Mary_McGee.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tablan:Valentin.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Maynard:Diana.html"/>
+    <rdfs:label>Populating a Database from Parallel Texts Using Ontology-Based Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tablan:Valentin.html">
+    <foaf:name>Valentin Tablan</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wood:Mary_McGee.html">
+    <foaf:name>Mary McGee Wood</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/i/Ide:Nancy.html">
+    <foaf:name>Nancy Ide</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/conf/ranlp/WoodLTMC03">
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cunningham:Hamish.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lydon:Susannah_J=.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wood:Mary_McGee.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tablan:Valentin.html"/>
+    <opus:author rdf:resource="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Maynard:Diana.html"/>
+    <rdfs:label>Using parallel texts to improve recall in botany.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cristea:Dan.html">
+    <foaf:name>Dan Cristea</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

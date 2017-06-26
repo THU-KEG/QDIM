@@ -1,0 +1,45 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document82925bc62d8a23d2d2414e32b020d36abd01b328">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person56e4af469c4d25aebeac29588c164dcddb60f014"/>
+    <rdfs:label>Qualitative Analysis of User-Based and Item-Based Prediction Algorithms for Recommendation Agents.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document04a02de31609a5ae53827226917fdbcc5d215cf2">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person56e4af469c4d25aebeac29588c164dcddb60f014"/>
+    <rdfs:label>Generalizing the AGM postulates: preliminary results and applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0daf57b1acdbf7f7011bdfc2466679a81b790b31">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person56e4af469c4d25aebeac29588c164dcddb60f014"/>
+    <rdfs:label>Optimizing taxonomic semantic web queries using labeling schemes.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person56e4af469c4d25aebeac29588c164dcddb60f014">
+    <foaf:name>Dimitris Plexousakis</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente1324c78053d4181c4f0cc5387e3e47352bf8c0f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person56e4af469c4d25aebeac29588c164dcddb60f014"/>
+    <rdfs:label>editors.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentcde6533d09e7650b5a637bd1da0900d4923bf432">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person56e4af469c4d25aebeac29588c164dcddb60f014"/>
+    <rdfs:label>Querying and Viewing the Semantic Web: An RDF-Based Perspective.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

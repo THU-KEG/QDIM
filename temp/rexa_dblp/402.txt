@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#person812886909a6ced12c1ec37f24b4d97c816572f28
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sumner:Tamara.html
+0.8135901338796215
+http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Shum:Simon_Buckingham.html
+0.7260171218278738
+http://kmi.open.ac.uk/fusion/dblp#document8887440148e3d1e2c50f8338b2fe4d75524a531e
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/firstmonday/ShumS01
+1.0

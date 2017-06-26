@@ -1,0 +1,69 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-226963419_156">
+    <foaf:name>Chapman, Sam</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1220361202_160">
+    <foaf:name>Harris, Stephen</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1387931823_159">
+    <foaf:name>Gibbins, Nicholas</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person574408210_62">
+    <foaf:name>Shadbolt, Nigel</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-190201306_75">
+    <foaf:name>Glaser, Hugh</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1106143456_158">
+    <foaf:name>Dingli, Alexiei</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-2121025713_161">
+    <foaf:name>schraefel, m.c.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-802348701_157">
+    <foaf:name>Ciravegna, Fabio</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person2110105480_155">
+    <foaf:name>Carr, Les</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-127752535_25">
+    <foaf:name>Alani, Harith</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document449970439_73">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-226963419_156"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2121025713_161"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-127752535_25"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-190201306_75"/>
+    <rdfs:label>CS AKTiveSpace: Building a Semantic Web Application.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1220361202_160"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1387931823_159"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1106143456_158"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person574408210_62"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-802348701_157"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2110105480_155"/>
+  </rdf:Description>
+</rdf:RDF>

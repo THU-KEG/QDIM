@@ -1,0 +1,45 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person435f26b564a2868b7dcc3cdd733230c0ec2a8299">
+    <foaf:name>Hamish Cunningham</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta638df4073df9f676eed951dd278676265946d69">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persona767e6ef9d53e10343475bb7d0e62d5e8bd6c503"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone8d0549a50febcc367c07d928c9f135ae4ad9fb4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personec740a1480b8e52738999b861c1e81d230b6bb0a"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person435f26b564a2868b7dcc3cdd733230c0ec2a8299"/>
+    <rdfs:label>Developing Reusable and Robust Language Processing Components for Information Systems using GATE.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personec740a1480b8e52738999b861c1e81d230b6bb0a">
+    <foaf:name>Horacio Saggion</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba">
+    <foaf:name>Valentin Tablan</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone8d0549a50febcc367c07d928c9f135ae4ad9fb4">
+    <foaf:name>Kalina Bontcheva</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persona767e6ef9d53e10343475bb7d0e62d5e8bd6c503">
+    <foaf:name>Diana Maynard</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

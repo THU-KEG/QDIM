@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#person6154e05510cf03a616368a3be6e6e287f5f1a2e0
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Page:Kevin_R=.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#documentf64cc146609e2edb9ec54274473dc0ecb9d2dd91
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/ht/RoureCMPW02
+0.7609981355999027
+http://kmi.open.ac.uk/fusion/dblp#document42ea31cf2468280fd40850e5c766850de75d4b3c
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/ohs/BealesCRGJMP01
+0.7609981355999027

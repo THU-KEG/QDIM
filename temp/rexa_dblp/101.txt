@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#person61e0343641e0cac7faf122117ec038b7a31f3ef0
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fairtlough:Matt.html
+0.910871006665691
+http://kmi.open.ac.uk/fusion/dblp#person84596530d3f45804c7f2d86fa19b1a4e1ee704fb
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/n/Norton:Barry.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#document452b4a752c8efcda68270a363563fcc9a3fff309
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/wicsa/NortonF04
+0.9855089437041855

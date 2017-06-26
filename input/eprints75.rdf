@@ -1,0 +1,60 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person2076855993_188">
+    <foaf:name>Uren, Dr. Victoria</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1529088467_214">
+    <foaf:name>Pacheco, Prof. Roberto</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1993700421_206">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-156501778_152"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1656801956_122"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person663293381_154"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person652895093_312"/>
+    <rdfs:label>Exploiting Semantic Association To Answer Vague Queries.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-769161335_153">
+    <foaf:name>Gonçalves, Mr. Alexandre</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person652895093_312">
+    <foaf:name>Song, Dr. Dawei</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person663293381_154">
+    <foaf:name>Denham, Mr. Chris</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1656801956_122">
+    <foaf:name>Eisenstadt, Prof. Marc</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-691340518_220">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-156501778_152"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person652895093_312"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-769161335_153"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1529088467_214"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2076855993_188"/>
+    <rdfs:label>LRD: Latent Relation Discovery for Vector Space Expansion and Information Retrieval.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-156501778_152">
+    <foaf:name>Zhu, Dr. Jianhan</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

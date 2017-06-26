@@ -1,0 +1,125 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentcf32b6cbbd4c49b92ba659f1591046be788d23b7">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>A flexible architecture for content and concept based multimedia information exploration.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7c799e1ca3a9a3b2a102fa59e5cfdccf96143628">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>Auld linky: A contextual open hypermedia link server.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document075488e9fc51f99745fb8059122faaeadd4e15c1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>Reconciling Versioning and Context in Hypermedia Structure Servers.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5c1f6f56274169d7319d0365a8ca8e2caed7559b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>Auld Leaky: A Contextual Open Hypermedia Link Server.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0c1c21ae7e6682fe0ba8546fc59db440ba337229">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>Building narrative structures using context based linking.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentbabbec4c4896059f5b2247c654a33ed4d12c5fa9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>Flexible interfaces in the industrial environment.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7b49dae4bca123c2ce19bc7ff753196a61c0e0e9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>Open hypermedia as a navigational interface to ontological information spaces.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document355cb21679d6df457826504d068c09de37d30a9d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>Automating the linking of content and concept.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7ac7488f3fa34da8fce04e9bf9b8c51a437d2981">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>Automatic Ontology-Based Knowledge Extraction from Web Documents.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentbad0d3147136d6f9db359e23d04ab8252693cb33">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>A contextual open hypermedia link server.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentaca3782c96177a44ed4ce19f60e7cbeb96eb57d7">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>AHA! meets Auld Linky: integrating designed and free-form hypertext systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd120f2747362cec9b636a7ebd9665148f6626c85">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>A Structural Approach to Adaptive Hypermedia.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd352197a9aa57919a81beba3ff5129448426be9e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>The ambient wood journals: replaying the experience.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentde825d16a6543bdc73ce6bb0cf123d002dd34c59">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>Links in the palm of your hand: tangible hypermedia using augmented reality.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e">
+    <foaf:name>Mark J. Weal</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document57355198db6e9663dcd78916c45e43327726b4ca">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>leaky: A contextual open hypermedia link server.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentf64cc146609e2edb9ec54274473dc0ecb9d2dd91">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>On hyperstructure and musical structure.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta84dc07a4adcc196e8af4e23af45b9623f31f9d4">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>Navigational hypertext models For physical hypermedia environments.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentdfd22249e51877c6f196f7e6e1b9b61c1548939a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>Hyperdoc: An Adaptive Narrative System for Dynamic Multimedia Presentations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb07134320873f9cda7c181622aeba0b62f1359d2">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>On writing sculptural Hypertext.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document68050e6a8e33020c0389abf65dfb8343b1a71bbc">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>Web based Knowledge Extraction and Consolidation for Automatic Ontology Instantiation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document450d25cf810a4024822f67d9927c34c1e6745bd2">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <rdfs:label>Towards Open Adaptive Hypermedia.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

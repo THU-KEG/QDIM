@@ -1,0 +1,11 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document-1265265627_181
+2
+http://dblp.uni-trier.de/rec/bibtex/conf/iat/WicklerPTPS07
+0.26804123711340205
+http://dblp.uni-trier.de/rec/bibtex/conf/otm/RybaW04
+0.26804123711340205
+http://kmi.open.ac.uk/fusion/dblp#person1840958368_290
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wickler:Gerhard.html
+0.8571428571428572

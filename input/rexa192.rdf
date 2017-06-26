@@ -1,0 +1,70 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta8198885d23c8ba4b54e7ef7553ed334d8f399fa">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf"/>
+    <rdfs:label>CS AKTiveSpace: Building a Semantic Web Application.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc8bd9619030d9ce98795d7402fe9b6ae168411e6">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf"/>
+    <rdfs:label>User-System Cooperation in Document Annotation Based on Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentafd2ec6d02d5aeb324f6be472f296c2087f747d1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf"/>
+    <rdfs:label>Learning to Harvest Information for the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document676730a7fa8a755cf673f8df75f40e76f9bea82a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf"/>
+    <rdfs:label>Mining Web Sites Using Unsupervised Adaptive Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document06def5952a012f93075b2c5af5b10fd577d83fb0">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf"/>
+    <rdfs:label>User-System Cooperation in Document Annotation based on Information Extraction. Proceedings of the 13th International Conference on.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenteb4dc9dbced3f2329786215360fa8f02fe73cf59">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf"/>
+    <rdfs:label>Using Adaptive Information Extraction for Effective Human-Centred Document Annotation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentdb2841f2443fbd27da95c4458dff31530e871502">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf"/>
+    <rdfs:label>Adaptive information extraction for document annotation in amilcare.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf">
+    <foaf:name>Alexiei Dingli</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentfa31a5f9070cd4fecfaaf67f224b10e996434474">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf"/>
+    <rdfs:label>Armadillo: harvesting information for the semantic web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente6ecae77c70710c726dc4a23d7162c7f48630459">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf"/>
+    <rdfs:label>Integrating Information to Bootstrap Information Extraction from Web Sites.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2e51f6b59ee460506a9aa7fcbc918fe72e1a7c0a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf"/>
+    <rdfs:label>Mining Web Sites Using Unsupervised Adaptive Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

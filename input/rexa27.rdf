@@ -1,0 +1,106 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person5357341952ed59ee2dbc427b68cc48d3c177ca5b">
+    <foaf:name>S. Staab</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personc718b7c40c031ae54dd4475d5101ed3da00b5ca3">
+    <foaf:name>Gerd Stumme</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personB2F8B102B094EC6889565FA246CD33A7B9C2A95C">
+    <foaf:name>Alexander Maedche</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person186bca66bc9db6b8bf23223a38bbf647526958f1">
+    <foaf:name>Bettina Berendt</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document72ffb1857bc14ed9b6cf3bfc7bde405208195fe8">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2b85ee0a8dabba321f91fe4625dc4926d53e9d91"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person186bca66bc9db6b8bf23223a38bbf647526958f1"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc718b7c40c031ae54dd4475d5101ed3da00b5ca3"/>
+    <rdfs:label>Towards Semantic Web Mining.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person2b85ee0a8dabba321f91fe4625dc4926d53e9d91">
+    <foaf:name>Andreas Hotho</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person26FCFDE37CDAECA5548341EF2CCC50CD543AACC5">
+    <foaf:name>Daniel Oberle</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person229068d9c3047736a4051322e8dc52ef0fcb5279">
+    <foaf:name>R. Volz</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person8d1243ab29a518a313f3f8ab8a99377d01e85965">
+    <foaf:name>Ljiljana Stojanovic</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person443c1845c6b24b43bd17a65f928676bc1fa8fbdc">
+    <foaf:name>Rudi Studer</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7b373accc11d266b5080fce1f2d7f3e26e637100">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personB2F8B102B094EC6889565FA246CD33A7B9C2A95C"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5357341952ed59ee2dbc427b68cc48d3c177ca5b"/>
+    <rdfs:label>Kaon - towards a large scale semantic web.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person26FCFDE37CDAECA5548341EF2CCC50CD543AACC5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2361fe3171cea3666e0592d873ce70a5b4256d8e"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf7fa8585e7be8744d054ff342c04037ff61e6584"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person443c1845c6b24b43bd17a65f928676bc1fa8fbdc"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc718b7c40c031ae54dd4475d5101ed3da00b5ca3"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8d1243ab29a518a313f3f8ab8a99377d01e85965"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person9f6a4f99978858bf23288a3f2aae6cd2ac9362ce"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2b85ee0a8dabba321f91fe4625dc4926d53e9d91"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person123c1d8e7c1f6ff3d5e11cb17f1bf23d20f6b734"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person229068d9c3047736a4051322e8dc52ef0fcb5279"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personfa822c884749ae8d0c14923ebbcd2c044fb77266"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6b07b61589499934df3ffaacaf110f0b9639ea96"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person113caf99433a75a5d9d545962553d3d48aa36d74"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person6b07b61589499934df3ffaacaf110f0b9639ea96">
+    <foaf:name>Boris Motik</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person123c1d8e7c1f6ff3d5e11cb17f1bf23d20f6b734">
+    <foaf:name>Nikola Stojanovic</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personf7fa8585e7be8744d054ff342c04037ff61e6584">
+    <foaf:name>Christelle Schmitt</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person2361fe3171cea3666e0592d873ce70a5b4256d8e">
+    <foaf:name>Julien Tane</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personfa822c884749ae8d0c14923ebbcd2c044fb77266">
+    <foaf:name>Marc Ehrig</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person113caf99433a75a5d9d545962553d3d48aa36d74">
+    <foaf:name>S. Handschuh</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person9f6a4f99978858bf23288a3f2aae6cd2ac9362ce">
+    <foaf:name>York Sure</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

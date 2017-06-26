@@ -1,0 +1,50 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1fb9b0a739b54a299d5128a241b52604523f89d1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person951951d9e5f6b9a0e74dcea7db36c1ca458b951d"/>
+    <rdfs:label>Towards the self-annotating web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document06232c70aef1c12a8300dc0d25a9e2926fc50f5e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person951951d9e5f6b9a0e74dcea7db36c1ca458b951d"/>
+    <rdfs:label>Annotation, composition and invocation of semantic web services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentddf610e82fc6cacb1a5f2521bafce5d03b539ee3">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person951951d9e5f6b9a0e74dcea7db36c1ca458b951d"/>
+    <rdfs:label>Web Semantics: Science, Services and Agents on the.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document952c0ce49c70b98dab0b8600f9fa977a85a8d4c6">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person951951d9e5f6b9a0e74dcea7db36c1ca458b951d"/>
+    <rdfs:label>Unveiling the hidden bride: deep annotation for mapping and migrating legacy data to the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1fea379d5e1aacc277b44a9fd79b8d3bfbb2ebe0">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person951951d9e5f6b9a0e74dcea7db36c1ca458b951d"/>
+    <rdfs:label>S-CREAM - Semi-automatic CREAtion of Metadata.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person951951d9e5f6b9a0e74dcea7db36c1ca458b951d">
+    <foaf:name>Siegfried Handschuh</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document234b0855f478d6080dcebf73003a9ef8e7f239a3">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person951951d9e5f6b9a0e74dcea7db36c1ca458b951d"/>
+    <rdfs:label>INSYDER - an information assistant for business intelligence.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

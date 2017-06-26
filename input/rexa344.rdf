@@ -1,0 +1,45 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentf91c06269688574b2a12a14eb0d94eb5c7ee17c9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37"/>
+    <rdfs:label>Making tea: iterative design through analogy.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document9cbfaaa9d3e8cb4bee6d61e327457fe9163c7020">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37"/>
+    <rdfs:label>Publication At Source: Scientific Communication from a Publication Web to a Data Grid.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7505f8bf1db828f81d18ed6e445f2e6d839109d7">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37"/>
+    <rdfs:label>Modeling and Managing State in Distributed Systems: The Role of OGSI and WSRF.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document985cb1e68794372119f4bb364d8ade14c9a4bf1d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37"/>
+    <rdfs:label>The semantic smart laboratory: a system for supporting the chemical eScientist.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37">
+    <foaf:name>Jeremy Frey</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3bc020b2e4336675e773b45e432e490012167c22">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37"/>
+    <rdfs:label>Breaking the book: translating the chemistry lab book into a pervasive computing lab environment.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

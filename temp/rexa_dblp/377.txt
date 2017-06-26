@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#person0DF2F404B2FF7978899EBF27EF6009673E54C40B
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Motta:Enrico.html
+0.7491706399434938
+http://kmi.open.ac.uk/fusion/dblp#person46e72126251b47729d5836a1999b3b03826741bd
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Domingue:John.html
+0.7491706399434938
+http://kmi.open.ac.uk/fusion/dblp#person7c2557ed75da68340bf06dcaa5ad41a18d508397
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dzbor:Martin.html
+0.7491706399434938
+http://kmi.open.ac.uk/fusion/dblp#documentc5af415da5a96fe17e0d77e2d019f758cecd536f
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/esws/DomingueDM04
+1.0

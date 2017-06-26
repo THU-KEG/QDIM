@@ -1,0 +1,35 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person75F14D103AD21883544C4DA98504B837701B26FE">
+    <foaf:name>Marian Petre</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person2121238759f1092c7ef139bc74e28aff38ae1bb2">
+    <foaf:name>D. Zotta</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3a2a477c6883e27761ce9745be04ef4e18028140">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2bcfbb46972baad578b9b9c39077d9327373b70c"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2121238759f1092c7ef139bc74e28aff38ae1bb2"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person75F14D103AD21883544C4DA98504B837701B26FE"/>
+    <rdfs:label>Intelligent Gis and Retail Location Dynamics: A Multi Agent System Integrated with ArcGis.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person2bcfbb46972baad578b9b9c39077d9327373b70c">
+    <foaf:name>S. Lombardo</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

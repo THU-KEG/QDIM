@@ -1,0 +1,45 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2bc9dc61156b3186156ea8bf3ac9763e4af8f477">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person568b0f516e67822a4744474e3901e71d755e6cbe"/>
+    <rdfs:label>Decision Network Semantics of Branching Constraint Satisfaction Problems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4686e6ca17e434f89b3215f0674ab3aad05ad69f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person568b0f516e67822a4744474e3901e71d755e6cbe"/>
+    <rdfs:label>Issues in Moving to a Semantic Web for a Large Corporation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person568b0f516e67822a4744474e3901e71d755e6cbe">
+    <foaf:name>David W. Fowler</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document421dcb4c86a6d6331db3ca152f95be155af6c7e5">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person568b0f516e67822a4744474e3901e71d755e6cbe"/>
+    <rdfs:label>Branching Constraint Satisfaction Problems for Solutions Robust under Likely Changes.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb2e23ebbe53ef33cee78a19e50a6d382a0aad14c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person568b0f516e67822a4744474e3901e71d755e6cbe"/>
+    <rdfs:label>The binomial coefficient function.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document09801eda6ce3df65f3beddb4a649ff96907aca32">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person568b0f516e67822a4744474e3901e71d755e6cbe"/>
+    <rdfs:label>Branching constraint satisfaction problems and Markov decision problems compared.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document655ab71167cbec8d2d9b6eeda56a96a5f4c4dd5d
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/iv/LinoT04
+0.9229005754816693
+http://kmi.open.ac.uk/fusion/dblp#personca2e4c7709978fcdd40fa19ad4353f612b51dba5
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lino:Natasha_Queiroz.html
+1.0

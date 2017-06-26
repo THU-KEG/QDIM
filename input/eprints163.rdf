@@ -1,0 +1,54 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1976776206_370">
+    <foaf:name>Bontcheva, Dr. Kalina</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1851031126_29">
+    <foaf:name>Wilks, Prof. Yorick</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person2061615913_372">
+    <foaf:name>Guthrie, Dr. Louise</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-921818547_261">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person752916130_371"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1245765468_46"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person791314120_373"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1210636163_26"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2061615913_372"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1851031126_29"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1976776206_370"/>
+    <rdfs:label>Using HLT for Acquiring, Retrieving and Publishing Knowledge in AKT: Position Paper.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1210636163_26">
+    <foaf:name>Ciravegna, Dr. Fabio</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person791314120_373">
+    <foaf:name>Gaizauskas, Dr. Rob</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1245765468_46">
+    <foaf:name>Brewster, Mr. Christopher</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person752916130_371">
+    <foaf:name>Cunningham, Dr. Hamish</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

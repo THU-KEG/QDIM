@@ -1,0 +1,50 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document9d091bf0698ac092d0e86e00eec57c639bf02f75">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7f43d9b7e6e63df18394fa4e8a700dc3f8d85096"/>
+    <rdfs:label>Corpus linguistics and south asian languages: Corpus creation and tool development.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentff56573c017fc67b828b2791ee2b75c489c330d6">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7f43d9b7e6e63df18394fa4e8a700dc3f8d85096"/>
+    <rdfs:label>Adapting an information extraction system to different domains, languages and applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd8989f22a23cfa69abc7784ff3b3b4bcf6d65a9f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7f43d9b7e6e63df18394fa4e8a700dc3f8d85096"/>
+    <rdfs:label>A Unicode-based Environment for Creation and Use of Language Resources.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document239b90f04dd84d846e5f8c078016b23a90d4997c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7f43d9b7e6e63df18394fa4e8a700dc3f8d85096"/>
+    <rdfs:label>Access to Multimedia Information through Multisource and Multilanguage Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document083789acd21da98fd31c36bd962b1a98e9b1d43f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7f43d9b7e6e63df18394fa4e8a700dc3f8d85096"/>
+    <rdfs:label>Multimedia indexing through multi-source and multi-language information extraction: the MUMIS project.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5322ef3462583297763d99a7727e216508b781ea">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7f43d9b7e6e63df18394fa4e8a700dc3f8d85096"/>
+    <rdfs:label>The effect of rise in mean annual temperature on the stability of rock slopes containing ice-filled discontinuities.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7f43d9b7e6e63df18394fa4e8a700dc3f8d85096">
+    <foaf:name>Oana Hamza</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

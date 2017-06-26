@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document1794682811_267
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/ekaw/DomingueMTSP02
+1.0
+http://kmi.open.ac.uk/fusion/dblp#person2127177895_381
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Pertusson:Helgi.html
+0.8518518518518519

@@ -1,0 +1,80 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917">
+    <foaf:name>Harith Alani</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document56fb542eed6467f69d9f4f3df0b61a55fad29756">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>Identifying Communities of Practice.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document140effae36493c9522bf02086019d23921d0f891">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>Geographical Information Retrieval with Ontologies of Place.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7ac7488f3fa34da8fce04e9bf9b8c51a437d2981">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>Automatic Ontology-Based Knowledge Extraction from Web Documents.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3198f59362942f45600187016d7ffd42b736bb6f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>Managing Reference: Ensuring Referential Integrity of Ontologies for the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5e621e35b2b1b85d6b31418c7330c50672a59406">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>Ensuring referential integrity of ontologies for the semantic web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta8198885d23c8ba4b54e7ef7553ed334d8f399fa">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>CS AKTiveSpace: Building a Semantic Web Application.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document82adffd4f76e5fdaed87972ec4824c9899da2807">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>Voronoi-based region approximation for geographical information retrieval with gazetteers.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document8f131a991a0ec781415a97586565dc48967759b0">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>ONTOCOPI: Methods and Tools for Identifying Communities of Practice.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4a0430b1ea187a47cec533b33bd1eb4b594672e5">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>Identifying Communities of Practice through Ontology Network Analysis.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document34a6b5236d771e9b483e2454fe1cadbddb7a31ef">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>On the Emergent Semantic Web and Overlooked Issues.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentf8ab53dd8a74a81d88ae0f07067a041eeabbe812">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>Design Issues for Agent-Based Resource Locator Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd3f849be295d5d6a546f9c91589c9f2a9f7f1bde">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>Exploiting Synergy Between Ontologies and Recommender Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

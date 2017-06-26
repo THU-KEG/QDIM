@@ -1,0 +1,162 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1362038211_301">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-656082062_11"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <rdfs:label>GATE: A Framework and Graphical Development Environment for Robust NLP Tools and Applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1770967870_403">
+    <foaf:name>Manov, Mr Dimitar</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1075906193_28">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <rdfs:label>Towards a semantic extraction of named entities.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document137393945_81">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-656082062_11"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <rdfs:label>Evolving GATE to Meet New Challenges in Language Engineering.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person495175675_50">
+    <foaf:name>Maynard, Dr Diana</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1357002852_99">
+    <foaf:name>Wilks, Professor Yorick</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-657930480_216">
+    <foaf:name>Hamza, Ms Oana</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1997908441_287">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person534856943_215"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-656082062_11"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <rdfs:label>Developing Reusable and Robust Language Processing Components for Information Systems using GATE.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person534856943_215">
+    <foaf:name>Saggion, Dr Horacio</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1308589130_265">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1178841122_13"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1976776206_370"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-656082062_11"/>
+    <rdfs:label>Adapting A Robust Multi-Genre Named Entity System for Automatic Content Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document112570837_114">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person534856943_215"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-657930480_216"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1357002852_99"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <rdfs:label>Multimedia Indexing through Multisource and Multilingual Information Extraction; the MUMIS project.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1197862175_45">
+    <foaf:name>Popov, Mr Borislav</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document87510903_297">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1197862175_45"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1770967870_403"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-495272797_44"/>
+    <rdfs:label>Experiments with geographic knowledge for informationextraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12">
+    <foaf:name>Bontcheva, Dr Kalina</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-275079877_263">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1178841122_13"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <rdfs:label>A Light-weight Approach to Coreference Resolution for Named Entities in Text.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10">
+    <foaf:name>Cunningham, Dr Hamish</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-495272797_44">
+    <foaf:name>Kiryakov, Mr Atanas</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-656082062_11">
+    <foaf:name>Tablan, Mr Valentin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1976776206_370">
+    <foaf:name>Bontcheva, Dr. Kalina</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1329694114_54">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <rdfs:label>Automatic Language-Independent Induction of Gazetteer Lists.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1315864994_144">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-656082062_11"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <rdfs:label>Rapid customization of an Information Extraction system for surprise languages.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-690464416_36">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person534856943_215"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <rdfs:label>Using Human Language Technology for Automatic Annotation and Indexing of Digital Library Content.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1178841122_13">
+    <foaf:name>Dimitrov, Mr Marin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1990901075_304">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-656082062_11"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <rdfs:label>GATE: A Unicode-based Infrastructure Supporting Multilingual Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

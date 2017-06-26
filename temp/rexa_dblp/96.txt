@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#documenta355d74e82dc44f3d6d0ff02fbde18ca206fb632
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/cicling/XiaDWG05
+0.86172277817545
+http://kmi.open.ac.uk/fusion/dblp#person454dad5c86a540fe38babbfa334b7d3f7ce70b8b
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dalli:Angelo.html
+1.0

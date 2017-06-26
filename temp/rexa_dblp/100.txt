@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#document6c535d77acff6fe97211978d1ca3593c2d53aa8c
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/expert/BrewsterOFWFMES04
+0.6508475985093158
+http://kmi.open.ac.uk/fusion/dblp#document2084f762a31c5859e66f63321b580c1177f8e515
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/ijcai/BrewsterCW01
+0.6508475985093158
+http://kmi.open.ac.uk/fusion/dblp#personf4a4a4a6539d9c3a409003496df9df2e836fe7dd
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Brewster:Christopher.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#documentb22333168b73d1f0cd194038438f8f33a38f308a
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/nldb/BrewsterCW02
+0.6508475985093158

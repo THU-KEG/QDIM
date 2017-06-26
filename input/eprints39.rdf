@@ -1,0 +1,74 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-819254408_128">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1033457348_229"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person422889090_230"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1673445837_220"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person819771971_228"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1147566052_219"/>
+    <rdfs:label>OntoMedia - Creating an Ontology for Marking Up the Contents of Heterogeneous Media.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1484880563_231"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person133936786_221"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-997575838_227"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person819771971_228">
+    <foaf:name>Jewell, Mr Mike O</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-957806425_131">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1147566052_219"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1484880563_231"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1033457348_229"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1673445837_220"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person870897094_233"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person422889090_230"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person819771971_228"/>
+    <rdfs:label>OntoMedia: An Ontology for the Representation of Heterogeneous Media.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person422889090_230">
+    <foaf:name>Nixon, Dr Mark S</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person870897094_233">
+    <foaf:name>Lawrence, Ms K F</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1673445837_220">
+    <foaf:name>Shadbolt, Professor Nigel R</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1033457348_229">
+    <foaf:name>Prugel-Bennett, Professor Adam</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-997575838_227">
+    <foaf:name>Lawrence, Ms K Faith</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person133936786_221">
+    <foaf:name>Millard, Dr David E</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1484880563_231">
+    <foaf:name>schraefel, Dr monica c</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1147566052_219">
+    <foaf:name>Tuffield, Mr Mischa M</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,50 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4af5fe6d566a1538e4fed96af988b2f5a713d3d9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person42B23C4097C8408FAC5CEC8A3EAD34FFF536F99E"/>
+    <rdfs:label>Specifications of Knowledge Component Reuse.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document75b58bf9bf25fcd6bb5addaa6c09b02478477495">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person42B23C4097C8408FAC5CEC8A3EAD34FFF536F99E"/>
+    <rdfs:label>Automatic Selection of Problem Solving Libraries Based on Competence Matching.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document8f001d857462fcc012ad00fb2399e5bc879c807b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person42B23C4097C8408FAC5CEC8A3EAD34FFF536F99E"/>
+    <rdfs:label>An Open Framework for Cooperative Problem Solving.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd3e3bedf99f51c7f51813bd48b82e877f372f4c0">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person42B23C4097C8408FAC5CEC8A3EAD34FFF536F99E"/>
+    <rdfs:label>IRS-II: A Framework and Infrastructure for Semantic Web Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person42B23C4097C8408FAC5CEC8A3EAD34FFF536F99E">
+    <foaf:name>Mauro Gaspari</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document64f241e79009eae132fbc0da335229f8066fff4b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person42B23C4097C8408FAC5CEC8A3EAD34FFF536F99E"/>
+    <rdfs:label>Specifications of Knowledge Components for Reuse, in the proceedings of the 11th Intl.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document194da9e7929edffbd4edb35ddd2b77955c0e1951">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person42B23C4097C8408FAC5CEC8A3EAD34FFF536F99E"/>
+    <rdfs:label>Inferring in Lego-land: an Architecture for the Integration of Heterogeneous Inference Modules.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

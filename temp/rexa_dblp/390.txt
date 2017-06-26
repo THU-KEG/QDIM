@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#documenta73204443710f98e2bf592f5e306f9df3f3624ab
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/amai/Schorlemmer02
+1.0
+http://kmi.open.ac.uk/fusion/dblp#person5ABEEA39276120DDBE1FC7D6DB42B796D9AB14CB
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Schorlemmer:W=_Marco.html
+1.0

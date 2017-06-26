@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#document8357135a79e452131d4310e9ef049c245d1db3fe
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/cacm/GuthriePWS96
+0.6473662864458567
+http://kmi.open.ac.uk/fusion/dblp#document572606c449b2df1893bd3b86df3ba75f4ef1714e
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/trec/StrzalkowskiGKLLCSWW96
+0.6473662864458567
+http://kmi.open.ac.uk/fusion/dblp#person19139c4ba9598a153ecccf3d31f4e1e10f033cf0
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Guthrie:Louise.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#documenta355d74e82dc44f3d6d0ff02fbde18ca206fb632
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/cicling/XiaDWG05
+0.6473662864458567

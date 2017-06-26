@@ -1,0 +1,90 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1fb9b0a739b54a299d5128a241b52604523f89d1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>Towards the self-annotating web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document62e1b3f23148fb91be8ca0a53e6c975632053e98">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>DILIGENT: Towards a fine-grained methodology for Distributed, Loosely-controlled and evolving Engineering of oNTologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86">
+    <foaf:name>Steffen Staab</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd9b1980d0949b401966a88f33ceb3237a2219ef8">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>editors.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7653e0f259f4cb7aa91817686871f06308624c34">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>Semantic community Web portals.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document00d159fac9fe3a228eb5ba3650a6e1395315b47d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>Ontology Learning for the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1443a3e714e8d744d8f7246fcc8c5b4459b0a900">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>Human Language Technologies for Knowledge Management.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentddf610e82fc6cacb1a5f2521bafce5d03b539ee3">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>Web Semantics: Science, Services and Agents on the.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7fe08ee38cc318911d034ef392bd7e89847aab75">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>Incrementally Maintaining Materializations of Ontologies Stored in Logic Databases.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5245ad72975be7f86666c66415072cdc6bee1db3">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>AI for the Web - Ontology-Based Community Web Portals.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document06232c70aef1c12a8300dc0d25a9e2926fc50f5e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>Annotation, composition and invocation of semantic web services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3b2de33424d437463f01e7ffd41b1d1d10ee0d45">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>The Pudding of Trust.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document952c0ce49c70b98dab0b8600f9fa977a85a8d4c6">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>Unveiling the hidden bride: deep annotation for mapping and migrating legacy data to the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document901def30dd85a80b35d480dfdef54aaad30bd808">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>Knowledge Processes and Ontologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1fea379d5e1aacc277b44a9fd79b8d3bfbb2ebe0">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <rdfs:label>S-CREAM - Semi-automatic CREAtion of Metadata.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

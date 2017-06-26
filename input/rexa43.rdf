@@ -1,0 +1,99 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persond7eae194d59103866dc57f3dcf5541182b08a1e9">
+    <foaf:name>David E. Millard</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person21b70b684c96c3485628359890710a94489defa9">
+    <foaf:name>Patrick A. S Sinclair</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person4c529ba3cac9d1c93f8e8a672bdc4becedc4480e">
+    <foaf:name>Christian Lahanier</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentde78d99e18f9660a61eb0aedbd85bb18c3bd296e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person3b4c47be7b4f352bf5e9ad9a18a4e74380e8bd8b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person149db9638b9300688364bf468b8fd9348d9892de"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4c529ba3cac9d1c93f8e8a672bdc4becedc4480e"/>
+    <rdfs:label>SCULPTEUR: Multimedia Retrieval for Museums.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person9d380eb4eeb18759cbcf7933bb3c5c7c24a315aa"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6B84DA3DBD34005C3BF2BB4B3A48D41812B054BD"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEFDED9836D2F8223C64823ECD7F63D449ACCE466"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personbabe486553c73f45c4a67db16aa1cd689f6b643f"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person9b388ee0904f3670d48381702dab7e6172d07cc5"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person278a218d4badee2e4b6070aa985ef44139c3202e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personbabe486553c73f45c4a67db16aa1cd689f6b643f">
+    <foaf:name>Matthew Addis</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person9d380eb4eeb18759cbcf7933bb3c5c7c24a315aa">
+    <foaf:name>Simon Goodall</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person278a218d4badee2e4b6070aa985ef44139c3202e">
+    <foaf:name>Patrick A S Sinclair</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person9b388ee0904f3670d48381702dab7e6172d07cc5">
+    <foaf:name>James Stevenson</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personEFDED9836D2F8223C64823ECD7F63D449ACCE466">
+    <foaf:name>Paul H. Lewis</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person149db9638b9300688364bf468b8fd9348d9892de">
+    <foaf:name>Mike Boniface</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentde825d16a6543bdc73ce6bb0cf123d002dd34c59">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf81a661115272a40b75238b8c3c6f185bf3ffc98"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6B84DA3DBD34005C3BF2BB4B3A48D41812B054BD"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond7eae194d59103866dc57f3dcf5541182b08a1e9"/>
+    <rdfs:label>Links in the palm of your hand: tangible hypermedia using augmented reality.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person4229fc6af206d11c29cb814a0174ad6acba4896e">
+    <foaf:name>Mark J. Weal</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personfe807e5dab9610663674fc823681d36e34db6879">
+    <foaf:name>Kirk Martini</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person6B84DA3DBD34005C3BF2BB4B3A48D41812B054BD">
+    <foaf:name>Kirk Martinez</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document919e1682d98f974b43f6211d42f1d0a18a7edcd0">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personfe807e5dab9610663674fc823681d36e34db6879"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person21b70b684c96c3485628359890710a94489defa9"/>
+    <rdfs:label>Salt and pepper: Tangible hypermedia using the artoolkit.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personf81a661115272a40b75238b8c3c6f185bf3ffc98">
+    <foaf:name>Patrick Sinclair</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person3b4c47be7b4f352bf5e9ad9a18a4e74380e8bd8b">
+    <foaf:name>Fabrizio Giorgini</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

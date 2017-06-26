@@ -1,0 +1,17 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#document562311208_93
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/bmcbi/Jirapech-UmpaiA05
+1.0
+http://kmi.open.ac.uk/fusion/dblp#person1438501450_191
+2
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jirapech=Umpai:Thanyaluk.html
+1.0
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Aitken:J=_Stuart.html
+0.17824074074074073
+http://kmi.open.ac.uk/fusion/dblp#person121339883_104
+2
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/j/Jirapech=Umpai:Thanyaluk.html
+0.19212962962962962
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Aitken:J=_Stuart.html
+0.8333333333333333

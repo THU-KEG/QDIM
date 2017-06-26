@@ -1,0 +1,35 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7607303dabcb8f6f03bf9880a62fc2f1ca5e28b2">
+    <foaf:name>T. DARREL</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person523e07e2a3a49590863a6cd173988ca342cf7fa4">
+    <foaf:name>Daniel J. Weitzner</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7F0D6AD3D964FC72946BA6A770020E88E33F8667">
+    <foaf:name>Mark S. Ackerman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente43f5ece9f174ec059fd841f6dd2825a3d3871ab">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7F0D6AD3D964FC72946BA6A770020E88E33F8667"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person523e07e2a3a49590863a6cd173988ca342cf7fa4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7607303dabcb8f6f03bf9880a62fc2f1ca5e28b2"/>
+    <rdfs:label>Privacy in context.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+</rdf:RDF>

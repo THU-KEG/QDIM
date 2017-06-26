@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#person266bdce12e188e0700693b3dc3920a7a25bfe4dd
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bontcheva:Kalina.html
+0.6422539497912173
+http://kmi.open.ac.uk/fusion/dblp#persone8d0549a50febcc367c07d928c9f135ae4ad9fb4
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bontcheva:Kalina.html
+1.0

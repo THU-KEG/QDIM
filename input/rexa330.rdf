@@ -1,0 +1,90 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document72c46217e006a512715d3311cf3ae3b954e2959c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>Ontology Extraction for Distributed Environments.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4cedc3f6a0161f4a32832590f0e3a3f9192d8879">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>Effective and Efficient Knowledge Base Refinement.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document108e14bb24a2232a726b80c15c399e3f0efb3658">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>Detecting mismatches among experts' ontologies acquired through knowledge elicitation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document064dae8e71c4e4784687775f2d1fec028601d795">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>The Analysis of Head Injury Data Using Decision Tree Techniques.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentae0f6778bcb3d8d2275297f7828cbb617bea3c38">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>A Constraint-Based Approach to the Description of Competence.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document8632c77aeb2debe9c0456a0097b81e25ee16c987">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>Accommodating surprise in taxonomic tasks: the role of expertise.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente16ac3c2bba675f2b5ef41507814713f8e264c7b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>ReTAX: A Step in the Automation of Taxonomic Revision.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3abb418b9fb308cdbf4aa02f776e269601a1bee5">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>A grammar-driven knowledge acquisition tool that incorporates constraint propagation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5fb74d0647024bb524ad9f392a7791abf95d98b8">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>Identifying Inconsistent CSPs by Relaxation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document45b0ba6714d76e42a437cabf9c78cb267e934d79">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>Scientific Discovery and Simplicity of Method.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4686e6ca17e434f89b3215f0674ab3aad05ad69f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>Issues in Moving to a Semantic Web for a Large Corporation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F">
+    <foaf:name>Derek H. Sleeman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document45edab4c2e1fd4b6e4f355b2c4f558f714eed558">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>Ontology Reconciliation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document6b7bcdc2bdf751f2a8e2d5f3450b5369d0b7bd15">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>Introduction/Editorial: Machine Discovery.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentdd707e3efeaf36fc8f5c4c0920827a798b4408af">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>Better Knowledge Management through Knowledge Engineering.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+</rdf:RDF>

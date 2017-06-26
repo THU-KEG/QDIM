@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document6ab8f503fad67625de96633e0e17326d3d17c43b
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/aaai/TateDSABU04
+0.7358543239124661
+http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Siebra:Clauirton_de.html
+0.9305555555555556

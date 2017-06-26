@@ -1,0 +1,85 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1704013461_117">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person48916395_5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person356249297_4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1324268701_217"/>
+    <rdfs:label>Multi-agent Ontology Mapping Framework in the AQUA Question Answering System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15">
+    <foaf:name>Motta, Prof Enrico</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person48916395_5">
+    <foaf:name>Motta, Dr Enrico</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-992842967_52">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1850974856_96"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1651767142_82"/>
+    <rdfs:label>AQUA- Ontology-Based Question Answering System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1324268701_217">
+    <foaf:name>Nagy, Mr Miklos</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-392240471_106">
+    <foaf:name>Lopez, Vanessa</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1651767142_82">
+    <foaf:name>Vargas-Vera, Dr M.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1175444684_126">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person48916395_5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person356249297_4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1324268701_217"/>
+    <rdfs:label>Ontology Mapping with Domain Specific Agents in the AQUA Question Answering System..</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-172938474_274">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-668478254_390"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1850974856_96"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1651767142_82"/>
+    <rdfs:label>AQUA: An Ontology-Driven Question Answering System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1927876446_107">
+    <foaf:name>Pasin, Michele</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person356249297_4">
+    <foaf:name>Vargas-Vera, Dr Maria</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1850974856_96">
+    <foaf:name>Motta, Dr E.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-668478254_390">
+    <foaf:name>Domingue, Dr J.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-948406457_60">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1927876446_107"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-392240471_106"/>
+    <rdfs:label>AquaLog: An Ontology-portable Question Answering System for the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

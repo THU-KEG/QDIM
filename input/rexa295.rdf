@@ -1,0 +1,146 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta07eb008bb36d6eace4e7207aae291f505f14533">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personCFFDE8DD68C3B94067D54B32C4AC051981FF4318"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf690f94a9858c3aa29c70b62fa105d1db5327d93"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personaa81919c62db7915dca65845cbf8763c9d0bd58b"/>
+    <rdfs:label>Ontocopi: Using ontology-based network analysis to identify communities of practice.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personCFFDE8DD68C3B94067D54B32C4AC051981FF4318">
+    <foaf:name>Nigel Shadbolt</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4e8cef37d0073666eeb25d535121043493c8edb7">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf4a4a4a6539d9c3a409003496df9df2e836fe7dd"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf690f94a9858c3aa29c70b62fa105d1db5327d93"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf6fa9bc2796457ca154153b14980f334e0858906"/>
+    <rdfs:label>Data Driven Ontology Evaluation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person568374ccdcc22aea89bc05e449d1892ce55be7c1">
+    <foaf:name>Hugh Glaser</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personf6fa9bc2796457ca154153b14980f334e0858906">
+    <foaf:name>Y. Wilks</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person9FF161CCE140C1BADB7C989E51F35D019467132A">
+    <foaf:name>J. Andrew Bangham</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc">
+    <foaf:name>Yannis Kalfoglou</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person8889dae4ab36ce7f12556b49a2d5436626a12784">
+    <foaf:name>Stephen Harris</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917">
+    <foaf:name>Harith Alani</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person953210b0a4aea11c96d9eac6611f750e11f37969">
+    <foaf:name>Reese Harvey</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personaa81919c62db7915dca65845cbf8763c9d0bd58b">
+    <foaf:name>Kieron O'Hara</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personf690f94a9858c3aa29c70b62fa105d1db5327d93">
+    <foaf:name>H. Alani</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person79C1759DF275174DA56BB865EC44AE598D470FD0">
+    <foaf:name>Stephen Cox</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personf4a4a4a6539d9c3a409003496df9df2e836fe7dd">
+    <foaf:name>Christopher Brewster</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person4fd2daa3a38c8ed30e3ec8eb51acfa79a24c1e5d">
+    <foaf:name>Ilya Shmulevich</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document687d2311500897e908525c8231c19ef18ca5cb42">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf177edc815fc021b36b7328e74b0f3d9924d79c1"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4fd2daa3a38c8ed30e3ec8eb51acfa79a24c1e5d"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person79C1759DF275174DA56BB865EC44AE598D470FD0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person9FF161CCE140C1BADB7C989E51F35D019467132A"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person953210b0a4aea11c96d9eac6611f750e11f37969"/>
+    <rdfs:label>Run-length distributions of recursive median filters using probabilistic automata.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personf177edc815fc021b36b7328e74b0f3d9924d79c1">
+    <foaf:name>Olli Yli-Harja</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5e621e35b2b1b85d6b31418c7330c50672a59406">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF1C96F7847185A9B045892DB1D4167C37562422C"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person568374ccdcc22aea89bc05e449d1892ce55be7c1"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>Ensuring referential integrity of ontologies for the semantic web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person8b42f5964b2a24ac99716fff7bca10524e88b48c">
+    <foaf:name>H. Glaser</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document63610ce719a1558c3ad2ca93312c25fde7f36495">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person79C1759DF275174DA56BB865EC44AE598D470FD0"/>
+    <rdfs:label>A high-level approach to confidence estimation in speech recognition.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personF1C96F7847185A9B045892DB1D4167C37562422C">
+    <foaf:name>Nicholas Gibbins</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentf2ee802346bb3c385083071c56037876317c0347">
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8889dae4ab36ce7f12556b49a2d5436626a12784"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf690f94a9858c3aa29c70b62fa105d1db5327d93"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF1C96F7847185A9B045892DB1D4167C37562422C"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personCFFDE8DD68C3B94067D54B32C4AC051981FF4318"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person27bca05a1ec249042ae907298b834ca30e8c727a"/>
+    <rdfs:label>Managing Reference.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8b42f5964b2a24ac99716fff7bca10524e88b48c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5">
+    <foaf:name>Srinandan Dasmahapatra</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person27bca05a1ec249042ae907298b834ca30e8c727a">
+    <foaf:name>Keith J. O'Hara</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document686e401ccb6736b2073143fd5be2c43782eb4687">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person79C1759DF275174DA56BB865EC44AE598D470FD0"/>
+    <rdfs:label>A semantically-based confidence measure for speech recognition.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

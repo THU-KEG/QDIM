@@ -1,0 +1,106 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1323977857_56">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1357002852_99"/>
+    <rdfs:label>Automatic Report Generation from Ontologies: the MIAKT approach.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1931821422_31">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1851031126_29"/>
+    <rdfs:label>User-Centred Onlology Learning for Knowledge Management.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1357002852_99">
+    <foaf:name>Wilks, Professor Yorick</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1134805786_211">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1063441990_144"/>
+    <rdfs:label>Image annotation with Photocopain.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document448517710_94">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1063441990_144"/>
+    <rdfs:label>Learning To Harvest Information for the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-103053237_68">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1063441990_144"/>
+    <rdfs:label>Dealing with Dependencies between Content Planning and Surface Realisation in a Pipeline Generation Architecture.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document112570837_114">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1357002852_99"/>
+    <rdfs:label>Multimedia Indexing through Multisource and Multilingual Information Extraction; the MUMIS project.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-921818547_261">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1851031126_29"/>
+    <rdfs:label>Using HLT for Acquiring, Retrieving and Publishing Knowledge in AKT: Position Paper.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1063441990_144">
+    <foaf:name>Wilks, Prof Yorick</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document892908587_164">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1357002852_99"/>
+    <rdfs:label>Web Services Architecture for Language Resources.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-772038613_214">
+    <foaf:name>Wilks, Yorick</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-465579141_121">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1851031126_29"/>
+    <rdfs:label>Ontologies, Taxonomies, Thesauri: Learning from Texts.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-135476750_293">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1357002852_99"/>
+    <rdfs:label>Designing Adaptive Information Extraction for the Semantic Web in Amilcare.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1916865554_9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1851031126_29"/>
+    <rdfs:label>Mining Web Sites Using Unsupervised Adaptive Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-936078500_233">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1063441990_144"/>
+    <rdfs:label>Photocopain - Annotating Memories For Life.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1851031126_29">
+    <foaf:name>Wilks, Prof. Yorick</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document410725349_165">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1851031126_29"/>
+    <rdfs:label>The Ontology: Chimaera or Pegasus.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1303940839_74">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-772038613_214"/>
+    <rdfs:label>Data Driven Ontology Evaluation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2001133564_33">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1851031126_29"/>
+    <rdfs:label>User-System Cooperation in Document Annotation based on Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

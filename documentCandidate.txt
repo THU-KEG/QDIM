@@ -1,0 +1,42 @@
+FCA in Knowledge Technologies: Experiences and Opportunities.
+Knowledge Representation with Ontologies: The Present and Future.
+Efficient Bulk RDF Storage.
+Harvest Information for the Semantic Web.
+Automatic Report Generation from Ontologies: 
+The Semantics of Semantic Annotation.
+Capturing knowledge of user preferences: ontologies in recommender systems.
+Semi-automatic CREAtion of Metadata.
+IRS-II: A Framework and Infrastructure for Semantic Web Services.
+The Epistemology of Scheduling Problems.
+Resource Locator Systems.
+CS AKTiveSpace: Building a Semantic Web Application.
+Dealing with Dependencies between Content Planning and Surface Realisation in a Pipeline Generation Architecture.
+Human Language Technology for Automatic Annotation and Indexing of Digital Library Content.
+Collaborative Semantic Web Browsing with Magpie.
+Automatic Ontology-Based Knowledge Extraction from Web Documents.
+Identifying Inconsistent CSPs by Relaxation.
+Automatic Support for Semantic Markup.
+Mining Web Sites Using Unsupervised Adaptive Information Extraction.
+ONTOCOPI: Methods and Tools for Identifying Communities of Practice.
+Identifying Communities of Practice
+OntoWeaver-S: Supporting the Design of Knowledge Portals.
+Alice: Assisting Online Shoppers through Ontologies and Novel Interface Metaphors.
+Modelling Data-Intensive Web Sites with OntoWeaver.
+Adaptive Information Extraction from Text by Rule Induction and Generalisation.
+Opening Up Magpie via Semantic Services.
+Mapping a Business Process Model to a Semantic Web Service Model.
+Duality in Knowledge Sharing.
+AQUA: An Ontology-Driven Question Answering System.
+System for Automatic Content Extraction.
+Identifying Communities of Practice through Ontology Network Analysis.
+document enrichment within communities of practice.
+Developing Reusable and Robust Language Processing Components for Information Systems using GATE.
+Question Answering in AquaLog.
+Multi-Agent Dialogue Protocols.
+Question Answering System.
+User-System Cooperation in Document Annotation 
+Event Recognition on News Stories and Semi-Automatic Population of an Ontology.
+A Question-Answering System Using Argumentation.
+JIME: An Interactive Journal for Interactive Media.
+Learning Information Extraction Rules: An Inductive Logic Programming 
+Adaptive Information Access within Organisations.

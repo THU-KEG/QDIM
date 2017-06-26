@@ -1,0 +1,123 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document80279324e7183f9d556e51b5ffe6ba3baebaa7f6">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person905a267d6f00161af909ae69d99e0f2cead486a9"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <rdfs:label>P2 - Intelligent Process Panels to Support Coalition Operations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0403FC647C340825C32EC546E5D3955DAE2B0CDD">
+    <foaf:name>Peter Jarvis</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4a01ad9ed462254c8a1360535d1d26ae157461aa">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personde12bd85bb0c79a02e0293606df0fd1eb9d2f18b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf43d54af213ea582c057cb7c4611decffa1f6086"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person10b38548c47814b6efbdb701a5d069e5a505dc8e"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person07D802B0F40F77C93FD66ECCDAA63839ED50331C"/>
+    <rdfs:label>Combining and Adapting Process Patterns for Flexible Workflow.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persond5e1d8a291fa6d43a438d745f388c717f962430c">
+    <foaf:name>Yun-Heh Chen-Burger</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531">
+    <foaf:name>Jeff Dalton</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754">
+    <foaf:name>Jussi Stader</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person96f048cc90184c1d464792c6b09a21a0bb48f892">
+    <foaf:name>Larry Y C Cheung</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5833f4a64bc449c3edeff7cecffe10bd65358337">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personde12bd85bb0c79a02e0293606df0fd1eb9d2f18b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf43d54af213ea582c057cb7c4611decffa1f6086"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person96f048cc90184c1d464792c6b09a21a0bb48f892"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person10b38548c47814b6efbdb701a5d069e5a505dc8e"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0403FC647C340825C32EC546E5D3955DAE2B0CDD"/>
+    <rdfs:label>Knowledge-based process management - an approach to handling adaptive workflow.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person905a267d6f00161af909ae69d99e0f2cead486a9">
+    <foaf:name>J. I</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0d8aca91c3575168a02a5d820493f603d62827cb">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8396aa0b0ad70b1fe8385b73794f2adcfbf473a5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <rdfs:label>Formal Support for an Informal Business Modelling Method.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person462d180d62267700f77d0e3ef74e936efd464193">
+    <foaf:name>Heh Chen-Burger</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0">
+    <foaf:name>Austin Tate</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person07D802B0F40F77C93FD66ECCDAA63839ED50331C">
+    <foaf:name>Robert Inder</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2b4582fedb1e93e62a137a1a8239bbe907f7708f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personde12bd85bb0c79a02e0293606df0fd1eb9d2f18b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf43d54af213ea582c057cb7c4611decffa1f6086"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person10b38548c47814b6efbdb701a5d069e5a505dc8e"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person07D802B0F40F77C93FD66ECCDAA63839ED50331C"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <rdfs:label>Who Does What? Matching Agents to Tasks in Adaptive Workflow.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person8396aa0b0ad70b1fe8385b73794f2adcfbf473a5">
+    <foaf:name>David Robertson</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person10b38548c47814b6efbdb701a5d069e5a505dc8e">
+    <foaf:name>Paul W H Chung</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7c2d4431de1e9b3c3e89fbdc7dd2182dec553fa1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person462d180d62267700f77d0e3ef74e936efd464193"/>
+    <rdfs:label>Formal support for adaptive workflow systems in a distributed environment.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personf43d54af213ea582c057cb7c4611decffa1f6086">
+    <foaf:name>Ann Macintosh</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personde12bd85bb0c79a02e0293606df0fd1eb9d2f18b">
+    <foaf:name>Jonathan P. Moore</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document30d370f8e913278c48fe1bcf740e0c477f028b4e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8396aa0b0ad70b1fe8385b73794f2adcfbf473a5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond5e1d8a291fa6d43a438d745f388c717f962430c"/>
+    <rdfs:label>Formal Support for an Informal Business Modelling Method.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+</rdf:RDF>

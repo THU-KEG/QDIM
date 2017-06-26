@@ -1,0 +1,90 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentdfbc13060a70489774972be05dcdc4ddd6c79544">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>Use of Formal Ontologies to Support Error Checking in Specifications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentee17164e6a7536cd2ad15e4eaa03d8ab5c1bf9ba">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>Using Meta-Knowledge at the Application Level.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document72e31a192db4d4ddb5d8531a877adb7a6a5e2117">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>IF-Map: An Ontology-Mapping Method Based on Information-Flow Theory.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7d1be4b18ffb412d2ba5b25f4912703ef0c0b1b7">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>Shum, `MyPlanet: an ontology-driven Web-based personalised news service.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3198f59362942f45600187016d7ffd42b736bb6f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>Managing Reference: Ensuring Referential Integrity of Ontologies for the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2f5c550ea5efaf55e621be458df1751c235c26ee">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>A Case Study in Applying Ontologies to Augment and Reason about the Correctness of Specifications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente1881c10b6721a4d2171cca6df0b325d740f663d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>Information-Flow-Based Ontology Mapping.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc">
+    <foaf:name>Yannis Kalfoglou</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2b7189425d0b10283de3c213aa68e184f8168343">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>Template Driven Information Extraction for Populating Ontologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document195919d1a3d4c842bac15740d9be54c36db3f975">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>Formal Support for Representing and Automating Semantic Interoperability.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentf2ee802346bb3c385083071c56037876317c0347">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>Managing Reference.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document34a6b5236d771e9b483e2454fe1cadbddb7a31ef">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>On the Emergent Semantic Web and Overlooked Issues.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta42477c8bc783d9af8243b67fb8b75e5c71342cd">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>FCA in Knowledge Technologies: Experiences and Opportunities.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentf8ab53dd8a74a81d88ae0f07067a041eeabbe812">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>Design Issues for Agent-Based Resource Locator Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document9d81bc3bc737124bbaa47035ebb5b91cce96215a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <rdfs:label>Supporting ontology driven document enrichment within communities of practice.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

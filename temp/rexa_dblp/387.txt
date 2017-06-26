@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#person8aa1f85770cd941af207f857588823049db3ee39
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Ciravegna:Fabio.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#document000e15ea73ff1d0fb998ea38ef52f817a0aecf58
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/ijcai/Ciravegna01
+1.0

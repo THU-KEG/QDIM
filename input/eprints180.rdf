@@ -1,0 +1,204 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1472137981_187">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-986788464_167"/>
+    <rdfs:label>AKTiveMedia: Cross-media Document Annotation and Enrichment.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1564369061_156">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2098401064_213"/>
+    <rdfs:label>Semantic Web based Document Editing and Browsing in AktiveDoc.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-2098401064_213">
+    <foaf:name>Ciravegna, Prof. Fabio</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document246042398_305">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1210636163_26"/>
+    <rdfs:label>Adaptive Information Extraction from Text by Rule Induction and Generalisation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2009241669_2">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-187308667_9"/>
+    <rdfs:label>MnM: Ontology Driven Semi-Automatic and Automatic Support for Semantic Markup.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1134805786_211">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-986788464_167"/>
+    <rdfs:label>Image annotation with Photocopain.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-921818547_261">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1210636163_26"/>
+    <rdfs:label>Using HLT for Acquiring, Retrieving and Publishing Knowledge in AKT: Position Paper.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1210636163_26">
+    <foaf:name>Ciravegna, Dr. Fabio</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1363130111_110">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2098401064_213"/>
+    <rdfs:label>Mining the Semantic Web: Requirements for Machine Learning.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-117049985_260">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1210636163_26"/>
+    <rdfs:label>User Involvement in Adaptive Information Extraction: Position Paper.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document449970439_73">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-802348701_157"/>
+    <rdfs:label>CS AKTiveSpace: Building a Semantic Web Application.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1811354369_62">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2098401064_213"/>
+    <rdfs:label>Armadillo: Integrating Knowledge for the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1511680481_113">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2098401064_213"/>
+    <rdfs:label>Multi-Layer Active Documents for the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-936078500_233">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-986788464_167"/>
+    <rdfs:label>Photocopain - Annotating Memories For Life.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1453096735_200">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-986788464_167"/>
+    <rdfs:label>Cross-media document annotation and enrichment.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1605045901_143">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2098401064_213"/>
+    <rdfs:label>Relation Extraction for Mining the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-187308667_9">
+    <foaf:name>Ciravegna, Dr Fabio</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-802348701_157">
+    <foaf:name>Ciravegna, Fabio</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document757955811_281">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2098401064_213"/>
+    <rdfs:label>Background and Foreground Knowledge in DynamicOntology Construction: Viewing Text as KnowledgeMaintenance.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document233929901_76">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-986788464_167"/>
+    <rdfs:label>Developing a Service-Oriented Architecture to Harvest Information for the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1884170805_18">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1210636163_26"/>
+    <rdfs:label>S-CREAM Semi-automatic CREAtion of Metadata.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document88757151_275">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1210636163_26"/>
+    <rdfs:label>(LP)2, an Adaptive Algorithm for Information Extraction from Web-related Texts.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2001133564_33">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1210636163_26"/>
+    <rdfs:label>User-System Cooperation in Document Annotation based on Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person769691858_402">
+    <foaf:name>Ciravegna, Professor Fabio</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1643972876_199">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-986788464_167"/>
+    <rdfs:label>Community-based Annotation of Multimedia Documents.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1617559803_223">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-187308667_9"/>
+    <rdfs:label>MNM:  Semi-Automatic Ontology Population from Text.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1931821422_31">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1210636163_26"/>
+    <rdfs:label>User-Centred Onlology Learning for Knowledge Management.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2129840226_325">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1210636163_26"/>
+    <rdfs:label>Melita: Active Document Enrichment using Adaptive Information Extraction from Text.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document448517710_94">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-986788464_167"/>
+    <rdfs:label>Learning To Harvest Information for the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1329030258_136">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2098401064_213"/>
+    <rdfs:label>Pascal Challenge: The Evaluation of Machine Learning for Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document137222973_207">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-986788464_167"/>
+    <rdfs:label>Focused Data Mining for decision support in EmergencyResponse Scenarios.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-25371949_4">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-187308667_9"/>
+    <rdfs:label>MnM: Ontology-Driven Tool for Semantic Markup.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document916459834_238">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-986788464_167"/>
+    <rdfs:label>Requirements for Multimedia Document Enrichmen.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-986788464_167">
+    <foaf:name>Ciravegna, Prof Fabio</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-135476750_293">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person769691858_402"/>
+    <rdfs:label>Designing Adaptive Information Extraction for the Semantic Web in Amilcare.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1916865554_9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1210636163_26"/>
+    <rdfs:label>Mining Web Sites Using Unsupervised Adaptive Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1565601219_24">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1210636163_26"/>
+    <rdfs:label>Challenges in Information Extraction from Text for KnowledgeManagement.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1707888175_134">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2098401064_213"/>
+    <rdfs:label>Orchestration of Semantic Web Services for Large-Scale Document Annotation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document410725349_165">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2098401064_213"/>
+    <rdfs:label>The Ontology: Chimaera or Pegasus.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

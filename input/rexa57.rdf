@@ -1,0 +1,134 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person36ee358ee2b0b767c8a794c15015b713bfbfb4f0">
+    <foaf:name>Richard Weindruch</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1d673042694924373343b909b576bb1575cf0693">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person033aac29698de180c9ee41f21bf089a3ffffbade"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person43a4a8cef0c599ea8b66d5c013acdc786db85692"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <rdfs:label>Coping strategies, self-perceptions, hopelessness, and perceived family environments in depressed and suicidal children.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf">
+    <foaf:name>Alexiei Dingli</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person82191353665e0a83e5f3d7e313a42ef2df04b2fd">
+    <foaf:name>G. S. Figiel</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2e51f6b59ee460506a9aa7fcbc918fe72e1a7c0a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persona94a7420aa083544c79883ca9b38efabf800319c"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf6fa9bc2796457ca154153b14980f334e0858906"/>
+    <rdfs:label>Mining Web Sites Using Unsupervised Adaptive Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person70d27e96df13c9e688751b29923b9d0c22d5cae0">
+    <foaf:name>Barry Fish</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone80aadc2583fb9d7f6f8b21b27e8de43bbcad743">
+    <foaf:name>R. D. Caplan</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1030CA00924AF234669CD65E2A82C53216261E82">
+    <foaf:name>Yorick Wilks</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person26bb4d52cfe5f131f3366930685a771a621afd32">
+    <foaf:name>RL Walford</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personf9b54afb10dec49adfb4886c37825c709a3807a0">
+    <foaf:name>P. E. Tanguay</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personf6fa9bc2796457ca154153b14980f334e0858906">
+    <foaf:name>Y. Wilks</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e">
+    <foaf:name>David Guthrie</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persona94681ff40c28850a9b8262db9364f50687b761f">
+    <foaf:name>Lynne S. Buchwald</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persona94a7420aa083544c79883ca9b38efabf800319c">
+    <foaf:name>F. Ciravegna</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document676730a7fa8a755cf673f8df75f40e76f9bea82a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1030CA00924AF234669CD65E2A82C53216261E82"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8aa1f85770cd941af207f857588823049db3ee39"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <rdfs:label>Mining Web Sites Using Unsupervised Adaptive Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person43a4a8cef0c599ea8b66d5c013acdc786db85692">
+    <foaf:name>R. J. Asaro</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person06fe031957f2cefc7dcdba8ffe16e28d69cd5443">
+    <foaf:name>G. David-Lando</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person033aac29698de180c9ee41f21bf089a3ffffbade">
+    <foaf:name>Gary Carlson</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentef7874beb7c17eaecce335fe4f317577f11384e0">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persona94681ff40c28850a9b8262db9364f50687b761f"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <rdfs:label>Significance testing of difference potentials.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta772b173ef4d9ffe0f12ca30c74c4bc6078998ee">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person70d27e96df13c9e688751b29923b9d0c22d5cae0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone80aadc2583fb9d7f6f8b21b27e8de43bbcad743"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person06fe031957f2cefc7dcdba8ffe16e28d69cd5443"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf9b54afb10dec49adfb4886c37825c709a3807a0"/>
+    <rdfs:label>The Kiddie Formal Thought Disorder Rating Scale, (K-FTDS). Clinical assessment, reliability, and validity.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person8aa1f85770cd941af207f857588823049db3ee39">
+    <foaf:name>Fabio Ciravegna</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document34a6ab73190d706d31779a3546a80de03b690c30">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person82191353665e0a83e5f3d7e313a42ef2df04b2fd"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person36ee358ee2b0b767c8a794c15015b713bfbfb4f0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person26bb4d52cfe5f131f3366930685a771a621afd32"/>
+    <rdfs:label>The retardation of aging in mice by dietary restriction: longevity, cancer, immunity and lifetime energy intake.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente6ecae77c70710c726dc4a23d7162c7f48630459">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1030CA00924AF234669CD65E2A82C53216261E82"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8aa1f85770cd941af207f857588823049db3ee39"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person243af6c13239f3751fc422d443d2d2c0017782bf"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <rdfs:label>Integrating Information to Bootstrap Information Extraction from Web Sites.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

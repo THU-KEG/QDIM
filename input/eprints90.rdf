@@ -1,0 +1,72 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2059269749_82">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2418974_175"/>
+    <rdfs:label>Collaboration in the Semantic Grid: a Basis for e-Learning.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-2097249165_255">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1945141026_110"/>
+    <rdfs:label>Template-driven information extraction for populating ontologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1493235042_59">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1704831554_120"/>
+    <rdfs:label>Chain ReAKTing: Collaborative Advanced Knowledge Technologies in the Comb-e-Chem Grid.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1773543214_204">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1945141026_110"/>
+    <rdfs:label>MyPlanet: an ontology-driven Web-based personalised news service.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document439058265_245">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1945141026_110"/>
+    <rdfs:label>Supporting ontology-driven document enrichment within communities of practice.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1945141026_110">
+    <foaf:name>Buckingham Shum, Simon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-150805895_174">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1945141026_110"/>
+    <rdfs:label>Formalization, User Strategy and Interaction Design: Users' Behaviour with Discourse Tagging Semantics.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1704831554_120">
+    <foaf:name>Buckingham Shum, Dr. Simon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-2418974_175">
+    <foaf:name>Buckingham Shum, Simon J.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1634930938_65">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1704831554_120"/>
+    <rdfs:label>Collaborative Tools in the Semantic Grid.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2077830802_235">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1945141026_110"/>
+    <rdfs:label>Semantically Marked Up... Now What?.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1019542585_177">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1945141026_110"/>
+    <rdfs:label>The Application of Advanced Knowledge Technologies for Emergency Response.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

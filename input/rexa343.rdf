@@ -1,0 +1,139 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personc7c9c2445687440b994e7a9c37f0c55158a1ce75">
+    <foaf:name>G. Hughes</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person5cf2e64ea950d50724856cf8f261d1ea89b6dd95">
+    <foaf:name>Saranyan Vigraham</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7cdd2505a190d27efe2ac77a384b3f45d92b9bf2">
+    <foaf:name>Hugo R. Mills</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person432EE49A2035F246E682A1B2DE60E76CD66C3E07">
+    <foaf:name>Steven Tuecke</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person8a1d68b5890ae09807b282cafb007ce2714d74c6">
+    <foaf:name>Ian T. Foster</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1e792139841b2f3a8ccbe277fa69fc2b8f4e34b9">
+    <foaf:name>Monica M C Schraefel</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personfb40139e63cb4d5858d53a894699708bf74d2c01">
+    <foaf:name>Guy Smith</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personC67C94E9C5197A24F5B8AE66B05E666068DD7135">
+    <foaf:name>Luc Moreau</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personfd48b7693cc4cd7c0992f01a34cbaefd44291796">
+    <foaf:name>Paul T. Maguire</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persondbad23349d93a7fc8c42acfc2eb232ea0a7662bd">
+    <foaf:name>H. Mills</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7505f8bf1db828f81d18ed6e445f2e6d839109d7">
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personfd48b7693cc4cd7c0992f01a34cbaefd44291796"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6430d4792001f3ff756d758ee40c4b43c0cbcc50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8a1d68b5890ae09807b282cafb007ce2714d74c6"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4a8539189733dc0f4f4911bc839c417461ee8272"/>
+    <rdfs:label>Modeling and Managing State in Distributed Systems: The Role of OGSI and WSRF.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person432EE49A2035F246E682A1B2DE60E76CD66C3E07"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personA123FC58F4BC3A62E2FC114B45CD354E5126DD23"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5cf2e64ea950d50724856cf8f261d1ea89b6dd95"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document985cb1e68794372119f4bb364d8ade14c9a4bf1d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person81A2053C95BC64338FC9E8AD663344EE29C94E9D"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persondbad23349d93a7fc8c42acfc2eb232ea0a7662bd"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personC67C94E9C5197A24F5B8AE66B05E666068DD7135"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc7c9c2445687440b994e7a9c37f0c55158a1ce75"/>
+    <rdfs:label>The semantic smart laboratory: a system for supporting the chemical eScientist.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person03a272751151cdad6c2d04503adefd2589456397">
+    <foaf:name>Gareth V. Hughes</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person09ccf2d742c22a843f3650a56347739c6dc44921">
+    <foaf:name>A. Carr</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentf91c06269688574b2a12a14eb0d94eb5c7ee17c9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person689D379905FE5132CB97818F51F42E73AA32F01E"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person03a272751151cdad6c2d04503adefd2589456397"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1e792139841b2f3a8ccbe277fa69fc2b8f4e34b9"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7cdd2505a190d27efe2ac77a384b3f45d92b9bf2"/>
+    <rdfs:label>Making tea: iterative design through analogy.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personA123FC58F4BC3A62E2FC114B45CD354E5126DD23">
+    <foaf:name>Karl Czajkowski</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document9cbfaaa9d3e8cb4bee6d61e327457fe9163c7020">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person81A2053C95BC64338FC9E8AD663344EE29C94E9D"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person09ccf2d742c22a843f3650a56347739c6dc44921"/>
+    <rdfs:label>Publication At Source: Scientific Communication from a Publication Web to a Data Grid.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person4a8539189733dc0f4f4911bc839c417461ee8272">
+    <foaf:name>Donald F. Ferguson</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7D63A484A57FE94431183F1C4899C8758CBC1A34">
+    <foaf:name>Terry R. Payne</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person689D379905FE5132CB97818F51F42E73AA32F01E">
+    <foaf:name>Gary Smith</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37">
+    <foaf:name>Jeremy Frey</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3bc020b2e4336675e773b45e432e490012167c22">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person03a272751151cdad6c2d04503adefd2589456397"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7D63A484A57FE94431183F1C4899C8758CBC1A34"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1e792139841b2f3a8ccbe277fa69fc2b8f4e34b9"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personfb40139e63cb4d5858d53a894699708bf74d2c01"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7cdd2505a190d27efe2ac77a384b3f45d92b9bf2"/>
+    <rdfs:label>Breaking the book: translating the chemistry lab book into a pervasive computing lab environment.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person81A2053C95BC64338FC9E8AD663344EE29C94E9D">
+    <foaf:name>David De Roure</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person6430d4792001f3ff756d758ee40c4b43c0cbcc50">
+    <foaf:name>D. Snelling</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

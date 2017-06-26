@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document1974362874_221
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/dlib/Beagrie02
+0.20689655172413793
+http://kmi.open.ac.uk/fusion/dblp#person1347455603_339
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Beagrie:Neil.html
+0.8571428571428572

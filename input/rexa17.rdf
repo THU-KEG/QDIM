@@ -1,0 +1,156 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document373ae4a4f992c97831e39c6c17672ca0a28658ad">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone213368a3b418a1b316f6a7d3eed3aedbad206bf"/>
+    <rdfs:label>IBIS: A Tool for All Reasons.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7b480a30155ad954b5fc04d2ce1ef1212bbcf28d">
+    <foaf:name>Albert M. Selvin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document075109f975980d66ea16317ea01868bb10ad1ba1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone4bb849f13de666e3dd5d7d7b3dd7e8c55739b67"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6189378aa03b0711506cd0f5acf6a3cd4c632769"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person42674d72d168b23fa447bd19ef1d0a1b418e84a8"/>
+    <rdfs:label>Hypertext for Collective Sensemaking: 15 Years on from gIBIS.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person02952250483d2ac8ab141e5ace0ad1859c4f4207">
+    <foaf:name>Michael L. Begeman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b">
+    <foaf:name>Maarten Sierhuis</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person42674d72d168b23fa447bd19ef1d0a1b418e84a8">
+    <foaf:name>M. Facilitated</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document594f88d95f7ba0108f45753a894be7df3b4d211a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8049b9e221ba7bc51d26896ac11496a0694b6ed4"/>
+    <rdfs:label>Panel: Organisational Memory.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc9a95a5907d8f85e80479d216cd0a6adf33c1442">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb4d9f05cc3fca80dda3b086702977f3ec5255756"/>
+    <rdfs:label>Report on a Development Project Use of an Issue-Based Information System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C">
+    <foaf:name>Simon Buckingham Shum</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente8e66eccdbceef45382dc7bf9872de0c1dceb983">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person17b626374c4e4b14bdfd122da247a129af2f35ff"/>
+    <rdfs:label>gIBIS: A Tool for Exploratory Policy Discussion.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd9b6cca2ba8b8145eee0741b54d23c8da5471ac0">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb4d9f05cc3fca80dda3b086702977f3ec5255756"/>
+    <rdfs:label>Report on a Development Project Use of an Issue-Based Information System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenteefdc3b8549f28099d2d0e65926b2b87c54faf80">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb4d9f05cc3fca80dda3b086702977f3ec5255756"/>
+    <rdfs:label>this volume). A Process-Oriented Approach to Design Rationale.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person17b626374c4e4b14bdfd122da247a129af2f35ff">
+    <foaf:name>Casey M Bergman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone213368a3b418a1b316f6a7d3eed3aedbad206bf">
+    <foaf:name>Michael L. Begeman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325">
+    <foaf:name>Jeff Conklin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person6173e9b61d97c92ecf233d525534994128f162b0">
+    <foaf:name>E. Yourdon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document541bfaf8b9b7cb4efa1e8b84b2b4991564debbeb">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb4d9f05cc3fca80dda3b086702977f3ec5255756"/>
+    <rdfs:label>A Process-oriented Paradigm for Design Rationale.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document669d61bff677ab5b228c3899b7b68c87a580926a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb4d9f05cc3fca80dda3b086702977f3ec5255756"/>
+    <rdfs:label>Experience with the gIBIS model in a corporate setting.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone4bb849f13de666e3dd5d7d7b3dd7e8c55739b67">
+    <foaf:name>A. Selvin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document9cd57efc6fd6f8a7b8e5086dbc237579e68e1db9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person02952250483d2ac8ab141e5ace0ad1859c4f4207"/>
+    <rdfs:label>gIBIS: A tool for all reasons.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person8049b9e221ba7bc51d26896ac11496a0694b6ed4">
+    <foaf:name>Susan Star</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentbc9657ba6133a82cdb1c7b9df6472dfd31f92902">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7b480a30155ad954b5fc04d2ce1ef1212bbcf28d"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Facilitated hypertext for collective sensemaking: 15 years on from gIBIS.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personb4d9f05cc3fca80dda3b086702977f3ec5255756">
+    <foaf:name>K. C Burgess Yakemovic</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document68118d66acbd710f2bf67a3c1b971dda45998393">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb4d9f05cc3fca80dda3b086702977f3ec5255756"/>
+    <rdfs:label>A process-oriented approach to design rationale.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document230645e27e33d2f11002688e6863f3bcb47c7ddb">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6173e9b61d97c92ecf233d525534994128f162b0"/>
+    <rdfs:label>Groupware for the New Organization.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person6189378aa03b0711506cd0f5acf6a3cd4c632769">
+    <foaf:name>B. R S Buckingham</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document002d5f3f1fd298257d34bbd2f3fda4384b865f61">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb4d9f05cc3fca80dda3b086702977f3ec5255756"/>
+    <rdfs:label>A Process-Oriented Approach to Design Rationale.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+</rdf:RDF>

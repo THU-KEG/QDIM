@@ -1,0 +1,13 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document-218005031_254
+3
+http://dblp.uni-trier.de/rec/bibtex/journals/dlib/Shabajee02
+0.25217391304347825
+http://dblp.uni-trier.de/rec/bibtex/conf/www/ReynoldsSC04
+0.18681318681318682
+http://dblp.uni-trier.de/rec/bibtex/conf/icalt/DingleyS01
+0.2857142857142857
+http://kmi.open.ac.uk/fusion/dblp#person560031728_366
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Shabajee:Paul.html
+0.8333333333333333

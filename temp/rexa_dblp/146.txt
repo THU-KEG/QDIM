@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document3b2de33424d437463f01e7ffd41b1d1d10ee0d45
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/expert/StaabBLRWSDCHNOK04
+0.8450586660628006
+http://kmi.open.ac.uk/fusion/dblp#person91a169dac4dd3484dd9751fdea6827750f913b1a
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dillon:Tharam_S=.html
+0.9166666666666666

@@ -1,0 +1,45 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente1b75031701cf1a93020f052ff4c0e1fd9690814">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person625974C2B616ACA8F1C9F48020BB532B4773554B"/>
+    <rdfs:label>From Software APIs to Web Service Ontologies: A Semi-automatic Extraction Method.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7a3a4900637be1bdfb6a0a3ca2a8adec50582078">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person625974C2B616ACA8F1C9F48020BB532B4773554B"/>
+    <rdfs:label>Learning web service ontologies: an automatic extraction method and its evaluation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5e847c98828b80ea6a1b51ce3e5cfbc9624c7c65">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person625974C2B616ACA8F1C9F48020BB532B4773554B"/>
+    <rdfs:label>Supporting User Tasks through Visualisation of Light-weight Ontologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person625974C2B616ACA8F1C9F48020BB532B4773554B">
+    <foaf:name>Marta Sabou</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4e9c9533037edc5a4fbdb076dc22127ac012d602">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person625974C2B616ACA8F1C9F48020BB532B4773554B"/>
+    <rdfs:label>Foundations for service ontologies: aligning OWL-S to dolce.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document71440b61d6786c016b45c329d620a26657eedf0d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person625974C2B616ACA8F1C9F48020BB532B4773554B"/>
+    <rdfs:label>Bringing Semantics to Web Services: The OWL-S Approach.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

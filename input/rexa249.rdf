@@ -1,0 +1,57 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document108e14bb24a2232a726b80c15c399e3f0efb3658">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6397880b8743b439475424cfeb703551e754b965"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person32219e357a98ca09fb72aa69ad425de4678b6e4b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>Detecting mismatches among experts' ontologies acquired through knowledge elicitation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F">
+    <foaf:name>Derek H. Sleeman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personb9ef84fde3807c6e551249c83d8cc77443f794c6">
+    <foaf:name>D. Sleeman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personec21d476510bc92ed0565e2d95bad4cbd6bc0637">
+    <foaf:name>Donald A. Preece</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document45edab4c2e1fd4b6e4f355b2c4f558f714eed558">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6397880b8743b439475424cfeb703551e754b965"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person32219e357a98ca09fb72aa69ad425de4678b6e4b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <rdfs:label>Ontology Reconciliation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd64a94cb0a9573c696376c9a9156b0977bc0a584">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6397880b8743b439475424cfeb703551e754b965"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personec21d476510bc92ed0565e2d95bad4cbd6bc0637"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb9ef84fde3807c6e551249c83d8cc77443f794c6"/>
+    <rdfs:label>Ontology reconciliations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person32219e357a98ca09fb72aa69ad425de4678b6e4b">
+    <foaf:name>Alun Preece</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person6397880b8743b439475424cfeb703551e754b965">
+    <foaf:name>Adil Hameed</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,85 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-2075093704_88">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1004966057_179"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-928391920_78"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-818431619_77"/>
+    <rdfs:label>Enacting the Distributed Business Workflows Using BPEL4WS on the Multi-Agent Platform.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-844429065_128">
+    <foaf:name>Tate, Prof. Austin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-521783133_76">
+    <foaf:name>Guo, Mr Li</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1004966057_179">
+    <foaf:name>Guo, Mr. Li</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1889488786_38">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-928391920_78"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-818431619_77"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-521783133_76"/>
+    <rdfs:label>A Generic Multi-agent System Platform For Business Workflows Using Web Services Composition.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-80393304_20">
+    <foaf:name>Chen-Burger, Dr. Yun-Heh</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1108973605_101">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1004966057_179"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-928391920_78"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-80393304_20"/>
+    <rdfs:label>Mapping a Business Process Model to a Semantic Web Service Model.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1252946047_296">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-928391920_78"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-844429065_128"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-80393304_20"/>
+    <rdfs:label>Enterprise Modelling: A Declarative Approach for FBPML.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1842292210_326">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1403368362_417"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-928391920_78"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-80393304_20"/>
+    <rdfs:label>Knowledge Management using Business Process Modeling and Workflow Techniques.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-818431619_77">
+    <foaf:name>Chen-Burger, Dr. Yun-Huh (jessica)</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-928391920_78">
+    <foaf:name>Robertson, Dr. Dave</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1403368362_417">
+    <foaf:name>Kuo, Ms. Hsiang-Ling</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-716277602_83">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1004966057_179"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-928391920_78"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-818431619_77"/>
+    <rdfs:label>Conducting The Agile Negotiation Processes Involved In The BPEL4WS Model On a Multi-agent Platform.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

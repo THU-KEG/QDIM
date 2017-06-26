@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document44edd982fa27770f36701c996f9beee3d9acd6d4
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/ws/KiryakovPTMO04
+0.7137397085193885
+http://kmi.open.ac.uk/fusion/dblp#person74fc98c76ae745afb0d67444e836a5732c0502f5
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Kiryakov:Atanas.html
+0.9270833333333334

@@ -1,0 +1,102 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document474582379_222">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1070319629_30"/>
+    <rdfs:label>Metrics for Ranking Ontologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1931821422_31">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1245765468_46"/>
+    <rdfs:label>User-Centred Onlology Learning for Knowledge Management.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1500176005_324">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1245765468_46"/>
+    <rdfs:label>Knowledge Maintenance and the Frame Problem.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1134805786_211">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person745285216_232"/>
+    <rdfs:label>Image annotation with Photocopain.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1070319629_30">
+    <foaf:name>Brewster, Christopher</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-921818547_261">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1245765468_46"/>
+    <rdfs:label>Using HLT for Acquiring, Retrieving and Publishing Knowledge in AKT: Position Paper.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1315733104_152">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1070319629_30"/>
+    <rdfs:label>Searching and Ranking Ontologies on the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1245765468_46">
+    <foaf:name>Brewster, Mr. Christopher</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-465579141_121">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1245765468_46"/>
+    <rdfs:label>Ontologies, Taxonomies, Thesauri: Learning from Texts.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person745285216_232">
+    <foaf:name>Brewster, Mr Christopher</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-936078500_233">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person745285216_232"/>
+    <rdfs:label>Photocopain - Annotating Memories For Life.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1788481158_22">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1245765468_46"/>
+    <rdfs:label>Techniques for Automated Taxonomy Building: Towards Ontologies for Knowledge Management.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document410725349_165">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1245765468_46"/>
+    <rdfs:label>The Ontology: Chimaera or Pegasus.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document757955811_281">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1245765468_46"/>
+    <rdfs:label>Background and Foreground Knowledge in DynamicOntology Construction: Viewing Text as KnowledgeMaintenance.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1549642379_237">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1070319629_30"/>
+    <rdfs:label>Ranking Ontologies with AKTiveRank.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1303940839_74">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1070319629_30"/>
+    <rdfs:label>Data Driven Ontology Evaluation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1883862425_49">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1070319629_30"/>
+    <rdfs:label>AKTive Food: Semantic Web based knowledge conduits for the Organic Food Industry.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1922370948_92">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1245765468_46"/>
+    <rdfs:label>Knowledge Representation with Ontologies: The Present and Future.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+</rdf:RDF>

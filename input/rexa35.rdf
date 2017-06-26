@@ -1,0 +1,40 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta458f6da3a7147a6cf3a52e8aa7f255c53e568e5">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person31eeba3ff433973840f186cc7c6318e7c043955c"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persona90bdaeee2fd02a23524c9af3f7a86922b900236"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6cc2f1391e459aa9158a779e378f7d3544f5dbfa"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf335e17c448bae9bd900ffd67f4407aff1deb1ef"/>
+    <rdfs:label>Moderne Informationstechnologie und ihre Auswirkungen auf die korpus-basierte Forschung.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personf335e17c448bae9bd900ffd67f4407aff1deb1ef">
+    <foaf:name>A. Russel</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person6cc2f1391e459aa9158a779e378f7d3544f5dbfa">
+    <foaf:name>Peter Wittenburg</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person31eeba3ff433973840f186cc7c6318e7c043955c">
+    <foaf:name>Hennie Brugman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persona90bdaeee2fd02a23524c9af3f7a86922b900236">
+    <foaf:name>Daan Broeder</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

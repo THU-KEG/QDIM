@@ -1,0 +1,75 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917">
+    <foaf:name>Harith Alani</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person29b5ec91b6a3d841d2a4f49cf3eb4d493471a0d7">
+    <foaf:name>Chris Walton</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personb236581c9b149a3c2de09b7991aed00fa0a5cc3a">
+    <foaf:name>Koji Yoshida</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person5ABEEA39276120DDBE1FC7D6DB42B796D9AB14CB">
+    <foaf:name>W. Marco Schorlemmer</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personda64515cd001e9840bae7264a0dc55b095ff81c2">
+    <foaf:name>Tomonori Akutsu</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document409d1d7a4503791916872f6811420f2a7a70d101">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person04e9e80facbc899bc766c9646a4a113b8284c9f7"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc89ff4358973a55b24d855b58718f7b1850a5c8f"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person110f6a9eb7e62f5704ba1664e62160379ffd25ac"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personea4419596483f352e7d1c704b6f3f63c2e1a8965"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personda64515cd001e9840bae7264a0dc55b095ff81c2"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person29b5ec91b6a3d841d2a4f49cf3eb4d493471a0d7"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb236581c9b149a3c2de09b7991aed00fa0a5cc3a"/>
+    <rdfs:label>Practice of Linux Lesson in Blended Learning.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc">
+    <foaf:name>Yannis Kalfoglou</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person110f6a9eb7e62f5704ba1664e62160379ffd25ac">
+    <foaf:name>Kunihiro Yamada</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personea4419596483f352e7d1c704b6f3f63c2e1a8965">
+    <foaf:name>Satoru Fujii</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document34a6b5236d771e9b483e2454fe1cadbddb7a31ef">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5ABEEA39276120DDBE1FC7D6DB42B796D9AB14CB"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person29b5ec91b6a3d841d2a4f49cf3eb4d493471a0d7"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0002b24956d676b797752bc7aecd13f95c8bd917"/>
+    <rdfs:label>On the Emergent Semantic Web and Overlooked Issues.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personc89ff4358973a55b24d855b58718f7b1850a5c8f">
+    <foaf:name>Hiroshi Ichimura</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person04e9e80facbc899bc766c9646a4a113b8284c9f7">
+    <foaf:name>Kazuhiro Nakada</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

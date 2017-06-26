@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#document72c46217e006a512715d3311cf3ae3b954e2959c
+1
+http://dblp.uni-trier.de/rec/bibtex/books/ios/omelayenkoK03/SleemanPRS03
+0.6817801543172249
+http://kmi.open.ac.uk/fusion/dblp#document65465e628f826ed5587ae28edc60d11027ecd014
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/icdm2/BichindaritzP04
+0.6817801543172249
+http://kmi.open.ac.uk/fusion/dblp#personcf0ea8604b6a273421dfc2156f66a6bc73f20842
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Potter:Stephen.html
+1.0

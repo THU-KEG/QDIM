@@ -1,0 +1,45 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document22c22102b3890887dc3a90dc84dd73eff9f5bd4c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person19139c4ba9598a153ecccf3d31f4e1e10f033cf0"/>
+    <rdfs:label>Large scale experiments for semantic labeling of noun phrases in raw text.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentf17bba6b637d175ef0ed7f9fb9a331dcde8c154a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person19139c4ba9598a153ecccf3d31f4e1e10f033cf0"/>
+    <rdfs:label>Using HLT for Acquiring, Retrieving and Publishing Knowledge in AKT: Position Paper.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document572606c449b2df1893bd3b86df3ba75f4ef1714e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person19139c4ba9598a153ecccf3d31f4e1e10f033cf0"/>
+    <rdfs:label>Natural Language Information Retrieval: TREC-5 Report.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta355d74e82dc44f3d6d0ff02fbde18ca206fb632">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person19139c4ba9598a153ecccf3d31f4e1e10f033cf0"/>
+    <rdfs:label>FASiL Adaptive Email Categorization System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person19139c4ba9598a153ecccf3d31f4e1e10f033cf0">
+    <foaf:name>Louise Guthrie</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document8357135a79e452131d4310e9ef049c245d1db3fe">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person19139c4ba9598a153ecccf3d31f4e1e10f033cf0"/>
+    <rdfs:label>The Role of Lexicons in Natural Language Processing.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+</rdf:RDF>

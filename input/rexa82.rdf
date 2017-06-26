@@ -1,0 +1,95 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document777fc3141c6e9d70cacfb98f4f586bae5e94278c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>UPML: The Language and Tool Support for Making the Semantic Web Alive.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4af5fe6d566a1538e4fed96af988b2f5a713d3d9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>Specifications of Knowledge Component Reuse.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb888a2a6b3a21213b177d1fade6732dd2ef5d01b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>The use of Ontologies for Specifying Tasks and Problem Solving Methods: A Case Study.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentcbb0cfd4980071e30ce17afc023c1d2a4ca10211">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>The Component Model of UPML in a Nutshell.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document16593d641f2b1d5c9fd3e9dfa38d264a085a6a6e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>Z: IBROW3 - An Intelligent Brokering Service for Knowledge-Component Reuse on the World Wide Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentde88c5ab6970e4dd000ee7f97bb4012276b48a39">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>Structured development of protein solving methods.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4">
+    <foaf:name>Dieter Fensel</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentfda9b6d760d7a18b092ec58ad023220acecd55ed">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>Structured Development of Problem Solving Methods.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0fb64e23ff01cb42b0190d43cfc3cb4eeb398150">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>UPML: A Framework for Knowledge System Reuse.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document75b58bf9bf25fcd6bb5addaa6c09b02478477495">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>Automatic Selection of Problem Solving Libraries Based on Competence Matching.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document825b2cbfadfd277f00d15a27419eac75234b6409">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>A Framework for knowledge system reuse.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document04d559f1c8b5ea47bef7594c146d9ad1ce5bdf29">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>In Press). Structured Development of Problem Solving Methods.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc9c3ee573f40dc1918e0612ff42a2a1a639118df">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>An intelligent brokering service for knowledgecomponent reuse on the World-Wide Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document64f241e79009eae132fbc0da335229f8066fff4b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>Specifications of Knowledge Components for Reuse, in the proceedings of the 11th Intl.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentdeae419d6e3a55ac284660f4ea88165c14a18cee">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>OIL &amp; UPML: A unifying framework for the knowledge web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentfea3b05661a44b894fbef9587220fd6b5a8f2c68">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <rdfs:label>Dimensions for Method Refinement.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

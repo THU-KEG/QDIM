@@ -1,0 +1,234 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1633400939_114">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person15415786_189"/>
+    <rdfs:label>Mining Web Data for Competency Management.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1380046259_225">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person15415786_189"/>
+    <rdfs:label>Modularization: a Key for the Dynamic Selection of Relevant Knowledge Components.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-2136578152_190">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person15415786_189"/>
+    <rdfs:label>An Infrastructure for Acquiring High Quality Semantic Metadata.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2009241669_2">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person48916395_5"/>
+    <rdfs:label>MnM: Ontology Driven Semi-Automatic and Automatic Support for Semantic Markup.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1780913622_171">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249"/>
+    <rdfs:label>Using the Semantic Web to Navigate Conceptual Spaces: an Application for the Philosophical Domain.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1213548385_92">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person15415786_189"/>
+    <rdfs:label>ESpotter: Adaptive Named Entity Recognition for Web Browsing.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document439058265_245">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249"/>
+    <rdfs:label>Supporting ontology-driven document enrichment within communities of practice.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document343060099_322">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-509707088_257"/>
+    <rdfs:label>IRS-II: A Framework and Infrastructure for Semantic Web Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-933165077_25">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15"/>
+    <rdfs:label>The Epistemology of Scheduling Problems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1360914694_232">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-509707088_257"/>
+    <rdfs:label>Personalizing Relevance on the Semantic Web through Trusted Recommendations from a Social Network.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1773543214_204">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249"/>
+    <rdfs:label>MyPlanet: an ontology-driven Web-based personalised news service.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1796456660_160">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-509707088_257"/>
+    <rdfs:label>Supporting User Tasks and Context: Challenges for Semantic Web Research.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1020494412_191">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person15415786_189"/>
+    <rdfs:label>An Infrastructure for Building Semantic Web Portals.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-2097249165_255">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249"/>
+    <rdfs:label>Template-driven information extraction for populating ontologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1573060791_154">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249"/>
+    <rdfs:label>Semantic Learning Narratives.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1788520599_223">
+    <foaf:name>Motta KMi, Professor Enrico</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1617559803_223">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person48916395_5"/>
+    <rdfs:label>MNM:  Semi-Automatic Ontology Population from Text.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1539645357_96">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15"/>
+    <rdfs:label>Lexicon generation by extraction of context patterns.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1704013461_117">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person48916395_5"/>
+    <rdfs:label>Multi-agent Ontology Mapping Framework in the AQUA Question Answering System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1636383653_123">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1788520599_223"/>
+    <rdfs:label>Ontology-driven Question Answering in AquaLog.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document960555499_228">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person15415786_189"/>
+    <rdfs:label>Ontology Selection on the Real Semantic Web: How to Cover the Queens Birthday Dinner?.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1542591648_229">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249"/>
+    <rdfs:label>Ontology Selection: Ontology Evaluation on the Real Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1282998309_99">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15"/>
+    <rdfs:label>Magpie: Browsing and Navigating on the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-509707088_257">
+    <foaf:name>Motta, Professor Enrico</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person15415786_189">
+    <foaf:name>Motta, Prof. Enrico</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1833061966_241">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-509707088_257"/>
+    <rdfs:label>Reviews and Ratings on the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15">
+    <foaf:name>Motta, Prof Enrico</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person48916395_5">
+    <foaf:name>Motta, Dr Enrico</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2077830802_235">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249"/>
+    <rdfs:label>Semantically Marked Up... Now What?.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document892495519_45">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15"/>
+    <rdfs:label>An Ontological Formalization of the Planning Task.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-25371949_4">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person48916395_5"/>
+    <rdfs:label>MnM: Ontology-Driven Tool for Semantic Markup.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1519605163_63">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15"/>
+    <rdfs:label>Collaborative Semantic Web Browsing with Magpie.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249">
+    <foaf:name>Motta, Enrico</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1097534236_192">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249"/>
+    <rdfs:label>An ontology for the description and navigation through philosophical resources.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-984545963_258">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person15415786_189"/>
+    <rdfs:label>Using the Semantic Web as Background Knowledge for Ontology Mapping.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1862438960_151">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person48916395_5"/>
+    <rdfs:label>Knowledge Extraction by using an Ontology Based Annotation Tool.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-150805895_174">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249"/>
+    <rdfs:label>Formalization, User Strategy and Interaction Design: Users' Behaviour with Discourse Tagging Semantics.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1175444684_126">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person48916395_5"/>
+    <rdfs:label>Ontology Mapping with Domain Specific Agents in the AQUA Question Answering System..</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1401295652_137">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15"/>
+    <rdfs:label>Opening Up Magpie via Semantic Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1930971239_5">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15"/>
+    <rdfs:label>Magpie  towards a semantic web browser.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1417469045_231">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-509707088_257"/>
+    <rdfs:label>Person to Person Trust Factors in Word of Mouth Recommendation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-643380535_266">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15"/>
+    <rdfs:label>A Generic Library of Problem Solving Methods for Scheduling Applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-125334839_169">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-509707088_257"/>
+    <rdfs:label>Uses of Contextual Information to Support Online Tasks.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1248385659_236">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15"/>
+    <rdfs:label>PowerMap: Mapping the real semantic web on the fly.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-948406457_60">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15"/>
+    <rdfs:label>AquaLog: An Ontology-portable Question Answering System for the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

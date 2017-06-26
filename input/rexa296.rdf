@@ -1,0 +1,60 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5e621e35b2b1b85d6b31418c7330c50672a59406">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <rdfs:label>Ensuring referential integrity of ontologies for the semantic web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4e8cef37d0073666eeb25d535121043493c8edb7">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <rdfs:label>Data Driven Ontology Evaluation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd290018435cd8f89a34a98bd004ac70ebcab2b07">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <rdfs:label>On the combinatorics of row and corner transfer matrices of the A (1) n 1 restricted face models.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta07eb008bb36d6eace4e7207aae291f505f14533">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <rdfs:label>Ontocopi: Using ontology-based network analysis to identify communities of practice.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document63610ce719a1558c3ad2ca93312c25fde7f36495">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <rdfs:label>A high-level approach to confidence estimation in speech recognition.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentf2ee802346bb3c385083071c56037876317c0347">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <rdfs:label>Managing Reference.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5">
+    <foaf:name>Srinandan Dasmahapatra</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document687d2311500897e908525c8231c19ef18ca5cb42">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <rdfs:label>Run-length distributions of recursive median filters using probabilistic automata.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document686e401ccb6736b2073143fd5be2c43782eb4687">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person763b9caff8bf356c5e368fb0b6ef69e0a0c9a3e5"/>
+    <rdfs:label>A semantically-based confidence measure for speech recognition.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

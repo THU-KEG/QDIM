@@ -1,0 +1,50 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0C3EAB56BF77306B49D4FF77414E3856ABA75753">
+    <foaf:name>Marc Eisenstadt</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document47c18e9219ad390abd3d93819efc7dbf31b65be6">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0C3EAB56BF77306B49D4FF77414E3856ABA75753"/>
+    <rdfs:label>Evaluating a virtual summer school.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb1565eb5df54f3c98abbba07dd7d1ebb97d8335b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0C3EAB56BF77306B49D4FF77414E3856ABA75753"/>
+    <rdfs:label>A Framework for Describing and Implementing Software Visualization Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3f9aa6c0ff6df605bc4f144d733f25545ec5acab">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0C3EAB56BF77306B49D4FF77414E3856ABA75753"/>
+    <rdfs:label>Workshop on Grid Learning Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd7f1cff3a7cb96efaded6b7742e66b6b1beaf239">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0C3EAB56BF77306B49D4FF77414E3856ABA75753"/>
+    <rdfs:label>Integrating a Web and Live Symposium - the Learning.Org Experience.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1d727c17974de10f981a1413beb148e993e74672">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0C3EAB56BF77306B49D4FF77414E3856ABA75753"/>
+    <rdfs:label>My Hairiest Bug War Stories.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document16bac7c03374427a8d2ae8632af8faabd9fd1498">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0C3EAB56BF77306B49D4FF77414E3856ABA75753"/>
+    <rdfs:label>Dynamic Learning Agents and Enhanced Presence on the Grid.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

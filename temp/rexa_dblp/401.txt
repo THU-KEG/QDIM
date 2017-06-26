@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#person94befe94e7edbd2d5f806850f5a905eb24e4640f
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/v/Vargas=Vera:Maria.html
+0.7969516042077054
+http://kmi.open.ac.uk/fusion/dblp#person8eda253ac9113ff6fde9f984617891e57943a6ee
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Moreale:Emanuela.html
+0.7969516042077054
+http://kmi.open.ac.uk/fusion/dblp#document8e70dfe333bad9b47d24340d0f19e1677e4e653f
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/micai/MorealeV04
+1.0

@@ -1,0 +1,90 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document8aa6ecea48fc2b59d0b56ccfdf0cd63836214cde">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>Developing Finite Domain Constraints - A Data Model Approach.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0">
+    <foaf:name>Peter M D Gray</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentda64c1a9ba90eaf0be63460135a63369ca4fc0e5">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>Architecture of a mediator for a bioinformatics database federation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document49a5f14b01e5cfc722c94da64d5de564039b00d1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>The music of nature and the nature of music.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentad0472899dccfc2a7e7f23ac972178136458affd">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>The Evolving Role of Constraints in the Functional Data Model.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3fe29e6a39bccd2d5af4ed8350488115a6469402">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>KRAFT: Knowledge Fusion from Distributed Databases and Knowledge Bases.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document87a34bdf567519242db71b6e32fadec70670f1f2">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>Developing finite domain constraints -- a data model approach.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta95737ac7b6cf735c5df6260d48191344e17258e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>Collection Views: Dynamically Composed Views which Inherit Behaviour.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0d833769cc91db85d03190e163fa772a57a225d2">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>Rewrite Rules for Quantified Subqueries in a Federated Database.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentfbc561fa536c07d6c466031cfc9b3228746644cc">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>Mobile Constraints for Semantic Web Applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document864ff8b9f5cf32f63ec71fa1fe48f522540b3d7d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>Constraint and Data Fusion in a Distributed Information System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document8f685d335d950e0d33afa07f4f19ef06120ef09c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>Supporting Virtual Organisations Using BDI Agents and Constraints.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentefdee67716b0aaa10690a94eff13523a3ae1f005">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>Supporting Collaboration Through Semantic-Based Workflow and Constraint Solving.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentfd895e93cafa321980f9789fbb016ef2842c67dd">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>Commitment Management through Constraint Reification.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document88bdc39db2b79d67f1d7e56e6a35d9481b158825">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>Experience in Using RDF in Agent-Mediated Knowledge Architectures.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

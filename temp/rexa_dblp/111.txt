@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#persona72ddeb41c5246db3e681b9ebf6b359a6bc34fce
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Brown:Ken_N=.html
+0.7435687429597291
+http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sleeman:Derek_H=.html
+0.822129185305785
+http://kmi.open.ac.uk/fusion/dblp#person4619d071ab22632815e2bad3479f83821b36c1d2
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/n/Nordlander:Tomas_Eric.html
+0.7662325688814018
+http://kmi.open.ac.uk/fusion/dblp#document5fb74d0647024bb524ad9f392a7791abf95d98b8
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/cp/NordlanderBS03
+1.0

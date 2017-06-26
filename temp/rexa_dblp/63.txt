@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Shum:Simon_Buckingham.html
+0.6050291843815683
+http://kmi.open.ac.uk/fusion/dblp#person0DF2F404B2FF7978899EBF27EF6009673E54C40B
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Motta:Enrico.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#person46e72126251b47729d5836a1999b3b03826741bd
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Domingue:John.html
+0.6856474130970514
+http://kmi.open.ac.uk/fusion/dblp#personaeb887fbd84be6aae93cb95eaecb961c37a069e3
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Motta:Enrico.html
+0.6302633134897564

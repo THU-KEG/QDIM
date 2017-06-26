@@ -1,0 +1,45 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7b2da3ea49f7a4297f9e7f92687b159ff299f82c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB"/>
+    <rdfs:label>PersonalityCentered Agents for Virtual Computer Games.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document214cbd6ad5dc5ddebd79c8f55f148ab29a6bea7d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB"/>
+    <rdfs:label>Delivering Intelligent Planning Information to Mobile Device Users in Collaborative Environments.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document6ab8f503fad67625de96633e0e17326d3d17c43b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB"/>
+    <rdfs:label>Intelligent Agents for Coalition Search and Rescue Task Support.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1ed9d54e059a1edb5d7be84edce621e8ee773b30">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB"/>
+    <rdfs:label>I-Rescue: A Coalition Based System to Support Disaster Relief Operations, The Third International Association of Science and Technology for Development (IASTED.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5974c398d46e2b812bd89f3bf2a2f8cfca9c1b6b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB"/>
+    <rdfs:label>Intelligent Agents for Coalition Search and Rescue Task Support, AAAI-2004 Intelligent Systems Demonstrator.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB">
+    <foaf:name>Clauirton Siebra</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

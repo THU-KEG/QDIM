@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document1424784354_111
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/amai/Walton04
+1.0
+http://kmi.open.ac.uk/fusion/dblp#person-565432790_201
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Walton:Christopher_D=.html
+0.8333333333333334

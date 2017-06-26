@@ -1,0 +1,17 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#person-1357002852_99
+2
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wilks:Yorick.html
+0.8518518518518519
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bontcheva:Kalina.html
+0.16203703703703703
+http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12
+2
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wilks:Yorick.html
+0.18981481481481477
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bontcheva:Kalina.html
+0.8333333333333333
+http://kmi.open.ac.uk/fusion/dblp#document1323977857_56
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/nldb/BontchevaW04
+1.0

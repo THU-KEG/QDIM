@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#person5c6badff16982b948b216e66c3f07221c23f0069
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dasmahapatra:Srinandan.html
+0.6822616299277233
+http://kmi.open.ac.uk/fusion/dblp#person1a443450acc726e6fb1e05dbe1d2cd73dc19efcc
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Kalfoglou:Yannis.html
+0.7548043297199309
+http://kmi.open.ac.uk/fusion/dblp#person5c2096caab9afe6cbbc8b8f4e88eef22c2c1d028
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Chen=Burger:Yun=Heh.html
+0.7548043297199309
+http://kmi.open.ac.uk/fusion/dblp#documenta42477c8bc783d9af8243b67fb8b75e5c71342cd
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/icfca/KalfoglouDC04
+1.0

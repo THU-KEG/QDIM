@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#documenta458f6da3a7147a6cf3a52e8aa7f255c53e568e5
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/gi/WittenburgBBR98
+0.8442270191633032
+http://kmi.open.ac.uk/fusion/dblp#persona90bdaeee2fd02a23524c9af3f7a86922b900236
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Broeder:Daan.html
+1.0

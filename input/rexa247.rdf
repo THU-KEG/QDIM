@@ -1,0 +1,55 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document322a9b248338da43793a4dee5e782012906d3eb3">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7408b61d3e2a53dd9b2b91a7f5dccb626c710812"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person53F9FA3C4DCE30012853D4D6EC3A75759F0B5A47"/>
+    <rdfs:label>Knowledge-based approaches for interactive student modelling and adaptive web explanations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personc4809877e39362f8c21627894eb1131b6324a3e0">
+    <foaf:name>Lora Aroyo</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc281eeac6191b47bb5c2a3ee0da64c760c94b51d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person53F9FA3C4DCE30012853D4D6EC3A75759F0B5A47"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personbb080eb78df343adc37b257f71f4c4c2563e6c5c"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc4809877e39362f8c21627894eb1131b6324a3e0"/>
+    <rdfs:label>Integrating open user modeling and learning content management for the semantic web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personbb080eb78df343adc37b257f71f4c4c2563e6c5c">
+    <foaf:name>R. Denaux</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person53F9FA3C4DCE30012853D4D6EC3A75759F0B5A47">
+    <foaf:name>Vania Dimitrova</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone8d0549a50febcc367c07d928c9f135ae4ad9fb4">
+    <foaf:name>Kalina Bontcheva</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7408b61d3e2a53dd9b2b91a7f5dccb626c710812">
+    <foaf:name>Kaling Bontcheva</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente12ce294beaad12b43ec12f6d81a5ae3f13e883b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone8d0549a50febcc367c07d928c9f135ae4ad9fb4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person53F9FA3C4DCE30012853D4D6EC3A75759F0B5A47"/>
+    <rdfs:label>Examining the use of conceptual graphs in adaptive web-based systems that aid terminology learning.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+</rdf:RDF>

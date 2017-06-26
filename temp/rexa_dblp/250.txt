@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#document45edab4c2e1fd4b6e4f355b2c4f558f714eed558
+1
+http://dblp.uni-trier.de/rec/bibtex/books/sp/staabS2004/HameedPS04
+0.7615979858308296
+http://kmi.open.ac.uk/fusion/dblp#person6397880b8743b439475424cfeb703551e754b965
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Hameed:Adil.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#document108e14bb24a2232a726b80c15c399e3f0efb3658
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/kbs/HameedSP02
+0.7615979858308296
+http://kmi.open.ac.uk/fusion/dblp#documentd64a94cb0a9573c696376c9a9156b0977bc0a584
+1
+http://dblp.uni-trier.de/rec/bibtex/books/sp/staabS2004/HameedPS04
+0.7357846441642024

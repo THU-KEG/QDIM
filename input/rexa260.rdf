@@ -1,0 +1,60 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document80279324e7183f9d556e51b5ffe6ba3baebaa7f6">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <rdfs:label>P2 - Intelligent Process Panels to Support Coalition Operations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2d7ad21f3778a2b2b528e5c0e1b83494d6bb4b34">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <rdfs:label>I-X Task support on the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0ca9962e31546116eb673159b02d0e669d288b3e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <rdfs:label>KAoS Policy Management for Semantic Web Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentfae30c22454c7b922cbc7cb1b6663d644216ef45">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <rdfs:label>O-P 3 : Supporting the Planning Process using Open Planning Process Panels, in Proceedings of the AAAI Workshop on Agent Based Systems in the Business Context.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document6ab8f503fad67625de96633e0e17326d3d17c43b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <rdfs:label>Intelligent Agents for Coalition Search and Rescue Task Support.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531">
+    <foaf:name>Jeff Dalton</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentbea42f5f2f81b5b2013b78c89358305308ef0ee0">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <rdfs:label>Task-Achieving Agents on the World Wide Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5974c398d46e2b812bd89f3bf2a2f8cfca9c1b6b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <rdfs:label>Intelligent Agents for Coalition Search and Rescue Task Support, AAAI-2004 Intelligent Systems Demonstrator.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentaf11f500c1e6002d04f868de00dbdc724b90b374">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <rdfs:label>Applying KAoS Services to Ensure Policy Compliance for Semantic Web Services Workflow Composition and Enactment.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

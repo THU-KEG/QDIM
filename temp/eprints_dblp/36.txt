@@ -1,0 +1,17 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document892908587_164
+5
+http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-cs-0606006
+0.32653061224489793
+http://dblp.uni-trier.de/rec/bibtex/conf/rz/WittenburgB95
+0.2052980132450331
+http://dblp.uni-trier.de/rec/bibtex/journals/ijmso/BroederW06
+0.2702702702702703
+http://dblp.uni-trier.de/rec/bibtex/conf/gi/WittenburgBBR98
+0.23863636363636365
+http://dblp.uni-trier.de/rec/bibtex/conf/eScience/BroederVNS06
+0.2857142857142857
+http://kmi.open.ac.uk/fusion/dblp#person-1659407159_265
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Broeder:Daan.html
+1.0

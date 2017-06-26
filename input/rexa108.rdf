@@ -1,0 +1,39 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person29b5ec91b6a3d841d2a4f49cf3eb4d493471a0d7">
+    <foaf:name>Chris Walton</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document05ff88abbec5933f4c267a867460b7756e3e6acd">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person129d8a3ebe6ec97d04dd6b75fb3536814971aaf6"/>
+    <rdfs:label>Multi-Agent Dialogue Protocols.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person129d8a3ebe6ec97d04dd6b75fb3536814971aaf6">
+    <foaf:name>Christopher D. Walton</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document409d1d7a4503791916872f6811420f2a7a70d101">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person29b5ec91b6a3d841d2a4f49cf3eb4d493471a0d7"/>
+    <rdfs:label>Practice of Linux Lesson in Blended Learning.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document34a6b5236d771e9b483e2454fe1cadbddb7a31ef">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person29b5ec91b6a3d841d2a4f49cf3eb4d493471a0d7"/>
+    <rdfs:label>On the Emergent Semantic Web and Overlooked Issues.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

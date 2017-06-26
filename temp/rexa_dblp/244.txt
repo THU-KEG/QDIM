@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#document71444663351acbed81f70bc4826382672863b60e
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/ijmms/TennisonOS02
+0.7259103262845308
+http://kmi.open.ac.uk/fusion/dblp#person703437536180d78dcec3c6d0736a4b48f61aed86
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tennison:Jeni.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#documentb3ff940f5206819e774eda5e40b04f671470a5ce
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/ekaw/OHaraST00
+0.7259103262845308

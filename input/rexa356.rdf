@@ -1,0 +1,50 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3fe29e6a39bccd2d5af4ed8350488115a6469402">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc9a0803424c3c78582d442bb38de885a867271f5"/>
+    <rdfs:label>KRAFT: Knowledge Fusion from Distributed Databases and Knowledge Bases.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0d833769cc91db85d03190e163fa772a57a225d2">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc9a0803424c3c78582d442bb38de885a867271f5"/>
+    <rdfs:label>Rewrite Rules for Quantified Subqueries in a Federated Database.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta95737ac7b6cf735c5df6260d48191344e17258e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc9a0803424c3c78582d442bb38de885a867271f5"/>
+    <rdfs:label>Collection Views: Dynamically Composed Views which Inherit Behaviour.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2d4765c717c9929a71641a059105a1d4c4a9415c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc9a0803424c3c78582d442bb38de885a867271f5"/>
+    <rdfs:label>Pathway and Protein Interaction Data: from XML to FDM Database.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personc9a0803424c3c78582d442bb38de885a867271f5">
+    <foaf:name>Graham J L Kemp</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentda64c1a9ba90eaf0be63460135a63369ca4fc0e5">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc9a0803424c3c78582d442bb38de885a867271f5"/>
+    <rdfs:label>Architecture of a mediator for a bioinformatics database federation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentad0472899dccfc2a7e7f23ac972178136458affd">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc9a0803424c3c78582d442bb38de885a867271f5"/>
+    <rdfs:label>The Evolving Role of Constraints in the Functional Data Model.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+</rdf:RDF>

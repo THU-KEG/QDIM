@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#person-1070319629_30
+1
+http://kmi.open.ac.uk/fusion/dblp#personf4a4a4a6539d9c3a409003496df9df2e836fe7dd
+1.0
+http://kmi.open.ac.uk/fusion/dblp#document-1922370948_92
+1
+http://kmi.open.ac.uk/fusion/dblp#document6c535d77acff6fe97211978d1ca3593c2d53aa8c
+1.0
+http://kmi.open.ac.uk/fusion/dblp#document1303940839_74
+1
+http://kmi.open.ac.uk/fusion/dblp#document4e8cef37d0073666eeb25d535121043493c8edb7
+1.0
+http://kmi.open.ac.uk/fusion/dblp#document-921818547_261
+1
+http://kmi.open.ac.uk/fusion/dblp#documentf17bba6b637d175ef0ed7f9fb9a331dcde8c154a
+1.0

@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#personc718b7c40c031ae54dd4475d5101ed3da00b5ca3
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Stumme:Gerd.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#document7b373accc11d266b5080fce1f2d7f3e26e637100
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/ecweb/BozsakEHHMMOSSSSSSSTVZ02
+0.718201156409027
+http://kmi.open.ac.uk/fusion/dblp#document72ffb1857bc14ed9b6cf3bfc7bde405208195fe8
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/semweb/BerendtHS02
+0.718201156409027

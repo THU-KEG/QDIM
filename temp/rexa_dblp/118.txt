@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document4bccd2a1b2d586bd6bed699b50cbe24220532497
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/www/SerenoSM04
+0.8478623403651727
+http://kmi.open.ac.uk/fusion/dblp#person7cf22f31f9e8bac2fda1ea72300c16d96c45c317
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sereno:Bertrand.html
+1.0

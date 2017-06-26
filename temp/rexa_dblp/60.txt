@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#document239b90f04dd84d846e5f8c078016b23a90d4997c
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/nldb/SaggionCBMUHW02
+0.7345548740381249
+http://kmi.open.ac.uk/fusion/dblp#document083789acd21da98fd31c36bd962b1a98e9b1d43f
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/dke/SaggionCBMHW04
+0.7345548740381249
+http://kmi.open.ac.uk/fusion/dblp#person7f43d9b7e6e63df18394fa4e8a700dc3f8d85096
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Hamza:Oana.html
+1.0

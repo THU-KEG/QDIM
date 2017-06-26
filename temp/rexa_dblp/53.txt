@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#document4fad323a0c09dee66092b7b6f4a8b2489ad4487e
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/www/ReynoldsSC04
+1.0
+http://kmi.open.ac.uk/fusion/dblp#person87faf1c906e7d24f47e42422aa5a5be876ee2089
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Shabajee:Paul.html
+0.7807848705623868
+http://kmi.open.ac.uk/fusion/dblp#person7fee519b7c33a3c47443f5fe375b1aa51c3242f0
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cayzer:Steve.html
+0.7553179941739749
+http://kmi.open.ac.uk/fusion/dblp#persone83e2fc7b0a8b7f7f9c4a88999e4733936d751e4
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Reynolds:Dave.html
+0.7553179941739749

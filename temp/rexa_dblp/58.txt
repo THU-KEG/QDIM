@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Guthrie:David.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#document676730a7fa8a755cf673f8df75f40e76f9bea82a
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/eacl/DingliCGW03
+0.6698952612053073
+http://kmi.open.ac.uk/fusion/dblp#document2e51f6b59ee460506a9aa7fcbc918fe72e1a7c0a
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/eacl/DingliCGW03
+0.6698952612053073
+http://kmi.open.ac.uk/fusion/dblp#documente6ecae77c70710c726dc4a23d7162c7f48630459
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/ijcai/CiravegnaDGW03
+0.6698952612053073

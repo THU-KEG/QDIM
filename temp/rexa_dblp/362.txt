@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#person2d9ec69998cc61795ba1bb6a910abb93ef791540
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lopez:Vanessa.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#document260e76b7a76d81e0cecc4af75fd8a9d730618781
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/nldb/LopezM04
+0.8061494503404982

@@ -1,0 +1,80 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentff56573c017fc67b828b2791ee2b75c489c330d6">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba"/>
+    <rdfs:label>Adapting an information extraction system to different domains, languages and applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta638df4073df9f676eed951dd278676265946d69">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba"/>
+    <rdfs:label>Developing Reusable and Robust Language Processing Components for Information Systems using GATE.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd8989f22a23cfa69abc7784ff3b3b4bcf6d65a9f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba"/>
+    <rdfs:label>A Unicode-based Environment for Creation and Use of Language Resources.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document54c7c13549c7369dced9be2ebef6b0bd094c4adb">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba"/>
+    <rdfs:label>OLLIE: On-Line Learning for Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentea9c350be890fe44d592febd7026ceb713a83369">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba"/>
+    <rdfs:label>In proceedings of Content Augmentation for Mixed-Mode News Broadcasts. 3rd European Conference on Interactive Television.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb9aacefecda3f1549a3d36b760718ce2b5ee215f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba"/>
+    <rdfs:label>A framework and graphical development environment for robust NLP tools and applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document9d091bf0698ac092d0e86e00eec57c639bf02f75">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba"/>
+    <rdfs:label>Corpus linguistics and south asian languages: Corpus creation and tool development.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1308f9bd2a54308744c8ea10e4497f012cffd1ec">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba"/>
+    <rdfs:label>Architectural Elements of Language Engineering Robustness. Journal of Natural Language Engineering -- Special Issue on Robust Methods in Analysis of Natural Language Data ,forthcoming.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentdc4b863e8e42ea23704cc38e2e5c1d651586a963">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba"/>
+    <rdfs:label>Evolving GATE to meet new challenges in language engineering.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7f448659adc65e20f4a75b0a255e282531827ee8">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba"/>
+    <rdfs:label>Text mining in a digital library.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba">
+    <foaf:name>Valentin Tablan</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentf783268eca8d99e9f5248b5f555801c182ee81d6">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba"/>
+    <rdfs:label>Populating a Database from Parallel Texts Using Ontology-Based Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente7f07b0c2354c754c03e7c4f418304d02ac69916">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone24d6c6bd7bcef9edde97ba90eba98b522c2bdba"/>
+    <rdfs:label>GATE: A framework and graphical development environment for robust NLP tools and applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

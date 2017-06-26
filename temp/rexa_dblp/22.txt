@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document1c3480f00cde5395f5b91cd04aa405b20b217dd5
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/presence/DoelKP04
+0.778445586846851
+http://kmi.open.ac.uk/fusion/dblp#person01da9b5eb50ecd3dc7c513b55ee5500d00000664
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Knott:Dave.html
+1.0

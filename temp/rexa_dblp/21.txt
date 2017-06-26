@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#person58eb8c03899bff8e4810d3981a31ff79a176cd2e
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Pai:Dinesh_K=.html
+0.8701910958062671
+http://kmi.open.ac.uk/fusion/dblp#document1c3480f00cde5395f5b91cd04aa405b20b217dd5
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/presence/DoelKP04
+0.9907407407407407
+http://kmi.open.ac.uk/fusion/dblp#person01da9b5eb50ecd3dc7c513b55ee5500d00000664
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Knott:Dave.html
+0.9785192636188168

@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#person84596530d3f45804c7f2d86fa19b1a4e1ee704fb
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/n/Norton:Barry.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#document95210c6dd233d4608fe8c4b2ef06584342d1e8a7
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/iccbss/Norton05
+0.742789091867833
+http://kmi.open.ac.uk/fusion/dblp#document452b4a752c8efcda68270a363563fcc9a3fff309
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/wicsa/NortonF04
+0.742789091867833

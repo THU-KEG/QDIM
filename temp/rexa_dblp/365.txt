@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#personF1C96F7847185A9B045892DB1D4167C37562422C
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gibbins:Nicholas.html
+0.9385170993807093
+http://kmi.open.ac.uk/fusion/dblp#document010c8fa84fc8a22ae57c1fea0d872f8844a3398d
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/psss/HarrisG03
+1.0
+http://kmi.open.ac.uk/fusion/dblp#documentf045d5797b5e6871fcb2e097efb681104bcc79b6
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/psss/HarrisG03
+0.9803140271588326
+http://kmi.open.ac.uk/fusion/dblp#person6B1A0FE60105B5826D72CE926D4FE1FBFA674719
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Harris:Stephen.html
+0.7908723030719544

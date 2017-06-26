@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#document2e4b12c3cce1356cf5126feb28d731c713b727a8
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/kes/CompatangeloM03
+0.726269328155178
+http://kmi.open.ac.uk/fusion/dblp#person0ba81f4cfffe4b10c0e1dc91a3665f739e30781c
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Compatangelo:Ernesto.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#document00a1a816f20590926e883c44b9e1172738a5231c
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/kes/MeiselCH03
+0.726269328155178

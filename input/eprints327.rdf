@@ -1,0 +1,159 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-844429065_128">
+    <foaf:name>Tate, Prof. Austin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person94542145_95">
+    <foaf:name>McKenzie, Mr Craig</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1354544285_102">
+    <foaf:name>Kemp, Dr Graham J. L.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1757965220_318">
+    <foaf:name>Chalmers, Dr Stuart</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1746966902_53">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1975712516_1"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person184718014_3"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person94542145_95"/>
+    <rdfs:label>AKTive Workgroup Builder: Semantic Web Instance Data Reasoning.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1975712516_1">
+    <foaf:name>Gray, Prof Peter</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1617232382_185">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person322503612_319"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1975712516_1"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1757965220_318"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person94542145_95"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person184718014_3"/>
+    <rdfs:label>A Semantic Web Approach To Handling Soft Constraints In Virtual Organisations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person251258693_101">
+    <foaf:name>Gray, Prof Peter M. D.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1717647681_186">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1975712516_1"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person184718014_3"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person94542145_95"/>
+    <rdfs:label>A Semantic Web Blackboard System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document644208680_212">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1975712516_1"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person184718014_3"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person94542145_95"/>
+    <rdfs:label>Implementing a Semantic Web Blackboard System using Jena.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person184718014_3">
+    <foaf:name>Preece, Dr Alun</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-485719198_100">
+    <foaf:name>Hui, Dr Kit-ying</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-212803053_336">
+    <foaf:name>Gray, Prof. Peter M. D.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person229966456_333">
+    <foaf:name>Yun-Heh Chen-Burger, Dr. Yun-Heh</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1809587858_335">
+    <foaf:name>Preece, Dr. Alun D.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1204769684_2">
+    <foaf:name>Hui, Dr Kit</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1133797960_1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1204769684_2"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1975712516_1"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person184718014_3"/>
+    <rdfs:label>An Expressive Constraint Language for Semantic Web Applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-788332963_51">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1975712516_1"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person184718014_3"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person94542145_95"/>
+    <rdfs:label>AKTive Workgroup Builder (AWB): Constraint Satisfaction Problem Solving over the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document928683579_57">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person251258693_101"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1354544285_102"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1081281804_103"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-485719198_100"/>
+    <rdfs:label>Constraints as Mobile Specifications in E-Commerce Applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1081281804_103">
+    <foaf:name>Preece, Dr Alun D.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1645267771_247">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1975712516_1"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person184718014_3"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person94542145_95"/>
+    <rdfs:label>Semantic Web Reasoning using a Blackboard System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1880823220_84">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1975712516_1"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person184718014_3"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person94542145_95"/>
+    <rdfs:label>Extending SWRL to Express Fully-Quantified Constraints.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person322503612_319">
+    <foaf:name>Pan, Dr Jeff</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-306412942_153">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1809587858_335"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-172791856_334"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person229966456_333"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-212803053_336"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-844429065_128"/>
+    <rdfs:label>Supporting Collaboration through Semantic-based Workflow and Constraint Solving.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-172791856_334">
+    <foaf:name>Hui, Dr. Kit-Ying</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1318632524_208">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person322503612_319"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1975712516_1"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1757965220_318"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person94542145_95"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person184718014_3"/>
+    <rdfs:label>Handling Soft Constraints in the Semantic Web Architecture.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

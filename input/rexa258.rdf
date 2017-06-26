@@ -1,0 +1,65 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person443c1845c6b24b43bd17a65f928676bc1fa8fbdc">
+    <foaf:name>Rudi Studer</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7b373accc11d266b5080fce1f2d7f3e26e637100">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person443c1845c6b24b43bd17a65f928676bc1fa8fbdc"/>
+    <rdfs:label>Kaon - towards a large scale semantic web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentcbb0cfd4980071e30ce17afc023c1d2a4ca10211">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person443c1845c6b24b43bd17a65f928676bc1fa8fbdc"/>
+    <rdfs:label>The Component Model of UPML in a Nutshell.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0e67f99f6ab7969a13f25823b4a1fec9c207fa8b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person443c1845c6b24b43bd17a65f928676bc1fa8fbdc"/>
+    <rdfs:label>Ontology-Based Query Refinement for Semantic Portals.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document219965343dc140dccecece421fc39d7bf86e70c1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person443c1845c6b24b43bd17a65f928676bc1fa8fbdc"/>
+    <rdfs:label>Query Answering for OWL-DL with Rules.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document16593d641f2b1d5c9fd3e9dfa38d264a085a6a6e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person443c1845c6b24b43bd17a65f928676bc1fa8fbdc"/>
+    <rdfs:label>Z: IBROW3 - An Intelligent Brokering Service for Knowledge-Component Reuse on the World Wide Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7653e0f259f4cb7aa91817686871f06308624c34">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person443c1845c6b24b43bd17a65f928676bc1fa8fbdc"/>
+    <rdfs:label>Semantic community Web portals.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document901def30dd85a80b35d480dfdef54aaad30bd808">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person443c1845c6b24b43bd17a65f928676bc1fa8fbdc"/>
+    <rdfs:label>Knowledge Processes and Ontologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc9c3ee573f40dc1918e0612ff42a2a1a639118df">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person443c1845c6b24b43bd17a65f928676bc1fa8fbdc"/>
+    <rdfs:label>An intelligent brokering service for knowledgecomponent reuse on the World-Wide Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5245ad72975be7f86666c66415072cdc6bee1db3">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person443c1845c6b24b43bd17a65f928676bc1fa8fbdc"/>
+    <rdfs:label>AI for the Web - Ontology-Based Community Web Portals.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

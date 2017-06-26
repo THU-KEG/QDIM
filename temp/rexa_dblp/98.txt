@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document3c24d05e61bd433310fd55114f3d86b9f4829f05
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/ekaw/HuDDLS04
+0.7141214297105493
+http://kmi.open.ac.uk/fusion/dblp#person8125fc89a0b08e09dc40068d21d8b1b7ca01af43
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dupplaw:David.html
+1.0

@@ -1,0 +1,59 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenteb53a9c04a2c1a963eda42b92ad096ec9dedd2fc">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person891001d183fdca337c6503cf40a4295ca0ce3d7e"/>
+    <rdfs:label>Gait Verification Using Probabilistic Methods.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd1508792861845806ae68f04e0c14206c9234c77">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person891001d183fdca337c6503cf40a4295ca0ce3d7e"/>
+    <rdfs:label>m c schraefel: Ontomedia: An ontology for the representation of heterogeneous media.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente4e65c9e2077dc1fc15160abd63e89b9f1aac74b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person891001d183fdca337c6503cf40a4295ca0ce3d7e"/>
+    <rdfs:label>State-based sequencing: Directing the evolution of music.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0a8a71df4992d59e6a536caf33f817de1f9fa007">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person891001d183fdca337c6503cf40a4295ca0ce3d7e"/>
+    <rdfs:label>m.c. schraefel.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person891001d183fdca337c6503cf40a4295ca0ce3d7e">
+    <foaf:name>Mark S. Nixon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document882525eb3420cc384e814e33d6b83e8e0b5bf36f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person9fc4e6596dbc2d7cf794cbc5bcbb98f8bbd03763"/>
+    <rdfs:label>Real-Time Tasks with Data Output.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document03c9a608152c28e3f8124f7e82107add6066be4a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person891001d183fdca337c6503cf40a4295ca0ce3d7e"/>
+    <rdfs:label>Classifiers Combination for Improved Motion Segmentation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document76048903b9f3e50e2495c2440f4a9dd93b3a53c9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person891001d183fdca337c6503cf40a4295ca0ce3d7e"/>
+    <rdfs:label>Lightweight agent framework for camera array applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person9fc4e6596dbc2d7cf794cbc5bcbb98f8bbd03763">
+    <foaf:name>Mark W. Nixon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

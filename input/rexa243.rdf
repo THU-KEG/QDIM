@@ -1,0 +1,91 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personaa81919c62db7915dca65845cbf8763c9d0bd58b">
+    <foaf:name>Kieron O'Hara</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person21ad3d48f9cfafc4bec16d1663d44d3bf841e3a7">
+    <foaf:name>Information Holder</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person95ae8aca6b8e0b5a823bc0ce9227bce23a136fde">
+    <foaf:name>Moo commands</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb3ff940f5206819e774eda5e40b04f671470a5ce">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personCFFDE8DD68C3B94067D54B32C4AC051981FF4318"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person703437536180d78dcec3c6d0736a4b48f61aed86"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personaa81919c62db7915dca65845cbf8763c9d0bd58b"/>
+    <rdfs:label>Certifying KBSs: Using CommonKADS to Provide Supporting Evidence for Fitness for Purpose of KBSs.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person703437536180d78dcec3c6d0736a4b48f61aed86">
+    <foaf:name>Jeni Tennison</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personCFFDE8DD68C3B94067D54B32C4AC051981FF4318">
+    <foaf:name>Nigel Shadbolt</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personff7b2f8107f4b125449e60bbd28dcc0eb7d170ed">
+    <foaf:name>Daniel Schneider</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personb7ccfe6d46da81aa93af80174ca3c0eb816084ff">
+    <foaf:name>Kayla Block</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone4e6f5f688f86bec3da5e6cad6eda0f67dd272c0">
+    <foaf:name>Terrence M. Drozdowski</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person40ffa63e80ac50fc8c2e2955347d9b6c5a5c6674">
+    <foaf:name>Ken Schweller</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document71444663351acbed81f70bc4826382672863b60e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person27bca05a1ec249042ae907298b834ca30e8c727a"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personCFFDE8DD68C3B94067D54B32C4AC051981FF4318"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person703437536180d78dcec3c6d0736a4b48f61aed86"/>
+    <rdfs:label>APECKS: using and evaluating a tool for ontology construction with internal and external KA support.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person477B728F4ACC157E3113B8E95FB51FEC9CB7EF5C">
+    <foaf:name>Gustavo Glusman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document98c6df6d7c0ad12a30a29f709962178fb305e4e1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person703437536180d78dcec3c6d0736a4b48f61aed86"/>
+    <rdfs:label>The evolving TecfaMOO Book - Part II: Technical Manual.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person95ae8aca6b8e0b5a823bc0ce9227bce23a136fde"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person40ffa63e80ac50fc8c2e2955347d9b6c5a5c6674"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone4e6f5f688f86bec3da5e6cad6eda0f67dd272c0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person3e41fa5cd7df453d429277a643ae5f9e6b49bb68"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person21ad3d48f9cfafc4bec16d1663d44d3bf841e3a7"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personff7b2f8107f4b125449e60bbd28dcc0eb7d170ed"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb7ccfe6d46da81aa93af80174ca3c0eb816084ff"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person477B728F4ACC157E3113B8E95FB51FEC9CB7EF5C"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person27bca05a1ec249042ae907298b834ca30e8c727a">
+    <foaf:name>Keith J. O'Hara</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person3e41fa5cd7df453d429277a643ae5f9e6b49bb68">
+    <foaf:name>Richard Godard</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

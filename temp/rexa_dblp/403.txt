@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#personc76a884653833a155234a657f693d1908b7fcf7b
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Aitken:James_S=.html
+0.9333333333333333
+http://kmi.open.ac.uk/fusion/dblp#document88047ebd1fed4750162c5adfd0c0e30bac13e826
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/ecai/Aitken02
+1.0

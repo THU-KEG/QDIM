@@ -1,0 +1,9 @@
+1
+http://kmi.open.ac.uk/fusion/dblp#person1de4f1af27877fd5d5da011c7879622121a6052e
+3
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Leonard:Thomas_E=.html
+0.8920817690257083
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Leonard:Thomas.html
+1.0
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Leonard:J=_Thomas.html
+0.851823341683708

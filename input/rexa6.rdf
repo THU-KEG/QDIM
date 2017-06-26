@@ -1,0 +1,80 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document07e01ed24d1d8c217dc2d94f58b85e802076fc89">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person608bf9d66a58f13ef28707f853f2e6aed433d316"/>
+    <rdfs:label>Norms and Their Role in a Model of Electronic Institution.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7b9ea20858a6f9f02020ceb818354e372dd2a6a6">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person608bf9d66a58f13ef28707f853f2e6aed433d316"/>
+    <rdfs:label>Building Large-Scale Prolog Programs using a Techniques Editing System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person608bf9d66a58f13ef28707f853f2e6aed433d316">
+    <foaf:name>Wamberto Weber Vasconcelos</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc057ab67289029398df166b512aac0f3b06d9257">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person608bf9d66a58f13ef28707f853f2e6aed433d316"/>
+    <rdfs:label>Norm Consistency in Electronic Institutions.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc319be7983d6a9523ce83473da640f1511bef3bf">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person608bf9d66a58f13ef28707f853f2e6aed433d316"/>
+    <rdfs:label>Skeleton-based agent development for electronic institutions.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document501c5646bd19c9baf15cace22f17b1612a986bc3">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person608bf9d66a58f13ef28707f853f2e6aed433d316"/>
+    <rdfs:label>Expressive global protocols via logic-based electronic institutions.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7211d43b1b2bd008cca542fc0ba3c9847de0d192">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person608bf9d66a58f13ef28707f853f2e6aed433d316"/>
+    <rdfs:label>Applying Prolog Programming Techniques. Research Paper 641, Department of Artificial Intelligence.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document9e30dc6452aced4266bd9a0173b8320c604a6dff">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person608bf9d66a58f13ef28707f853f2e6aed433d316"/>
+    <rdfs:label>Norm Verification and Analysis of Electronic Institutions. to be presented at the AAMAS'04.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb414ed1feb818570358e54fd06ce975f0cf0bc6c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person608bf9d66a58f13ef28707f853f2e6aed433d316"/>
+    <rdfs:label>On the insufficiency of ontologies: problems in knowledge sharing and alternative solutions.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document806f1034a65ddf9f0122ee05bd4f2541ffc7eff4">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person608bf9d66a58f13ef28707f853f2e6aed433d316"/>
+    <rdfs:label>Logic-Based Electronic Institutions.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document903916d2424c791ccb52cc64bf04bbb6b8a27114">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person608bf9d66a58f13ef28707f853f2e6aed433d316"/>
+    <rdfs:label>Applying Prolog programming techniques.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4d0ae34ac76fe27981c7a57944d213bbb4b5f725">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person608bf9d66a58f13ef28707f853f2e6aed433d316"/>
+    <rdfs:label>Rapid Prototyping of Large Multi-Agent Systems through Logic Programming.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta1e0e231016ccb9a928c027f604313d4e3451f49">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person608bf9d66a58f13ef28707f853f2e6aed433d316"/>
+    <rdfs:label>On the Insuciency of Ontologies: Problems in Knowledge Sharing and alternative solutions.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+</rdf:RDF>

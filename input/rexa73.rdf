@@ -1,0 +1,88 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document72c46217e006a512715d3311cf3ae3b954e2959c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond02ca4c839b36c024daece9aa1b884be26584b05"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf0ea8604b6a273421dfc2156f66a6bc73f20842"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5ABEEA39276120DDBE1FC7D6DB42B796D9AB14CB"/>
+    <rdfs:label>Ontology Extraction for Distributed Environments.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentfbc8d076e3e786cc3e2aefa9ec53fadbd05dce14">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf0ea8604b6a273421dfc2156f66a6bc73f20842"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcfbaa171e030b3db4df4bbadf677e9fd438f216f"/>
+    <rdfs:label>An ontology for NLP services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personb9ef84fde3807c6e551249c83d8cc77443f794c6">
+    <foaf:name>D. Sleeman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person68b9cda75f610993831b05b4f43598e448cb8d02">
+    <foaf:name>W. M. Schorlemmer</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4ca8afe96fe3f97204c9546d6feb237358581253">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person68b9cda75f610993831b05b4f43598e448cb8d02"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person859925da3b3ceb883ab3b57039cbb799a1614548"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb9ef84fde3807c6e551249c83d8cc77443f794c6"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf0ea8604b6a273421dfc2156f66a6bc73f20842"/>
+    <rdfs:label>Enabling Services for Distributed Environments.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenteade5da269fdafdcd3dd244121ec8e15b4d8ecdd">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person68b9cda75f610993831b05b4f43598e448cb8d02"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person859925da3b3ceb883ab3b57039cbb799a1614548"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb9ef84fde3807c6e551249c83d8cc77443f794c6"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf0ea8604b6a273421dfc2156f66a6bc73f20842"/>
+    <rdfs:label>Formal knowledge management in distributed environments.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personcfbaa171e030b3db4df4bbadf677e9fd438f216f">
+    <foaf:name>Ewan Klein</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person5ABEEA39276120DDBE1FC7D6DB42B796D9AB14CB">
+    <foaf:name>W. Marco Schorlemmer</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document65465e628f826ed5587ae28edc60d11027ecd014">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person048faa9f643f939bfe668e33e9c75b56c966bb79"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf0ea8604b6a273421dfc2156f66a6bc73f20842"/>
+    <rdfs:label>Knowledge Based Phylogenetic Classification Mining.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person484AEF06FA61A22E84E1A7E484B7768E80485F0F">
+    <foaf:name>Derek H. Sleeman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personcf0ea8604b6a273421dfc2156f66a6bc73f20842">
+    <foaf:name>Stephen Potter</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person859925da3b3ceb883ab3b57039cbb799a1614548">
+    <foaf:name>DL Robberson</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person048faa9f643f939bfe668e33e9c75b56c966bb79">
+    <foaf:name>Isabelle Bichindaritz</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persond02ca4c839b36c024daece9aa1b884be26584b05">
+    <foaf:name>Dave Robertson</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

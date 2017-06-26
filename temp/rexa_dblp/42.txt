@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#persond02ca4c839b36c024daece9aa1b884be26584b05
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Robertson:Dave.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#documentece17e765f28dd7dcca7b8425d4fef0cd0d5115f
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/dc/RobertsonLDG01
+0.6450118643978964
+http://kmi.open.ac.uk/fusion/dblp#document37ef9d5ae4caea7c857c4a240508dbd9d39a7948
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/bioinformatics/LeungMR01
+0.7049443788027212
+http://kmi.open.ac.uk/fusion/dblp#document185258bd013bc47ec5c346526ec8d1f338cbc260
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/dc/RobertsonLDG01
+0.6862627819170152

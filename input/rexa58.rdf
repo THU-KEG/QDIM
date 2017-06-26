@@ -1,0 +1,60 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e">
+    <foaf:name>David Guthrie</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5d8addb25702bd000f771576bd9bb5250d4c0c7e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <rdfs:label>Faculty Goals and Methods of Instruction: Approaches to Classroom Assessment.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document676730a7fa8a755cf673f8df75f40e76f9bea82a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <rdfs:label>Mining Web Sites Using Unsupervised Adaptive Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1d673042694924373343b909b576bb1575cf0693">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <rdfs:label>Coping strategies, self-perceptions, hopelessness, and perceived family environments in depressed and suicidal children.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta772b173ef4d9ffe0f12ca30c74c4bc6078998ee">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <rdfs:label>The Kiddie Formal Thought Disorder Rating Scale, (K-FTDS). Clinical assessment, reliability, and validity.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentef7874beb7c17eaecce335fe4f317577f11384e0">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <rdfs:label>Significance testing of difference potentials.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document34a6ab73190d706d31779a3546a80de03b690c30">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <rdfs:label>The retardation of aging in mice by dietary restriction: longevity, cancer, immunity and lifetime energy intake.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente6ecae77c70710c726dc4a23d7162c7f48630459">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <rdfs:label>Integrating Information to Bootstrap Information Extraction from Web Sites.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2e51f6b59ee460506a9aa7fcbc918fe72e1a7c0a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personac51d137189600df76bb36a9fd1e9a5412c81c0e"/>
+    <rdfs:label>Mining Web Sites Using Unsupervised Adaptive Information Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

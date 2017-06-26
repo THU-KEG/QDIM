@@ -1,0 +1,80 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personC570490D8FE3D0AE54431462323806E958558FA0">
+    <foaf:name>Morris Sloman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persond4f51624e11df5c9053a4ca2ac5defdc2f609371">
+    <foaf:name>Farookh Khadeer Hussain</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person4560d5b29b83d434dbbf0286cf2d82dcf9d2f43f">
+    <foaf:name>Leszek Lilien</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86">
+    <foaf:name>Steffen Staab</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personF6AF5E2A5940BF49F3902213C7E2404B46A6B748">
+    <foaf:name>Elizabeth Chang</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7127581718e6c7d82d919c5c9735121963a39867">
+    <foaf:name>Bharat K. Bhargava</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personB6D3F3E68204CC7A003CA89DA42D2DDFC2F10847">
+    <foaf:name>Arnon Rosenthal</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person63787e9a14a11d935e2cb9fe34f494a01ea86b88">
+    <foaf:name>Daniel Olmedilla</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person5718933e0bc3987df10764fdd1f8aefee2eb6d87">
+    <foaf:name>V.  Seth A. Kashyap</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person91a169dac4dd3484dd9751fdea6827750f913b1a">
+    <foaf:name>Tharam Dillon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personF2FACF43DFB43086549FDC3FEC7BE5BF95CC152F">
+    <foaf:name>Marianne Winslett</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personCC28985F0FE37C2A0737D5519B0EA5FF84D406AA">
+    <foaf:name>Wolfgang Nejdl</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3b2de33424d437463f01e7ffd41b1d1d10ee0d45">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personB6D3F3E68204CC7A003CA89DA42D2DDFC2F10847"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEB541E04C523B797BD49CD1D9BC842754D76BC86"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF2FACF43DFB43086549FDC3FEC7BE5BF95CC152F"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personCC28985F0FE37C2A0737D5519B0EA5FF84D406AA"/>
+    <rdfs:label>The Pudding of Trust.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7127581718e6c7d82d919c5c9735121963a39867"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person91a169dac4dd3484dd9751fdea6827750f913b1a"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond4f51624e11df5c9053a4ca2ac5defdc2f609371"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5718933e0bc3987df10764fdd1f8aefee2eb6d87"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personC570490D8FE3D0AE54431462323806E958558FA0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person63787e9a14a11d935e2cb9fe34f494a01ea86b88"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4560d5b29b83d434dbbf0286cf2d82dcf9d2f43f"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF6AF5E2A5940BF49F3902213C7E2404B46A6B748"/>
+  </rdf:Description>
+</rdf:RDF>

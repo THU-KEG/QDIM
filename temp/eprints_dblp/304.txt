@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#person-997575838_227
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lawrence:K=_Faith.html
+0.875
+http://kmi.open.ac.uk/fusion/dblp#document-819254408_128
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/www/Lawrences06
+0.2261904761904762

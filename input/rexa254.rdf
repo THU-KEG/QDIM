@@ -1,0 +1,65 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentabd2cd1aa85130018d0e4bf85b6c07dbe8a49be9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person47a284a96d8f576323e3f57fa05177ef14fff272"/>
+    <rdfs:label>Web Scholars.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentf1588cb9c6c1064d80fe2b30df631ef0bb0b7260">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person47a284a96d8f576323e3f57fa05177ef14fff272"/>
+    <rdfs:label>The Semantics of Semantic Annotation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4686e6ca17e434f89b3215f0674ab3aad05ad69f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person47a284a96d8f576323e3f57fa05177ef14fff272"/>
+    <rdfs:label>Issues in Moving to a Semantic Web for a Large Corporation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc7ead81903637d193acb5f714b43200a6f2271a0">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person47a284a96d8f576323e3f57fa05177ef14fff272"/>
+    <rdfs:label>Digitometric Services for Open Archives Environments.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person47a284a96d8f576323e3f57fa05177ef14fff272">
+    <foaf:name>Simon Kampa</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4611ddf5951f9cb38a7d9f2613e6a777ec0c7d44">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person47a284a96d8f576323e3f57fa05177ef14fff272"/>
+    <rdfs:label>Supporting management reporting: a writable web case study.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document992003ac613760d69746f0160f78fbf36c5b7ddc">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person47a284a96d8f576323e3f57fa05177ef14fff272"/>
+    <rdfs:label>COHSE: Conceptual Open Hypermedia Serviced.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document22c3a8486774c0b592c36de67b29b8aaf9383f3f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person47a284a96d8f576323e3f57fa05177ef14fff272"/>
+    <rdfs:label>Hypertext in the semantic web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0a0352ea49a5a60c4a127fb7d0b34b2a578dd6f2">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person47a284a96d8f576323e3f57fa05177ef14fff272"/>
+    <rdfs:label>Ontologies and Hypertext.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document360bf447b5a63d98e01f4542c849537a9d186232">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person47a284a96d8f576323e3f57fa05177ef14fff272"/>
+    <rdfs:label>Board. The Semantics of Semantic Annotation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

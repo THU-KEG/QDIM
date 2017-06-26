@@ -1,0 +1,56 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1573060791_154">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1927876446_107"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249"/>
+    <rdfs:label>Semantic Learning Narratives.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249">
+    <foaf:name>Motta, Enrico</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1097534236_192">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1927876446_107"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249"/>
+    <rdfs:label>An ontology for the description and navigation through philosophical resources.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1780913622_171">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1927876446_107"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249"/>
+    <rdfs:label>Using the Semantic Web to Navigate Conceptual Spaces: an Application for the Philosophical Domain.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-392240471_106">
+    <foaf:name>Lopez, Vanessa</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15">
+    <foaf:name>Motta, Prof Enrico</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1927876446_107">
+    <foaf:name>Pasin, Michele</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-948406457_60">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1927876446_107"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-392240471_106"/>
+    <rdfs:label>AquaLog: An Ontology-portable Question Answering System for the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

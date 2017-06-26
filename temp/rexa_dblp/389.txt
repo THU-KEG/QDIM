@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#person2e38b53e586ce61088405b621f91485390c613b5
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Roberston:Dave.html
+0.7560470900263833
+http://kmi.open.ac.uk/fusion/dblp#personE94AD028A4DF7C9843380F3B1268E75C68F51FA3
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Guo:Li.html
+0.7560470900263833
+http://kmi.open.ac.uk/fusion/dblp#person5c2096caab9afe6cbbc8b8f4e88eef22c2c1d028
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Chen=Burger:Yun=Heh.html
+0.7560470900263833
+http://kmi.open.ac.uk/fusion/dblp#document3f4e7d36f73bd530087f11e9e58de0a5def2251d
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/icws/GuoCR04
+1.0

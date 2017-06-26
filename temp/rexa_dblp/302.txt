@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document5e847c98828b80ea6a1b51ce3e5cfbc9624c7c65
+1
+http://dblp.uni-trier.de/rec/bibtex/books/sp/staabS2004/FluitSH04
+0.666343036656051
+http://kmi.open.ac.uk/fusion/dblp#personFA85503A55ADA42407242034799B193425D61065
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Harmelen:Frank_van.html
+1.0

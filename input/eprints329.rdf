@@ -1,0 +1,358 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-92731745_100">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1631727219_194"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1583626770_195"/>
+    <rdfs:label>Graph-Based Ontology Checking.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1134805786_211">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-986788464_167"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1720661445_151"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person745285216_232"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1401934868_203"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1172867456_326"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person738474785_327"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1997695297_325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-105279825_328"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1147566052_219"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person455064063_37"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1063441990_144"/>
+    <rdfs:label>Image annotation with Photocopain.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-864240444_236">
+    <foaf:name>McKenzie, Craig</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-315241796_18">
+    <foaf:name>Preece, Alun</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1315733104_152">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-127752535_25"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1070319629_30"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-622093997_234"/>
+    <rdfs:label>Searching and Ranking Ontologies on the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1160742762_197">
+    <foaf:name>Brown, Ken N.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-622093997_234">
+    <foaf:name>Thomas, Edward</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-36388371_132">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-864240444_236"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-315241796_18"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person540721520_235"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1141745831_237"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-622093997_234"/>
+    <rdfs:label>OntoSearch: Retrieval and Reuse of Ontologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person696901553_19">
+    <foaf:name>Ajit, Suraj</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1612255921_246">
+    <foaf:name>Vasconcelos, Wamberto</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1553927072_514">
+    <foaf:name>Chapman, Nial</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person439765350_17">
+    <foaf:name>Hui, Kit</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document882483340_288">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1523897307_534"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1631676650_535"/>
+    <rdfs:label>Constraint Relaxation Techniques to Aid the Reuse of Knowledge Bases and Problem Solvers.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1817066219_283">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person279546391_226"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person137819183_225"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person87466471_224"/>
+    <rdfs:label>Characterisation of Knowledge Bases.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1720661445_151">
+    <foaf:name>Sleeman, Prof Derek</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person738474785_327">
+    <foaf:name>Gibbins, Dr Nicholas</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1900336039_286">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1090771233_398"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1720661445_151"/>
+    <rdfs:label>A Grammar-Driven Knowledge Acquisition Tool that incorporates Constraint Propagation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-221784134_319">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1720661445_151"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1295069562_389"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-250237107_52"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1865877363_79"/>
+    <rdfs:label>Knowledge Life Cycle Management over a Distributed Architecture.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1564026405_146">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-915220931_323"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1612255921_246"/>
+    <rdfs:label>ReTAX+: A Cooperative Taxonomy Revision Tool.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person161499370_41">
+    <foaf:name>Hameed, Adil</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1523897307_534">
+    <foaf:name>Nordlander, Tomas</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1631727219_194">
+    <foaf:name>Lam, Sik Chun (Joey)</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1090771233_398">
+    <foaf:name>White, Dr Simon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person455064063_37">
+    <foaf:name>Shadbolt, Prof Nigel R</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-986788464_167">
+    <foaf:name>Ciravegna, Prof Fabio</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person745285216_232">
+    <foaf:name>Brewster, Mr Christopher</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document957912828_44">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person439765350_17"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person932108620_84"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-427527083_83"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person696901553_19"/>
+    <rdfs:label>Acquisition and Maintenance of Constraints in Engineering Design.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1141745831_237">
+    <foaf:name>Wright, Joe</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1318781868_102">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1160742762_197"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-620321180_196"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31"/>
+    <rdfs:label>Knowledge Base Reuse Through Constraint Relaxation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31">
+    <foaf:name>Sleeman, Derek</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-606904313_149">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-385196021_247"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person279546391_226"/>
+    <rdfs:label>Reusing JessTab Rules in Protégé.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-127752535_25">
+    <foaf:name>Alani, Harith</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1865877363_79">
+    <foaf:name>Potter, Dr Stephen</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1637011077_17">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-58279646_47"/>
+    <rdfs:label>Refiner++: A Knowledge Acquisition and Refinement Tool.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-427527083_83">
+    <foaf:name>Fowler, David</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-385196021_247">
+    <foaf:name>Corsar, Mr. David</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1414361883_513">
+    <foaf:name>Norman, Tim</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person540721520_235">
+    <foaf:name>Zhang, Yi</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1631676650_535">
+    <foaf:name>Brown, Ken</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person388482916_245">
+    <foaf:name>Sleeman, Derek H.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-620321180_196">
+    <foaf:name>Nordlander, Tomas E.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1997695297_325">
+    <foaf:name>Harris, Mr Stephen</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-250237107_52">
+    <foaf:name>Schorlemmer, Dr Marco</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-58279646_47">
+    <foaf:name>Aiken, Andy</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1583626770_195">
+    <foaf:name>Vasconcelos, Wanberto</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document122144096_313">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1631676650_535"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person871868866_149"/>
+    <rdfs:label>Identifying Inconsistent CSPs by Relaxation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-915220931_323">
+    <foaf:name>Lam, SC Joey</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1147566052_219">
+    <foaf:name>Tuffield, Mr Mischa M</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1515756716_125">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person279546391_226"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person137819183_225"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person87466471_224"/>
+    <rdfs:label>OntoSearch: An Ontology Search Engine.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person137819183_225">
+    <foaf:name>Vasconcelos, Dr. Wamberto</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person279546391_226">
+    <foaf:name>Sleeman, Prof. Derek</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1401934868_203">
+    <foaf:name>Chakravarthy, Mr Ajay</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1295069562_389">
+    <foaf:name>Robertson, Dr David</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-105279825_328">
+    <foaf:name>O Hara, Dr Kieron</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document249238480_270">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1553927072_514"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1414361883_513"/>
+    <rdfs:label>Adaptive Brokering in Agent-Mediated Electronic Commerce.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1070319629_30">
+    <foaf:name>Brewster, Christopher</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-221724488_147">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1631727219_194"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person388482916_245"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1612255921_246"/>
+    <rdfs:label>ReTAX++: a Tool for Browsing and Revising Ontologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1063441990_144">
+    <foaf:name>Wilks, Prof Yorick</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1881263518_142">
+    <foaf:name>Fowler, David W.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person871868866_149">
+    <foaf:name>Nordlander, Tomas Eric</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person87466471_224">
+    <foaf:name>Zhang, Mr. Yi</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-2060040806_196">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person439765350_17"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person932108620_84"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-427527083_83"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person696901553_19"/>
+    <rdfs:label>Capture and Maintenance of Engineering Design Constraints.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1172867456_326">
+    <foaf:name>Duplaw, Mr David P</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2127875186_67">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1169403628_143"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1881263518_142"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person696901553_19"/>
+    <rdfs:label>ConEditor: Tool to Input and Maintain Constraints.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person932108620_84">
+    <foaf:name>Knott, Dave</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document317590996_15">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-946895262_31"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-315241796_18"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person161499370_41"/>
+    <rdfs:label>Ontology Reconciliation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1169403628_143">
+    <foaf:name>Knott, David</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

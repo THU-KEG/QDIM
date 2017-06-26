@@ -1,0 +1,88 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personad3c7d2f43d64f7709c41cf6927ace7285706ec8">
+    <foaf:name>Fabio Rinaldi</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person13DF7F9E0ADF0CB1D0C8A60A1C7B305931260AF7">
+    <foaf:name>Michael Hess</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personde5a43458d922f6a59b9421f0030ad9cb8bfaebe">
+    <foaf:name>Vera M. Vargas</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person043470d5dd47bbb1aa642a9691fc92efe453f7f7">
+    <foaf:name>Salim Roukos</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta982bb93093b014e9262c33d766db03ce86a5b4f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0224f9155e42ee64e86f94235edcf0e4d4560e34"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personad3c7d2f43d64f7709c41cf6927ace7285706ec8"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person13DF7F9E0ADF0CB1D0C8A60A1C7B305931260AF7"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond3a0c9ebc08c7ca7fa38db1a344b29cd068847d8"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person59e26b296208a807a9e00bb2b8ea2c8efca0b955"/>
+    <rdfs:label>Exploiting Paraphrases in Question Answering System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0224f9155e42ee64e86f94235edcf0e4d4560e34">
+    <foaf:name>Kaarel Kaljurand</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentfba44881b55dd78b0d08fea619ff5757972238fb">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person46e72126251b47729d5836a1999b3b03826741bd"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personde5a43458d922f6a59b9421f0030ad9cb8bfaebe"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0DF2F404B2FF7978899EBF27EF6009673E54C40B"/>
+    <rdfs:label>AQUA: An Ontology-Driven Question Answering System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0DF2F404B2FF7978899EBF27EF6009673E54C40B">
+    <foaf:name>Enrico Motta</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document413d9060810cf05d9753a4132a9353078b133913">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person043470d5dd47bbb1aa642a9691fc92efe453f7f7"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1e39493de848f4526ecb1c97178edc4a945c2cf0"/>
+    <rdfs:label>IBM's Statistical Question Answering System-TREC 11.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentbdf2201db01738b0acf05a196ec3c21c3c8867c1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone1579204778644a66e441c5bfec98779e2d3edc4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personde5a43458d922f6a59b9421f0030ad9cb8bfaebe"/>
+    <rdfs:label>a): AQUA Ontology-based Question Answering System. Accepted to be presented at Third International Mexican Conference on Artificial Intelligence.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person59e26b296208a807a9e00bb2b8ea2c8efca0b955">
+    <foaf:name>D. Molla</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persond3a0c9ebc08c7ca7fa38db1a344b29cd068847d8">
+    <foaf:name>James Dowdall</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1e39493de848f4526ecb1c97178edc4a945c2cf0">
+    <foaf:name>Abraham Ittycheriah</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person46e72126251b47729d5836a1999b3b03826741bd">
+    <foaf:name>John Domingue</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone1579204778644a66e441c5bfec98779e2d3edc4">
+    <foaf:name>E. Motta</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

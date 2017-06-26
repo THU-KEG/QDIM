@@ -1,0 +1,131 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personE58725804788320FA7A5F651DF4E8CBE5EE04EFE">
+    <foaf:name>Jeffrey Bradshaw</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7dee26a7fe2130b566d8bafca31f32f40b8ee140">
+    <foaf:name>Clement Jonquet</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone5d63a07a07ff7231acbf4e20dd53ac40ca2ebe6">
+    <foaf:name>Liana Razmerita</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person911209f1a249ddf8ce6dae9c927ea0a59ae48a2f">
+    <foaf:name>P. Buford Price</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3f9aa6c0ff6df605bc4f144d733f25545ec5acab">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personE58725804788320FA7A5F651DF4E8CBE5EE04EFE"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personCDD4A789F370CFADA6BC87FDA6162B72BE1367C0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person688243e085d6b850558119c3f8af84a3b9529c09"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person902509aca4767be8c8ba390799260f2a868568a4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person81A2053C95BC64338FC9E8AD663344EE29C94E9D"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc99af44a3367db5bce6e1017ed48063f9013bb44"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone5d63a07a07ff7231acbf4e20dd53ac40ca2ebe6"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person63e303892db52e32bd8bfa36c8695165ffde0538"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4f413c75b27636a093877c032a59a87c1e95cd8d"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0C3EAB56BF77306B49D4FF77414E3856ABA75753"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf1e146d303791e1feb7b129e8c8fd187113e1ee5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person36794583097ed11a409a97dc119be98d2ff46602"/>
+    <rdfs:label>Workshop on Grid Learning Services.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personbee7516de4e434134a44555580444f900aaec06b">
+    <foaf:name>Kim Isoff</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person4f413c75b27636a093877c032a59a87c1e95cd8d">
+    <foaf:name>Pierluigi Ritrovato</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personf1e146d303791e1feb7b129e8c8fd187113e1ee5">
+    <foaf:name>Stefano A. Cerri</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document16bac7c03374427a8d2ae8632af8faabd9fd1498">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf1e146d303791e1feb7b129e8c8fd187113e1ee5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0C3EAB56BF77306B49D4FF77414E3856ABA75753"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7dee26a7fe2130b566d8bafca31f32f40b8ee140"/>
+    <rdfs:label>Dynamic Learning Agents and Enhanced Presence on the Grid.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person902509aca4767be8c8ba390799260f2a868568a4">
+    <foaf:name>Roland Yatchou</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0C3EAB56BF77306B49D4FF77414E3856ABA75753">
+    <foaf:name>Marc Eisenstadt</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person8772e28e3ace7afcfd0f0aaee0f039409ce36b67">
+    <foaf:name>Peter Scott</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document47c18e9219ad390abd3d93819efc7dbf31b65be6">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personbee7516de4e434134a44555580444f900aaec06b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0C3EAB56BF77306B49D4FF77414E3856ABA75753"/>
+    <rdfs:label>Evaluating a virtual summer school.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb1565eb5df54f3c98abbba07dd7d1ebb97d8335b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person46e72126251b47729d5836a1999b3b03826741bd"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person911209f1a249ddf8ce6dae9c927ea0a59ae48a2f"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0C3EAB56BF77306B49D4FF77414E3856ABA75753"/>
+    <rdfs:label>A Framework for Describing and Implementing Software Visualization Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person63e303892db52e32bd8bfa36c8695165ffde0538">
+    <foaf:name>Colin Allison</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personCDD4A789F370CFADA6BC87FDA6162B72BE1367C0">
+    <foaf:name>Rajkumar Buyya</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person688243e085d6b850558119c3f8af84a3b9529c09">
+    <foaf:name>Guy Gouard?res</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person36794583097ed11a409a97dc119be98d2ff46602">
+    <foaf:name>Michel Liquiere</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person46e72126251b47729d5836a1999b3b03826741bd">
+    <foaf:name>John Domingue</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentd7f1cff3a7cb96efaded6b7742e66b6b1beaf239">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person38bd81ce34cf74db9ef1c42f7a38895d3ccc758b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8772e28e3ace7afcfd0f0aaee0f039409ce36b67"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0C3EAB56BF77306B49D4FF77414E3856ABA75753"/>
+    <rdfs:label>Integrating a Web and Live Symposium - the Learning.Org Experience.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person38bd81ce34cf74db9ef1c42f7a38895d3ccc758b">
+    <foaf:name>Mike Wright</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person81A2053C95BC64338FC9E8AD663344EE29C94E9D">
+    <foaf:name>David De Roure</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personc99af44a3367db5bce6e1017ed48063f9013bb44">
+    <foaf:name>Roger Nkambou</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

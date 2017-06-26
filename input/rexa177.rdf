@@ -1,0 +1,174 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persondba16f1fe3d79c306d8d7e8e23e342cff8e43ee5">
+    <foaf:name>Ora Lassila</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person625974C2B616ACA8F1C9F48020BB532B4773554B">
+    <foaf:name>Marta Sabou</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personfb40139e63cb4d5858d53a894699708bf74d2c01">
+    <foaf:name>Guy Smith</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1e792139841b2f3a8ccbe277fa69fc2b8f4e34b9">
+    <foaf:name>Monica M C Schraefel</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone968a9813c955980cde249a187879bb340a5bb2e">
+    <foaf:name>Sheila A. McIlraith</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone9d86967e61d8f946bb5e86385655295dfde63e2">
+    <foaf:name>Liliana Cabral</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person8EEA4E49772AD23B5B3A658F9720DFE296BF7672">
+    <foaf:name>Bijan Parsia</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person03a272751151cdad6c2d04503adefd2589456397">
+    <foaf:name>Gareth V. Hughes</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person46e72126251b47729d5836a1999b3b03826741bd">
+    <foaf:name>John Domingue</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentcdaa780ac09ea5b3217e1171ae7df07433b00efc">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person820fa6352a7c4c123c5885cf9ad1c547dd8d0d07"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone968a9813c955980cde249a187879bb340a5bb2e"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person10f8fed39b660f75162097e25ffe84006eb848f2"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person62240f603ec51f873119f0efc7655d3f72798b63"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person143dee7588ddb248df3c88f5ab3aa6f4b0f347d3"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person79ed873d778c179fe544721a7afebe8ddae5d18f"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personde3368053a09c88d7dee8e01407438877bdbdbb9"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persondba16f1fe3d79c306d8d7e8e23e342cff8e43ee5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF2D628A6000D66C55EF85645DC516F4810B4153D"/>
+    <rdfs:label>DAML-S: Semantic Markup for Web Services.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8fd75496c834e4802cd0f848ffbc93b1725e1fe3"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7D63A484A57FE94431183F1C4899C8758CBC1A34"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person143dee7588ddb248df3c88f5ab3aa6f4b0f347d3">
+    <foaf:name>ini Narayanan</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37">
+    <foaf:name>Jeremy Frey</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person820fa6352a7c4c123c5885cf9ad1c547dd8d0d07">
+    <foaf:name>Jerry R. Hobbs</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document71440b61d6786c016b45c329d620a26657eedf0d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc6a651f170959bdae018f080656e86227b9865cb"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8fd75496c834e4802cd0f848ffbc93b1725e1fe3"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person79ed873d778c179fe544721a7afebe8ddae5d18f"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personF2D628A6000D66C55EF85645DC516F4810B4153D"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personB07147548FC8C4CD992D423E23F18045DCF3A474"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone968a9813c955980cde249a187879bb340a5bb2e"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDE92EDF59D286A1FEC80F358CFB3A5E9C8ED2F4A"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person625974C2B616ACA8F1C9F48020BB532B4773554B"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7D63A484A57FE94431183F1C4899C8758CBC1A34"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person61efd1dd75ec6bf4bb5a533b26f32b815b4e3c72"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0348b82105a92ca8da7a304a1ca226ccd062a0db"/>
+    <rdfs:label>Bringing Semantics to Web Services: The OWL-S Approach.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8EEA4E49772AD23B5B3A658F9720DFE296BF7672"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personB07147548FC8C4CD992D423E23F18045DCF3A474">
+    <foaf:name>Deborah L. McGuinness</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0348b82105a92ca8da7a304a1ca226ccd062a0db">
+    <foaf:name>Naveen inivasan</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personDE92EDF59D286A1FEC80F358CFB3A5E9C8ED2F4A">
+    <foaf:name>David Martin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person79ed873d778c179fe544721a7afebe8ddae5d18f">
+    <foaf:name>Mark H. Burstein</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7cdd2505a190d27efe2ac77a384b3f45d92b9bf2">
+    <foaf:name>Hugo R. Mills</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person8fd75496c834e4802cd0f848ffbc93b1725e1fe3">
+    <foaf:name>Katia P. Sycara</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person61efd1dd75ec6bf4bb5a533b26f32b815b4e3c72">
+    <foaf:name>Drew V. McDermott</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personde3368053a09c88d7dee8e01407438877bdbdbb9">
+    <foaf:name>Honglei Zeng</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person10f8fed39b660f75162097e25ffe84006eb848f2">
+    <foaf:name>Grant Martin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person99458e5f552421bf5644126bd4f4f1b366489eff">
+    <foaf:name>Farshad Hakimpour</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentabdc3c3bf0c23ff2275abce84b926fb3f68ac278">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person99458e5f552421bf5644126bd4f4f1b366489eff"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone9d86967e61d8f946bb5e86385655295dfde63e2"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7D63A484A57FE94431183F1C4899C8758CBC1A34"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person46e72126251b47729d5836a1999b3b03826741bd"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0DF2F404B2FF7978899EBF27EF6009673E54C40B"/>
+    <rdfs:label>Approaches to Semantic Web Services: an Overview and Comparisons.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0DF2F404B2FF7978899EBF27EF6009673E54C40B">
+    <foaf:name>Enrico Motta</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personc6a651f170959bdae018f080656e86227b9865cb">
+    <foaf:name>Monika Solanki</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person62240f603ec51f873119f0efc7655d3f72798b63">
+    <foaf:name>Anupriya Ankolekar</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7D63A484A57FE94431183F1C4899C8758CBC1A34">
+    <foaf:name>Terry R. Payne</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personF2D628A6000D66C55EF85645DC516F4810B4153D">
+    <foaf:name>Massimo Paolucci</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document3bc020b2e4336675e773b45e432e490012167c22">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person37961ea29e18b90effb359454a0aa41e6d508e37"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person03a272751151cdad6c2d04503adefd2589456397"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7D63A484A57FE94431183F1C4899C8758CBC1A34"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1e792139841b2f3a8ccbe277fa69fc2b8f4e34b9"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personfb40139e63cb4d5858d53a894699708bf74d2c01"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7cdd2505a190d27efe2ac77a384b3f45d92b9bf2"/>
+    <rdfs:label>Breaking the book: translating the chemistry lab book into a pervasive computing lab environment.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

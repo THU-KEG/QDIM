@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#document8f685d335d950e0d33afa07f4f19ef06120ef09c
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/cia/ChalmersGP02
+0.6913701761090143
+http://kmi.open.ac.uk/fusion/dblp#persona0fe1d965e95cf0139d39904b28ff9112ef8ff09
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Chalmers:Stuart.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#document88bdc39db2b79d67f1d7e56e6a35d9481b158825
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/amkm/HuiCGP03
+0.6913701761090143
+http://kmi.open.ac.uk/fusion/dblp#documentfd895e93cafa321980f9789fbb016ef2842c67dd
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/atal/ChalmersPNG04
+0.6913701761090143

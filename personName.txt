@@ -1,0 +1,363 @@
+Hall, W. || Wendy Hall || Wendy Hall || 
+Nordlander, Tomas E. || Tomas Nordlander || Tomas Eric Nordlander || 
+Selvin, A || Albert M. Selvin || Albert M. Selvin || 
+O'Hara, Dr. Kieron || Kieron O'Hara || Kieron O'Hara || 
+Vasconcelos, Wamberto || Wamberto Weber Vasconcelos || Wamberto Weber Vasconcelos || 
+Carr, Les || Les Carr || Les Carr || 
+Alena, R. || Rick Alena || Rich Alena || 
+Sierhuis, Dr M || Maarten Sierhuis || Maarten Sierhuis || 
+Middleton, Mr Stuart E || Stuart E. Middleton || Stuart E. Middleton || 
+Robertson, Dr David S. || David Stuart Robertson || David Stuart Robertson || 
+Lewis Southampton, Professor Paul H || Paul Lewis || Paul H. Lewis || 
+Page, Kevin || Kevin R. Page || Kevin R. Page || 
+Wright, Joe || John Wright || John Wright || 
+Tate, Professor Austin || Austin Tate || Austin Tate || 
+Preece, A || Alun Preece || Alun D. Preece || 
+Conklin, Dr Jeff || Jeff Conklin || Jeff Conklin || 
+De Roure, Dave || David C. De Roure || David De Roure || 
+Shadbolt, N. || Nigel R. Shadbolt || Nigel R. Shadbolt || 
+Fowler, D W || David W. Fowler || David W. Fowler || 
+Heath, Dr Ian || Ian Heath || Ian Heath || 
+Moreale, Miss Emanuela || Emanuela Moreale || Emanuela Moreale || 
+Motta, Professor Enrico || E. Motta || Enrico Motta || 
+Knott, Dave || Dave Knott || Dave Knott || 
+Motta, E. || Enrico Motta || Enrico Motta || 
+Meisel, Helmut || Helmut Meisel || Helmut Meisel || 
+Yun-Heh Chen-Burger, Dr. Yun-Heh || Yun-Heh Chen-Burger || Yun-Heh Chen-Burger || 
+Stumme, Dr. Gerd || Gerd Stumme || Gerd Stumme || 
+Cabral, Dr. Liliana || Liliana Cabral || Liliana Cabral || 
+Shadbolt, Prof. Nigel || N. R. Shadbolt m. schraefel || Nigel Shadbolt || 
+Graham, J.S. || Jeffrey Graham || Jeff Graham || 
+Chapman, Sam || Sam Chapman || Sam Chapman || 
+Pan, Dr Jeff || Jeff Z. Pan || Jeff Z. Pan || 
+Millard, Dr David E || David E. Millard || David E. Millard || 
+Handschuh, Dr. Siegfried || Siegfried Handschuh || Siegfried Handschuh || 
+Broeder, Daan || Daan Broeder || Daan Broeder || 
+Lewis, Paul || Paul H. Lewis || Paul H. Lewis || 
+Nixon, Dr Mark S || Mark S. Nixon || Mark S. Nixon || 
+Handschuh, S || Siegfried Handschuh || Siegfried Handschuh || 
+Robertson, Dr. Dave || Dave Robertson || Dave Robertson || 
+Sinclair, Patrick || Patrick A. S Sinclair || Patrick A. S. Sinclair || 
+Buckingham Shum, Simon || Buckingham Shum || Simon Buckingham Shum || 
+Bussler, Christoph || Christoph Bussler || Christoph Bussler || 
+Millard, David || David E. Millard || David E. Millard || 
+Gaspari, Mauro || Mauro Gaspari || Mauro Gaspari || 
+Brown, Dr Ken || Ken Brown || Ken N. Brown || 
+Shabajee, Mr Paul || Paul Shabajee || Paul Shabajee || 
+Komzak, Jiri || Jiri Komzak || Jirí Komzák || 
+Lanzoni, Mr Mattia || Mattia Lanzoni || Mattia Lanzoni || 
+Guthrie, Mr. David || David Guthrie || David Guthrie || 
+Hamza, Ms Oana || Oana Hamza || Oana Hamza || 
+Rajpathak, Dr Dnyanesh || Dnyanesh Rajpathak || Dnyanesh G. Rajpathak || 
+Motta, Enrico || Enrico Motta (KMI || Enrico Motta || 
+Preece, Dr Alun D. || Alun Preece || Alun D. Preece || 
+Leonard, Thomas || Thomas Leonard || Thomas Leonard || 
+Stamou, G || Giorgos B. Stamou || Giorgos B. Stamou || 
+Wilks, Prof. Yorick || Y. Wilks || Yorick Wilks || 
+Dimitrov, Mr Marin || Marin Dimitrov || Marin Dimitrov || 
+Lewis, P. H. || Paul H. Lewis || Paul H. Lewis || 
+Fowler, David || David W. Fowler || David W. Fowler || 
+Shadbolt, N. R. || Nigel Shadbolt || Nigel R. Shadbolt || 
+Potter, Dr Stephen || Stephen Potter || Stephen Potter || 
+Song, Dr. Dawei || Dawei Song || Dawei Song || 
+Weal, Mark || Mark J. Weal || Mark J. Weal || 
+Dupplaw, Dr David || David Dupplaw || David Dupplaw || 
+Fensel, Dieter || Dieter Fensel || Dieter Fensel || 
+O'Hara, Dr Kieron || Kieron O'Hara || Kieron O'Hara || 
+Norman, T J || Timothy J. Norman || Timothy J. Norman || 
+Ciravegna, Prof Fabio || F. Ciravegna || Fabio Ciravegna || 
+Chapman, Mr Sam || Sam Chapman || Sam Chapman || 
+Harris, Steve || Stephen Harris || Stephen Harris || 
+Zdrahal, Dr Zdenek || Z. Zdrahal || Z. Zdrahal || 
+Lei, Dr. Yuangui || Yuangui Lei || Yuangui Lei || 
+Preece, Dr Alun || Alun Preece || Alun D. Preece || 
+Wilks, Yorick || Yorick Wilks || Yorick Wilks || 
+Buckingham Shum, Dr Simon || Buckingham Shum Simon || Simon Buckingham Shum || 
+Cunningham, Dr Hamish || H. Cunningham || Hamish Cunningham || 
+Alani, H. || H. Alani || Harith Alani || 
+Flouris, G || Giorgos Flouris || Giorgos Flouris || 
+Gray, Prof Peter || Peter M D Gray || Peter M. D. Gray || 
+Hu, Bo || Bo Hu || Bo Hu || 
+Shadbolt Southampton, Professor Nigel R || Nigel R. Shadbolt || Nigel R. Shadbolt || 
+Dalli, Mr Angelo || Angelo Dalli || Angelo Dalli || 
+Millard Southampton, Dr David E || David Millard || XXX || 
+Dupplaw Southampton, Dr David P || David Dupplaw || David Dupplaw || 
+Brewster, Christopher || Christopher Brewster || Christopher Brewster || 
+Norton, Mr Barry || Barry Norton || Barry Norton || 
+van Harmelen, Prof Frank || Frank van Harmelen || Frank van Harmelen || 
+Bussler, C. || Christoph Bussler || Christoph Bussler || 
+Wittenburgh, Peter || Peter Wittenburg || Peter Wittenburg || 
+Robertson, Dr David || Dave Robertson || Dave Robertson || 
+Motta, Dr Enrico || Enrico Motta (KMI || Enrico Motta || 
+Walton, Dr Chris || Chris Walton || Chris Walton || 
+Macintosh, Ann || Ann Macintosh || Ann Macintosh || 
+Millard, D. E. || David Millard || XXX || 
+Harris, Mr Stephen || Steve Harris || Stephen Harris || 
+Celjuska, Mr David || David Celjuska || David Celjuska || 
+Cuel, R || Roberta Cuel || Roberta Cuel || 
+Uren, V.S. || Victoria Uren || Victoria S. Uren || 
+Carvalho, Rodrigo || Robert E. Carvalho || Robert E. Carvalho || 
+Nordlander, Tomas Eric || Tomas Nordlander || Tomas Eric Nordlander || 
+Hui, K || Kin Hui || Kin Hui || 
+De Roure, David || David De Roure || David De Roure || 
+Bachler, Michelle || Michelle Bachler || Michelle Bachler || 
+Sereno, Bertrand || Bertrand Sereno || Bertrand Sereno || 
+Sabou, Marta || Marta Sabou || Marta Sabou || 
+Cunningham, Dr. Hamish || H. Cunningham || Hamish Cunningham || 
+Uren, Dr Victoria || Victoria Uren || Victoria S. Uren || 
+Buckingham Shum, Dr. Simon || Buckingham Shum || Simon Buckingham Shum || 
+Chen-Burger, Dr. Yun-Heh (Jessica) || Yun-Heh Chen-Burger || Yun-Heh Chen-Burger || 
+Lewis, Prof Paul || Paul Lewis || Paul H. Lewis || 
+Weal, M. J. || Mark J. Weal || Mark J. Weal || 
+Motta, Dr E. || Enrico Motta (KMI || Enrico Motta || 
+Hui, Dr. Kit-Ying || Kit-ying Hui || Kit-ying Hui || 
+Ashri, Mr Ronald || Ronald Ashri || Ronald Ashri || 
+O'Hara, Kieron || Kieron O'Hara || Kieron O'Hara || 
+Petrelli, Dr. Daniela || D. Petrelli || Daniela Petrelli || 
+Robertson, Dr David S || David Robertson || David Robertson || 
+Chen-Burger, Dr Yun-Heh || Yun-Heh Chen-Burger || Yun-Heh Chen-Burger || 
+Schorlemmer, Marco || M. Schorlemmer || W. Marco Schorlemmer || 
+Stader, Ms. Jussi || Jussi Stader || Jussi Stader || 
+Gangemi, A || Aldo Gangemi || Aldo Gangemi || 
+Guo, Mr. Li || Li Guo || Li Guo || 
+Clancey, W.J. || William J. Clancey || William J. Clancey || 
+Sierhuis, M. || Maarten Sierhuis || Maarten Sierhuis || 
+Dingli, Mr. Alexeie || Alexiei Dingli || Alexiei Dingli || 
+Gibbins, Dr Nicholas || Nicholas Gibbins || Nicholas Gibbins || 
+Beagrie, Dr Neil || Neil Beagrie || Neil Beagrie || 
+Studer, R. || Rudi Studer || Rudi Studer || 
+Cabral, L. || Liliana Cabral || Liliana Cabral || 
+Hui, Dr Kit || Kit-ying Hui || Kit-ying Hui || 
+Brown, Ken || Ken Brown || Ken N. Brown || 
+Motta, Prof. Enrico || E. Motta || Enrico Motta || 
+Gray, Prof P.M.D. || Peter Gray || Peter Gray || 
+Sabou, Dr Marta || Marta Sabou || Marta Sabou || 
+Conklin, Dr J || Jeff Conklin || Jeff Conklin || 
+Maybury, Dr M. T. || Mark T. Maybury || Mark T. Maybury || 
+Dasmahapatra, Dr Srinandan || inandan Dasmahapatra || Srinandan Dasmahapatra || 
+Dillon, Tharam || Tharam Dillon || Tharam S. Dillon || 
+Walton, Dr Christopher || Christopher D. Walton || Christopher D. Walton || 
+Agrawal, Rakesh || Rakesh Agrawal || Rakesh Agrawal || 
+Schorlemmer, Dr Marco || W. M. Schorlemmer || W. Marco Schorlemmer || 
+Hall, Prof Wendy || Wendy Hall || Wendy Hall || 
+Ciravegna, F || Fabio Ciravegna || Fabio Ciravegna || 
+Shadbolt, Professor Nigel R || Nigel Shadbolt || Nigel R. Shadbolt || 
+Pan, J || Jeff Z. Pan || Jeff Z. Pan || 
+Millard, Ian || Ian Millard || Ian Millard || 
+Mylopoulos, J. || John Mylopoulos || John Mylopoulos || 
+De Roure, D. C. || David C. De Roure || David De Roure || 
+De Roure, Prof Dave || David De Roure || David De Roure || 
+Tyree, K.S || Kim S. Tyree || Kim S. Tyree || 
+Sierhuis, Dr Maarten || Maarten Sierhuis || Maarten Sierhuis || 
+Aiken, A || Alexander Aiken || Alexander Aiken || 
+Carr, L || Les Carr || Les Carr || 
+Kim, S. || S. Kim || S. Kim || 
+van Harmelen, Frank || Frank van Harmelen || Frank van Harmelen || 
+Chen-Burger, Dr. Yun-Huh (jessica) || Yun-Heh Chen-Burger || Yun-Heh Chen-Burger || 
+Preece, Alun || Alun Preece || Alun D. Preece || 
+Guthrie, Dr. Louise || Louise Guthrie || Louise Guthrie || 
+Staab, Dr. Steffen || Steffen Staab || Steffen Staab || 
+Page, Kevin R. || Kevin R. Page || Kevin R. Page || 
+Sierhuis, M || Maarten Sierhuis || Maarten Sierhuis || 
+Domingue, J || J. B. Domingue || J. B. Domingue || 
+Cimiano, P || P. Cimiano || Philipp Cimiano || 
+Lino, Ms. Natasha Queiroz || Natasha Queiroz Lino || Natasha Queiroz Lino || 
+Uren, Dr. Victoria || Victoria Uren || Victoria S. Uren || 
+Heath, Mr Tom || Tom Heath || Tom Heath || 
+Haley, C || Charles B. Haley || Charles B. Haley || 
+Carr, Leslie || Leslie Carr || Les Carr || 
+Alani, Dr Harith || H. Alani || Harith Alani || 
+Li, G || Guo Li || Guo Li || 
+Pertusson, Mr Helgi || Helgi Pertusson || Helgi Pertusson || 
+Plexousakis, D || Dimitris Plexousakis || Dimitris Plexousakis || 
+Lopez, Vanessa || Vanessa Lopez || Vanessa Lopez || 
+Payne, Terry R || Terry R. Payne || Terry R. Payne || 
+Ciravegna, Dr Fabio || Fabio Ciravegna || Fabio Ciravegna || 
+Gray, P || Peter Gray || Peter Gray || 
+Nordlander, Tomas || Tomas Nordlander || Tomas Eric Nordlander || 
+Siebra, Mr. Clauirton || Clauirton Siebra || Clauirton de Siebra || 
+Sleeman, Derek || D. Sleeman || Derek H. Sleeman || 
+Sleeman, D H || Derek H. Sleeman || Derek H. Sleeman || 
+Robertson, David || David Stuart Robertson || David Stuart Robertson || 
+Carr, Dr Leslie || Les Carr || Les Carr || 
+Gray, Prof Peter M. D. || Peter Gray || Peter Gray || 
+Reynolds, Dr Dave || Dave Reynolds || Dave Reynolds || 
+Dingli, Alexiei || Alexiei Dingli || Alexiei Dingli || 
+Hakimpour, F. || Farshad Hakimpour || Farshad Hakimpour || 
+Staab, dr Steffen || Steffen Staab || Steffen Staab || 
+Petrelli, Dr. Daniella || Daniela Petrelli || Daniela Petrelli || 
+Ciravegna, Prof. Fabio || Ciravegna F. S || Fabio Ciravegna || 
+Zhu, Dr. Jianhan || Jianhan Zhu || Jianhan Zhu || 
+Lei, Ms Y || Yuangui Lei || Yuangui Lei || 
+Stutt, Dr Arthur || Arthur Stutt || Arthur Stutt || 
+Chalmers, Stuart || Stuart Chalmers || Stuart Chalmers || 
+Lopez KMi, Miss Vanessa || Vanessa Lopez || Vanessa Lopez || 
+Buckinham Shum, Dr Simon || Buckingham Shum || Simon Buckingham Shum || 
+Brewster, Mr Christopher || Christopher Brewster || Christopher Brewster || 
+Selvin, Dr Albert || A. Selvin || Albert M. Selvin || 
+Alani, Harith || Harith Alani || Harith Alani || 
+Tate, Austin || Austin Tate || Austin Tate || 
+Chen-Burger, Yun-Heh || Heh Chen-Burger || Yun-Heh Chen-Burger || 
+Saggion, Dr Horacio || H. Saggion || Horacio Saggion || 
+Shadbolt, Professor Nigel || Nigel Shadbolt || Nigel R. Shadbolt || 
+De Roure, Prof David C || David C. De Roure || David De Roure || 
+Wilks, Prof Yorick || Y. Wilks || Yorick Wilks || 
+Staab, Dr Steffen || S. Staab || Steffen Staab || 
+Shadbolt, Nigel || Nigel Shadbolt || Nigel R. Shadbolt || 
+Thomas, Edward || Edward Thomas || Edward Thomas || 
+Tate, A || Austin Tate || Austin Tate || 
+Staab, Dr Stefan || S. Staab || Steffen Staab || 
+Lewis, Dr Paul || Paul Lewis || Paul H. Lewis || 
+Wilks, Professor Yorick || Y. Wilks || Yorick Wilks || 
+Kim, Dr Sanghee || Sanghee Kim || Sanghee Kim || 
+Dingli, Mr. Alexiei || Alexiei Dingli || Alexiei Dingli || 
+Dasmahapatra Southampton, Dr Srinandan || inandan Dasmahapatra || Srinandan Dasmahapatra || 
+Tan, Dr Jaicheng || J. Tan || J. Tan || 
+Page, Dr. Kevin || Kevin R. Page || Kevin R. Page || 
+Michaelides, Dr. Danius || Danius Michaelides || Danius T. Michaelides || 
+Wills, Dr Gary || Gary Wills || Gary Wills || 
+Hall, Wendy || Wendy Hall || Wendy Hall || 
+Uren, V || Victoria Uren || Victoria S. Uren || 
+Kim, Miss Sanghee || Sanghee Kim || Sanghee Kim || 
+Fowler, David W. || David W. Walker || David W. Walker || 
+Motta, Prof Enrico || Enrico Motta (KMI || Enrico Motta || 
+Shadbolt, Prof Nigel || Nigel Shadbolt || Nigel R. Shadbolt || 
+Buckingham Shum, Simon J. || Buckingham Shum || Simon Buckingham Shum || 
+Knott, D || Dave Knott || Dave Knott || 
+Crowder, R || Richard Crowder || Richard Crowder || 
+Tzouvaras, V || Vassilis Tzouvaras || Vassilis Tzouvaras || 
+Aitken, Dr Stuart || S. Aitken || J. Stuart Aitken || 
+Coghill, G || George G. Coghill || George G. Coghill || 
+Brown, Ken N. || Kenneth N. Brown || Kenneth N. Brown || 
+Compatangelo, Ernesto || Ernesto Compatangelo || Ernesto Compatangelo || 
+Zimmermann, B || Beatrix Zimmermann || Beatrix Zimmermann || 
+Buckingham Shum, S || Buckingham Shum Simon || Simon Buckingham Shum || 
+Eisenstadt, Marc || Marc Eisenstadt || Marc Eisenstadt || 
+Dzbor, M || Martin Dzbor || Martin Dzbor || 
+Tate, Prof Austin || Austin Tate || Austin Tate || 
+Tennison, Dr Jeni || Jeni Tennison || Jeni Tennison || 
+Ireson, Mr. Neil || N. Ireson || N. Ireson || 
+Aitken, J.S. || S. Aitken || J. Stuart Aitken || 
+Wache, H || Holger Wache || Holger Wache || 
+Vasconcelos, Wanberto || Wamberto Weber Vasconcelos || Wamberto Weber Vasconcelos || 
+Sleeman, Prof. Derek || D. Sleeman || Derek H. Sleeman || 
+Michaelides, Danius T. || Danius Michaelides || Danius T. Michaelides || 
+Dimitrova, Dr Vania || Vania Dimitrova || Vania Dimitrova || 
+Selvin, A M || A. Selvin || Albert M. Selvin || 
+Hameed, Adil || Adil Hameed || Adil Hameed || 
+Ellis, Richard || Richard Ellis || Richard Ellis || 
+Chalmers, S || Stuart Chalmers || Stuart Chalmers || 
+Kampa, Dr Simon || Simon Kampa || Simon Kampa || 
+Petre, Dr Marian || Marian Petre || Marian Petre || 
+Burek, Mr G.G || Gaston G. Burek || Gaston Burek || 
+Moreale, Miss E. || Emanuela Moreale || Emanuela Moreale || 
+Buckingham Shum, S J || S. Shum || Simon Buckingham Shum || 
+Sereno, B. || Bertrand Sereno || Bertrand Sereno || 
+Sleeman, D || D. Sleeman || Derek H. Sleeman || 
+Shadbolt, Prof N R || Nigel R. Shadbolt || Nigel R. Shadbolt || 
+Studer, Rudi || Rudi Studer || Rudi Studer || 
+Motta, Prof E || Enrico Motta || Enrico Motta || 
+Dalton, Jeff || Jeff Dalton || Jeff Dalton || 
+Ciravegna, Fabio || Fabio Ciravegna || Fabio Ciravegna || 
+Tablan, Mr Valentin || Valentin Tablan || Valentin Tablan || 
+Gaizauskas, Dr. Rob || Robert J. Gaizauskas || Robert J. Gaizauskas || 
+Uren, Victoria || Victoria Uren || Victoria S. Uren || 
+Domingue, Dr. John || J. Domingue || John Domingue || 
+Fowler, D || David W. Fowler || David W. Fowler || 
+Michaelides, Danius || Danius Michaelides || Danius T. Michaelides || 
+Preece, Dr. Alun D. || Alun Preece || Alun D. Preece || 
+Eisenstadt, Prof. Marc || Marc Eisenstadt || Marc Eisenstadt || 
+Kim, Sanghee || Sanghee Kim || Sanghee Kim || 
+Vargas-Vera, Dr Maria || Maria Vargas-Vera || Maria Vargas-Vera || 
+Gibbins, Nicholas || Nicholas Gibbins || Nicholas Gibbins || 
+Hu, Dr Bo || Bo Hu || Bo Hu || 
+Hui, Kit || Kit-ying Hui || Kit-ying Hui || 
+Potter, Stephen || Stephen Potter || Stephen Potter || 
+Ciravegna, Professor Fabio || F. Ciravegna || Fabio Ciravegna || 
+Hui, Dr Kit-ying || Kit-ying Hui || Kit-ying Hui || 
+Shadbolt, Nigel R. || Nigel R. Shadbolt || Nigel R. Shadbolt || 
+Wickler, Dr Gerhard || Gerhard Wickler || Gerhard Wickler || 
+Jirapech-Umpai, Thanyaluk || Thanyaluk Jirapech-umpai || Thanyaluk Jirapech-Umpai || 
+Studer, R || Rudi Studer || Rudi Studer || 
+Guo, Mr Li || Li Guo || Li Guo || 
+Ajit, S || Ajit Singh || Ajit Singh || 
+Antoniou, G || Grigoris Antoniou || Grigoris Antoniou || 
+De Roure, David C. || David C. De Roure || David De Roure || 
+Vargas-Vera, Dr M. || Vera M. Vargas || Maria Vargas-Vera || 
+Maynard, Dr Diana || Diana Maynard || Diana Maynard || 
+Roy, Dr Rajkumar || Rajkumar Roy || Rajkumar Roy || 
+Sleeman, Prof Derek || Derek H. Sleeman || Derek H. Sleeman || 
+Shadbolt, N || N. R. Shadbolt m. schraefel || Nigel Shadbolt || 
+Domingue, J. || John Domingue || John Domingue || 
+Motta KMi, Professor Enrico || Enrico Motta (KMI || Enrico Motta || 
+Kalfoglou `, Dr Yannis || Y. Kalfoglou || Yannis Kalfoglou || 
+Dasmahapatra, Srinandan || Srinandan Dasmahapatra || Srinandan Dasmahapatra || 
+Chen-Burger, Dr Jessica || Yun-Heh Chen-Burger || Yun-Heh Chen-Burger || 
+De Roure, Prof. David || David C. De Roure || David De Roure || 
+Fensel, D. || Dieter Fensel || Dieter Fensel || 
+Harmelen, Dr Frank van || Frank van Harmelen || Frank van Harmelen || 
+Pan, J Z || Jeff Z. Pan || Jeff Z. Pan || 
+Lawrence, Ms K Faith || Faith Lawrence || K. Faith Lawrence || 
+Bard, J.B.L. || Jonathan Bard || Jonathan F. Bard || 
+Wilks, prof. Yrick || Yorick Wilks || Yorick Wilks || 
+Crowder, Dr Richard || Richard Crowder || Richard Crowder || 
+Millard, Dr David || David Millard || XXX || 
+Sabou, Dr. Marta || Marta Sabou || Marta Sabou || 
+Gray, Prof. Peter M. D. || Peter M D Gray || Peter M. D. Gray || 
+Lei, Y. || Yuangui Lei || Yuangui Lei || 
+Ciravegna, Dr. Fabio || Ciravegna F. S || Fabio Ciravegna || 
+Aitken, Stuart || S. Aitken || J. Stuart Aitken || 
+Domingue, Dr J || J. Domingue || John Domingue || 
+Chalmers, Dr Stuart || Stuart Chalmers || Stuart Chalmers || 
+Staab, S || S. Staab || Steffen Staab || 
+Berners-Lee, Prof Tim || Tim Berners-Lee || Tim Berners-Lee || 
+Omelayenko, B || Borys Omelayenko || Borys Omelayenko || 
+Tate, Prof. Austin || Austin Tate || Austin Tate || 
+Miles-Board, Mr Timothy || Timothy Miles-Board || Timothy Miles-Board || 
+Norton, Mr. Barry || Barry Norton || Barry Norton || 
+Brown, K || Ken Brown || Ken N. Brown || 
+Weitzner, Prof Daniel J. || Daniel J. Weitzner || Daniel J. Weitzner || 
+Brewster, Mr. Christopher || Christopher Brewster || Christopher Brewster || 
+Harris, Stephen || Steve Harris || Stephen Harris || 
+Kalfoglou, Yannis || Yannis Kalfoglou || Yannis Kalfoglou || 
+Kiryakov, Mr Atanas || Atanas K. Kiryakov || Atanas Kiryakov || 
+Gray, Peter || Peter M D Gray || Peter M. D. Gray || 
+Sumner, T || Tamara Sumner || Tamara Sumner || 
+Huang, Z || Z. Zhang || Z. Zhang || 
+Paralic, Dr Jan || J'an Paralic || Jan Paralic || 
+Sleeman, Derek H. || Derek H. Sleeman || Derek H. Sleeman || 
+Plexousakis, Dimitris || Dimitris Plexousakis || Dimitris Plexousakis || 
+Shadbolt, Prof Nigel R || Nigel Shadbolt || Nigel R. Shadbolt || 
+Domingue, Dr J. || J. Domingue || John Domingue || 
+Buckingham Shum, Dr S || Simon Buckingham Shum || Simon Buckingham Shum || 
+Jewell, Mr Mike O || Michael O Jewell || Michael O. Jewell || 
+Chapman, Mr. Sam || Sam Chapman || Sam Chapman || 
+Vasconcelos, W || Wamberto Weber Vasconcelos || Wamberto Weber Vasconcelos || 
+Popov, Mr Borislav || Borislav Popov || Borislav Popov || 
+Bontcheva, Dr Kalina || Kalina Bontcheva WimPeters || Kalina Bontcheva || 
+Motta, E || E. Motta || Enrico Motta || 
+Hendler, Prof James A. || James Hendler || James A. Hendler || 
+Frey, Prof. Jeremy || Jeremy Frey || Jeremy G. Frey || 
+Wills, G || Gary Wills || Gary Wills || 
+Brughman, Hennie || Hennie Brugman || Hennie Brugman || 
+Kemp, Dr G.J.L. || Graham J L Kemp || Graham J. L. Kemp || 
+Potter, Dr. Stephen || Stephen Potter || Stephen Potter || 
+Dasmahaptra, Dr Srinandan || Srinandan Dasmahapatra || Srinandan Dasmahapatra || 
+Handschuh, Siegfried || S. Handschuh || Siegfried Handschuh || 
+Cabral, Liliana || Liliana Cabral || Liliana Cabral || 
+Pasin, Michele || Michele Pasin || Michele Pasin || 
+Bontcheva, Dr. Kalina || Kalina Bontcheva WimPeters || Kalina Bontcheva || 
+Vasconcelos, Dr. Wamberto || Wamberto Weber Vasconcelos || Wamberto Weber Vasconcelos || 
+Dowding, J. || John Dowding || John Dowding || 
+Ballantyne, Mr Jim || Jim Ballantyne || Jim Ballantyne || 
+Nuseibeh, Prof B || Nuseibeh Bashar || Bashar Nuseibeh || 
+Millard, Dave || David Millard || XXX || 
+Alani, Dr. Harith || H. Alani || Harith Alani || 
+Domingue, John || J. Domingue || John Domingue || 
+Lawrence, Ms K F || Faith Lawrence || K. Faith Lawrence || 
+Kemp, Dr Graham J. L. || Graham J L Kemp || Graham J. L. Kemp || 
+Shadbolt, Dr Nigel || Nigel Shadbolt || Nigel R. Shadbolt || 
+Weal, Dr Mark || Mark J. Weal || Mark J. Weal || 
+Eisenstadt, M || Marc Eisenstadt || Marc Eisenstadt || 
+Lopez, Miss Vanessa || Vanessa Lopez || Vanessa Lopez || 
+Kampa, S || Simon Kampa || Simon Kampa || 

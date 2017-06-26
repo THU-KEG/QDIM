@@ -1,0 +1,113 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1380046259_225">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person15415786_189"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-736082538_341"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person363510141_297"/>
+    <rdfs:label>Modularization: a Key for the Dynamic Selection of Relevant Knowledge Components.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-2136578152_190">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-156501778_152"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person15415786_189"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person363510141_297"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person788327057_108"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person716292974_97"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2076855993_188"/>
+    <rdfs:label>An Infrastructure for Acquiring High Quality Semantic Metadata.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person85930201_344">
+    <foaf:name>Uren, Victoria</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1315656647_465">
+    <foaf:name>Sabou, Dr Marta</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document960555499_228">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person15415786_189"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person363510141_297"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-392240471_106"/>
+    <rdfs:label>Ontology Selection on the Real Semantic Web: How to Cover the Queens Birthday Dinner?.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1542591648_229">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2088013475_342"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-392240471_106"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person85930201_344"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249"/>
+    <rdfs:label>Ontology Selection: Ontology Evaluation on the Real Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person788327057_108">
+    <foaf:name>Lopez, Miss Vanessa</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-736082538_341">
+    <foaf:name>d'Aquin, Dr. Mathieu</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person15415786_189">
+    <foaf:name>Motta, Prof. Enrico</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-156501778_152">
+    <foaf:name>Zhu, Dr. Jianhan</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15">
+    <foaf:name>Motta, Prof Enrico</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person2076855993_188">
+    <foaf:name>Uren, Dr. Victoria</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person716292974_97">
+    <foaf:name>Lei, Dr. Yuangui</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1573059967_249">
+    <foaf:name>Motta, Enrico</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-392240471_106">
+    <foaf:name>Lopez, Vanessa</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-984545963_258">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person15415786_189"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-736082538_341"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person363510141_297"/>
+    <rdfs:label>Using the Semantic Web as Background Knowledge for Ontology Mapping.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person363510141_297">
+    <foaf:name>Sabou, Dr. Marta</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-2088013475_342">
+    <foaf:name>Sabou, Marta</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1248385659_236">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1490440384_15"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-392240471_106"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1315656647_465"/>
+    <rdfs:label>PowerMap: Mapping the real semantic web on the fly.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

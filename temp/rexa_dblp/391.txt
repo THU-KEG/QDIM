@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#personde5a43458d922f6a59b9421f0030ad9cb8bfaebe
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/v/Vargas=Vera:Maria.html
+0.6147128164418267
+http://kmi.open.ac.uk/fusion/dblp#person0DF2F404B2FF7978899EBF27EF6009673E54C40B
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Motta:Enrico.html
+0.7563753263159283
+http://kmi.open.ac.uk/fusion/dblp#documentfba44881b55dd78b0d08fea619ff5757972238fb
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/ndqa/Vargas-VeraMD03
+1.0
+http://kmi.open.ac.uk/fusion/dblp#person46e72126251b47729d5836a1999b3b03826741bd
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Domingue:John.html
+0.7563753263159283

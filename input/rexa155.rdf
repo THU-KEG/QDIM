@@ -1,0 +1,268 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person093036e90d7172f014577844d3415f5152113a44">
+    <foaf:name>Christina Stoica</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personcf9b4e19327ad7827fd5fcd46bf952ac8659bf2a">
+    <foaf:name>William J. Clancey</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personb5351191d17cc252419ac282d48c2ea4e6d7c36b">
+    <foaf:name>R. vanHoof</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personA2DE9DA6C455D3730F79CE51D7C1C0ADCA172907">
+    <foaf:name>Niranjan Suri</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person19c8276ad86be4d26cad204e5529f73f027f4df4">
+    <foaf:name>R. Jeffers</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person6ec27625f8ebe6e5176c337c8f27eefa3844da9c">
+    <foaf:name>Jeffrey Graham</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7b480a30155ad954b5fc04d2ce1ef1212bbcf28d">
+    <foaf:name>Albert M. Selvin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person5618d3e13e77c0eacb07096d6caa4d85dbe1699f">
+    <foaf:name>Ron van Hoof</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb457f7a7c94c79ecd0132b3ca357cd6f70ba386d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcc6319938e3b3c169b2b15efbb915c41be86269d"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb5351191d17cc252419ac282d48c2ea4e6d7c36b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone8f3f19ff79041c69773df4c5675bf92f0209c1a"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb3a5ac68dc95e9610690e1c09306a872b9ac304c"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6ec27625f8ebe6e5176c337c8f27eefa3844da9c"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf9b4e19327ad7827fd5fcd46bf952ac8659bf2a"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2952f9da635116b1d0edeb4a1a6c697a971c768b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1e848bd1c03912d64b9ed3d03854b6207265a740"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Mobile Agents: A Distributed Voice-Commanded Sensory and Robotic System for Surface EVA Assistance.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person858bed772dbdf21b74d506052eed053af1ac6241">
+    <foaf:name>R. Hoffman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personb3a5ac68dc95e9610690e1c09306a872b9ac304c">
+    <foaf:name>Sekou Crawford</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7cb5c80563ac4df1b20c71c1695b348315e9761f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7b480a30155ad954b5fc04d2ce1ef1212bbcf28d"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Case Studies of Project Compendium in Different Organizations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7d3689a1d42ef34073382c22543d714dcaac76f4">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personccbd3f7d28816d77e2555e638014651eb84358b3"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5618d3e13e77c0eacb07096d6caa4d85dbe1699f"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>simulating practice for work systems design.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7fca179e06d60f6c54c2e1e5d7fd8db5423436b6">
+    <foaf:name>J?rgen Kl?ver</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b">
+    <foaf:name>Maarten Sierhuis</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1e848bd1c03912d64b9ed3d03854b6207265a740">
+    <foaf:name>Rick Alena</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb157c24ef040ba3a9b157db999127d8c133dc633">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5a16ff058406da05eacb855019bd6b841e0e1efa"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persona278e3daf7089b37312a0aa7c7e7e27457f4852b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1ba36f87ef39e570b321bd9a12dc15301880ed04"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf9b4e19327ad7827fd5fcd46bf952ac8659bf2a"/>
+    <rdfs:label>Modeling and Simulation for Mission Operations Work System Design.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C">
+    <foaf:name>Simon Buckingham Shum</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone8f3f19ff79041c69773df4c5675bf92f0209c1a">
+    <foaf:name>Charis Kaskiris</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0be4a70341dbf004fb0d0ed4986bd441aec1b560">
+    <foaf:name>D. Prescott</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentca74653afa445176ed4a9ad594c603bd767fc936">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7b480a30155ad954b5fc04d2ce1ef1212bbcf28d"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Towards a Framework for Collaborative Modelling and Simulation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document45647eda9d13723b0943d50e2b1fc8dc2a5ad171">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5618d3e13e77c0eacb07096d6caa4d85dbe1699f"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person858bed772dbdf21b74d506052eed053af1ac6241"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1b2a1cb7e8cd6ee19102087d3ab5fc48bcb30a50"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <rdfs:label>Adjustable autonomy and human-agent teamwork in practice: An interim report on space applications.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf314e1ae802944eb3aa4b13a17d0e11adb98d77d"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personA2DE9DA6C455D3730F79CE51D7C1C0ADCA172907"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person19c8276ad86be4d26cad204e5529f73f027f4df4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personE6E491BFA312B1763FEC1340EDA641A0813892C4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1A661412FDB0E6CA8339185C2231D0FB9375DC25"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0be4a70341dbf004fb0d0ed4986bd441aec1b560"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325">
+    <foaf:name>Jeff Conklin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person2952f9da635116b1d0edeb4a1a6c697a971c768b">
+    <foaf:name>John Dowding</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document94c6f80c53e670920d4ebea5cf15547634d43258">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5618d3e13e77c0eacb07096d6caa4d85dbe1699f"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone8f3f19ff79041c69773df4c5675bf92f0209c1a"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf9b4e19327ad7827fd5fcd46bf952ac8659bf2a"/>
+    <rdfs:label>Advantages of Brahms for Specifying and Implementing a Multiagent Human-Robotic Exploration System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document04a508d9667cfc70f44ce446208a11a1d54719a9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person089BE2467F9401CE65FBEE91B4A6BFAC432E30F5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1ba36f87ef39e570b321bd9a12dc15301880ed04"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf9b4e19327ad7827fd5fcd46bf952ac8659bf2a"/>
+    <rdfs:label>Applying multiagent simulation to planetary surface operations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentdd26f47e4de0120b8817569cf40e339099f8b5f9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6ec27625f8ebe6e5176c337c8f27eefa3844da9c"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb3a5ac68dc95e9610690e1c09306a872b9ac304c"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcc6319938e3b3c169b2b15efbb915c41be86269d"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf9b4e19327ad7827fd5fcd46bf952ac8659bf2a"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5618d3e13e77c0eacb07096d6caa4d85dbe1699f"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1e848bd1c03912d64b9ed3d03854b6207265a740"/>
+    <rdfs:label>The Mobile Agents Integrated Field Test.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone8f3f19ff79041c69773df4c5675bf92f0209c1a"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2952f9da635116b1d0edeb4a1a6c697a971c768b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1ba36f87ef39e570b321bd9a12dc15301880ed04">
+    <foaf:name>Michael H. Sims</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persona278e3daf7089b37312a0aa7c7e7e27457f4852b">
+    <foaf:name>Jay P. Trimble</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2a2d8c6a248751e7d7991ebfc5bbb4c8d4485e52">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone8f3f19ff79041c69773df4c5675bf92f0209c1a"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb5351191d17cc252419ac282d48c2ea4e6d7c36b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf9b4e19327ad7827fd5fcd46bf952ac8659bf2a"/>
+    <rdfs:label>Brahms Mobile Agents: Architecture and Field Tests.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentab9c7740a2e9346b9a3e925795f43d11d54aa489">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7fca179e06d60f6c54c2e1e5d7fd8db5423436b6"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person093036e90d7172f014577844d3415f5152113a44"/>
+    <rdfs:label>The Emergence of Social Order in a Robotic Society.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document231b99383e20fe6bb2f96420d94ad31e0058da1f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person089BE2467F9401CE65FBEE91B4A6BFAC432E30F5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf9b4e19327ad7827fd5fcd46bf952ac8659bf2a"/>
+    <rdfs:label>Empirical Requirements Analysis for Mars Surface Operations Using the Flashline Mars Arctic Research Station.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personf314e1ae802944eb3aa4b13a17d0e11adb98d77d">
+    <foaf:name>Paul J. Feltovich</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc1c8d6750ac134cb290a1ae00787a0b17db9bd8c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7b480a30155ad954b5fc04d2ce1ef1212bbcf28d"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Strategies for Collaborative Modeling and Simulation (workshop.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personcc6319938e3b3c169b2b15efbb915c41be86269d">
+    <foaf:name>Kim S. Tyree</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentbc9657ba6133a82cdb1c7b9df6472dfd31f92902">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person086dfea53fa68d144d913f1f7de3f469a6b69325"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7b480a30155ad954b5fc04d2ce1ef1212bbcf28d"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personD6135F0D080AC89A24EBACB72021BDA50A02F33C"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Facilitated hypertext for collective sensemaking: 15 years on from gIBIS.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document159b530a9e01c4419f205ffa2d95841e16c4e621">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf9b4e19327ad7827fd5fcd46bf952ac8659bf2a"/>
+    <rdfs:label>Modeling and Simulating Work Practice: A Method for Work Systems Design.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person089BE2467F9401CE65FBEE91B4A6BFAC432E30F5">
+    <foaf:name>Peter Lee</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personE6E491BFA312B1763FEC1340EDA641A0813892C4">
+    <foaf:name>Alessandro Acquisti</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1b2a1cb7e8cd6ee19102087d3ab5fc48bcb30a50">
+    <foaf:name>Jeffrey M. Bradshaw</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person5a16ff058406da05eacb855019bd6b841e0e1efa">
+    <foaf:name>CHIN SEAH</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1A661412FDB0E6CA8339185C2231D0FB9375DC25">
+    <foaf:name>A. Uszok</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document298e43312a7769f26393bb38a81d29b19e849035">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1ba36f87ef39e570b321bd9a12dc15301880ed04"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf9b4e19327ad7827fd5fcd46bf952ac8659bf2a"/>
+    <rdfs:label>Multiagent Modeling and Simulation in Human-Robot Mission Operations Work System Design.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personccbd3f7d28816d77e2555e638014651eb84358b3">
+    <foaf:name>Sachs P. Clancey WJ</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentebb66490b0bcc59311904f5dc84f15f99fa8080c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personE6E491BFA312B1763FEC1340EDA641A0813892C4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf9b4e19327ad7827fd5fcd46bf952ac8659bf2a"/>
+    <rdfs:label>Multiagent Plan Execution and Work Practice: Modeling plans and practices onboard the ISS.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

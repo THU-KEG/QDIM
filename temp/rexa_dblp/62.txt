@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#document6e8c10db29cdcbcd8dd1bcb45d047d32a54c2591
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/iicai/Rajpathak03
+0.7198417167362962
+http://kmi.open.ac.uk/fusion/dblp#documentfe4c50c58dc98332c802bbf47a82bab558d0b5af
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/ecai/MottaRZR02
+0.7198417167362962
+http://kmi.open.ac.uk/fusion/dblp#person6fde79158971d97eb929a503eae9379495b97d12
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rajpathak:Dnyanesh_G=.html
+0.9166666666666666

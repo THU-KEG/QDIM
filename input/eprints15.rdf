@@ -1,0 +1,289 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1845059486_173">
+    <foaf:name>Page, Kevin R.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person406199735_176">
+    <foaf:name>De Roure, David C.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-60593490_284">
+    <foaf:name>Tuffield, Mischa</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1158295481_149">
+    <foaf:name>Frey, Prof. Jeremy</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1100951845_115">
+    <foaf:name>Komzak, Jiri</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1840958368_290">
+    <foaf:name>Wickler, Dr Gerhard</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-315241796_18">
+    <foaf:name>Preece, Alun</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-298828152_111">
+    <foaf:name>Chen-Burger, Yun-Heh</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-2064080185_127">
+    <foaf:name>Shadbolt, Prof. Nigel</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person239464396_118">
+    <foaf:name>Tate, Austin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person715331710_124">
+    <foaf:name>Page, Dr. Kevin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person849819276_282">
+    <foaf:name>Chalmers, Stuart</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-966725805_112">
+    <foaf:name>Dalton, Jeff</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-212803053_336">
+    <foaf:name>Gray, Prof. Peter M. D.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1493235042_59">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1656801956_122"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1158295481_149"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1933791386_123"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person685752709_125"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person715331710_124"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1704831554_120"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1194907177_126"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-80393304_20"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-513285942_109"/>
+    <rdfs:label>Chain ReAKTing: Collaborative Advanced Knowledge Technologies in the Comb-e-Chem Grid.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1100951845_115"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-844429065_128"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-966725805_112"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2064080185_127"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1252946047_296">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-928391920_78"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-844429065_128"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-80393304_20"/>
+    <rdfs:label>Enterprise Modelling: A Declarative Approach for FBPML.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1656801956_122">
+    <foaf:name>Eisenstadt, Prof. Marc</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1945141026_110">
+    <foaf:name>Buckingham Shum, Simon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1809587858_335">
+    <foaf:name>Preece, Dr. Alun D.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-2418974_175">
+    <foaf:name>Buckingham Shum, Simon J.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-2124272754_283">
+    <foaf:name>Hu, Bo</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person415289744_255">
+    <foaf:name>Kalfoglou, Yannis</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-172791856_334">
+    <foaf:name>Hui, Dr. Kit-Ying</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1704831554_120">
+    <foaf:name>Buckingham Shum, Dr. Simon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-127752535_25">
+    <foaf:name>Alani, Harith</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-844429065_128">
+    <foaf:name>Tate, Prof. Austin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2059269749_82">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2066991003_33"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1100951845_115"/>
+    <rdfs:label>Collaboration in the Semantic Grid: a Basis for e-Learning.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-298828152_111"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-966725805_112"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2418974_175"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1045310186_177"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person406199735_176"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person556677361_114"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person829730944_174"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1845059486_173"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person239464396_118"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-513285942_109"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1865877363_79">
+    <foaf:name>Potter, Dr Stephen</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person574408210_62">
+    <foaf:name>Shadbolt, Nigel</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person685752709_125">
+    <foaf:name>Potter, Dr. Stephen</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-2066991003_33">
+    <foaf:name>Potter, Stephen</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1019542585_177">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1945141026_110"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person415289744_255"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1575466991_281"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2124272754_283"/>
+    <rdfs:label>The Application of Advanced Knowledge Technologies for Emergency Response.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-127752535_25"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2066991003_33"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-60593490_284"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-315241796_18"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-513285942_109"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person239464396_118"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person849819276_282"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-389381794_280"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person574408210_62"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-226963419_156"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-389381794_280">
+    <foaf:name>Carvalho, Rodrigo</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person556677361_114">
+    <foaf:name>Eisenstadt, Marc</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1575466991_281">
+    <foaf:name>Chakravarthy, Ajay</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person829730944_174">
+    <foaf:name>Michaelides, Danius T.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person229966456_333">
+    <foaf:name>Yun-Heh Chen-Burger, Dr. Yun-Heh</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1933791386_123">
+    <foaf:name>Michaelides, Dr. Danius</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-928391920_78">
+    <foaf:name>Robertson, Dr. Dave</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1194907177_126">
+    <foaf:name>De Roure, Prof. David</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1045310186_177">
+    <foaf:name>Shadbolt, Nigel R.</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1848796233_399">
+    <foaf:name>Lino, Ms. Natasha Queiroz</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-929967825_186">
+    <foaf:name>Tate, Prof Austin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1634930938_65">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-513285942_109"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1704831554_120"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <rdfs:label>Collaborative Tools in the Semantic Grid.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2064080185_127"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-844429065_128"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1100951845_115"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1656801956_122"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1475856301_121"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-966725805_112"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1194907177_126"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person715331710_124"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person685752709_125"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1933791386_123"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-513285942_109">
+    <foaf:name>Bachler, Michelle</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-80393304_20">
+    <foaf:name>Chen-Burger, Dr. Yun-Heh</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-226963419_156">
+    <foaf:name>Chapman, Sam</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-306412942_153">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1809587858_335"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-172791856_334"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person229966456_333"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-212803053_336"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-844429065_128"/>
+    <rdfs:label>Supporting Collaboration through Semantic-based Workflow and Constraint Solving.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1265265627_181">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-929967825_186"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1840958368_290"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1865877363_79"/>
+    <rdfs:label>Using I-X Process Panels as Intelligent To-Do Lists for Agent Coordination in Emergency Response.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person2062978720_400">
+    <foaf:name>Siebra, Mr. Clauirton</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1596148103_289">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1848796233_399"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person2062978720_400"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-80393304_20"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-844429065_128"/>
+    <rdfs:label>Delivering Intelligent Planning Information to Mobile Devices Users in Collaborative Environments.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1475856301_121">
+    <foaf:name>Chen-Burger, Dr. Yun-Heh (Jessica)</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

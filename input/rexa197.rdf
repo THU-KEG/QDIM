@@ -1,0 +1,59 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person3eb2df4ac17c07ae0f630f8ce82110661e93c0c9">
+    <foaf:name>Timothy J. Norman</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person14942a6ef00911f08179bba174eb9e2d76a34809">
+    <foaf:name>Kit-ying Hui</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document8f685d335d950e0d33afa07f4f19ef06120ef09c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persona0fe1d965e95cf0139d39904b28ff9112ef8ff09"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person32219e357a98ca09fb72aa69ad425de4678b6e4b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <rdfs:label>Supporting Virtual Organisations Using BDI Agents and Constraints.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentfd895e93cafa321980f9789fbb016ef2842c67dd">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persona0fe1d965e95cf0139d39904b28ff9112ef8ff09"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person32219e357a98ca09fb72aa69ad425de4678b6e4b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person3eb2df4ac17c07ae0f630f8ce82110661e93c0c9"/>
+    <rdfs:label>Commitment Management through Constraint Reification.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0">
+    <foaf:name>Peter M D Gray</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document88bdc39db2b79d67f1d7e56e6a35d9481b158825">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persona0fe1d965e95cf0139d39904b28ff9112ef8ff09"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person32219e357a98ca09fb72aa69ad425de4678b6e4b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personEC54AD9B912B936FECA88414F017951AAC60F1F0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person14942a6ef00911f08179bba174eb9e2d76a34809"/>
+    <rdfs:label>Experience in Using RDF in Agent-Mediated Knowledge Architectures.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person32219e357a98ca09fb72aa69ad425de4678b6e4b">
+    <foaf:name>Alun Preece</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persona0fe1d965e95cf0139d39904b28ff9112ef8ff09">
+    <foaf:name>Stuart Chalmers</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

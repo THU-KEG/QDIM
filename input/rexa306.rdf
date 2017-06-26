@@ -1,0 +1,55 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1e6a44ff3b300b70ddb890b017ce3232f2bab38a">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond1eeef8e1c774d24f78b6f67ed8644cb37bcb7df"/>
+    <rdfs:label>AN APPROACH TO EXTRACTING KNOWLEDGE FROM LEGACY DOCUMENTS.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4686e6ca17e434f89b3215f0674ab3aad05ad69f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond1eeef8e1c774d24f78b6f67ed8644cb37bcb7df"/>
+    <rdfs:label>Issues in Moving to a Semantic Web for a Large Corporation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document878be6179492274c407746e085a370d6840b6345">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond1eeef8e1c774d24f78b6f67ed8644cb37bcb7df"/>
+    <rdfs:label>The Application of a Hypermedia Research System in Industry.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persond1eeef8e1c774d24f78b6f67ed8644cb37bcb7df">
+    <foaf:name>Richard Crowder</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentf8ab53dd8a74a81d88ae0f07067a041eeabbe812">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond1eeef8e1c774d24f78b6f67ed8644cb37bcb7df"/>
+    <rdfs:label>Design Issues for Agent-Based Resource Locator Systems.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1912618ac68b66a65f5b9090638acbb8cc4c9392">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond1eeef8e1c774d24f78b6f67ed8644cb37bcb7df"/>
+    <rdfs:label>Towards A New Authoring Methodology for Large-Scale Hypermedia Applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1ad8378bff1fe32cd13989741b50fe3eaef0db93">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond1eeef8e1c774d24f78b6f67ed8644cb37bcb7df"/>
+    <rdfs:label>A New Authoring Methodology for Large-Scale Hypermedia Applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4f48ab700c2a541d47d47d8394ac8ba30997fcce">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persond1eeef8e1c774d24f78b6f67ed8644cb37bcb7df"/>
+    <rdfs:label>Industrial strength hypermedia: design, implementation and application.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+</rdf:RDF>

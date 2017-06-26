@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#document28ff45558491133fbfe4f911cde85f1d1caa8373
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/aimsa/MaynardCBD02
+0.7268642449530891
+http://kmi.open.ac.uk/fusion/dblp#person98805f77a2529ebc345f3043168264138e4f6d06
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dimitrov:Marin.html
+1.0

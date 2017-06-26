@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#document-140105335_79
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/webi/Vargas-VeraC04
+1.0
+http://kmi.open.ac.uk/fusion/dblp#person833400481_171
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Celjuska:David.html
+0.8333333333333333
+http://kmi.open.ac.uk/fusion/dblp#document-935752048_127
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/webi/Vargas-VeraC04
+0.31645569620253167
+http://kmi.open.ac.uk/fusion/dblp#document-1090391302_150
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/webi/Vargas-VeraC04
+0.31645569620253167

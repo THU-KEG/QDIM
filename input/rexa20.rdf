@@ -1,0 +1,40 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document8e70dfe333bad9b47d24340d0f19e1677e4e653f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8eda253ac9113ff6fde9f984617891e57943a6ee"/>
+    <rdfs:label>A Question-Answering System Using Argumentation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document024bd3daac907c8f57cfe1d26a67f243331d13ca">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8eda253ac9113ff6fde9f984617891e57943a6ee"/>
+    <rdfs:label>Organisational Information Management and Knowledge Discovery in Email within Mailing Lists.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document38b748e9557fc43f439928e2bebc24f2eb5d2b46">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8eda253ac9113ff6fde9f984617891e57943a6ee"/>
+    <rdfs:label>Automating the Interoperation of Information Processing Tools.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document67d6e9fbda88cdb205a2af95389ba0f121a1733e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person8eda253ac9113ff6fde9f984617891e57943a6ee"/>
+    <rdfs:label>An Agent-Based Approach to Mailing List Knowledge Management.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person8eda253ac9113ff6fde9f984617891e57943a6ee">
+    <foaf:name>Emanuela Moreale</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

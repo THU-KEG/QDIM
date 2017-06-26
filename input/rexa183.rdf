@@ -1,0 +1,120 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personca2e4c7709978fcdd40fa19ad4353f612b51dba5">
+    <foaf:name>Natasha Queiroz Lino</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1623efaca1b0a423c364f35be09843e3403a3912">
+    <foaf:name>Anne Frery</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personcf292ec7eeddcfd2aa88732528b7a9b4c8919120">
+    <foaf:name>Geber Ramalho</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document1ed9d54e059a1edb5d7be84edce621e8ee773b30">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <rdfs:label>I-Rescue: A Coalition Based System to Support Disaster Relief Operations, The Third International Association of Science and Technology for Development (IASTED.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document6ab8f503fad67625de96633e0e17326d3d17c43b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personebabb5dbabb10c6e44b5beb47380a83e5481e1d4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0668C511374175EE20E1BB5AEB5972B97A6B4004"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1b2a1cb7e8cd6ee19102087d3ab5fc48bcb30a50"/>
+    <rdfs:label>Intelligent Agents for Coalition Search and Rescue Task Support.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0668C511374175EE20E1BB5AEB5972B97A6B4004">
+    <foaf:name>Stuart Aitken</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531">
+    <foaf:name>Jeff Dalton</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5974c398d46e2b812bd89f3bf2a2f8cfca9c1b6b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1A661412FDB0E6CA8339185C2231D0FB9375DC25"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1b2a1cb7e8cd6ee19102087d3ab5fc48bcb30a50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc76a884653833a155234a657f693d1908b7fcf7b"/>
+    <rdfs:label>Intelligent Agents for Coalition Search and Rescue Task Support, AAAI-2004 Intelligent Systems Demonstrator.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person5c2096caab9afe6cbbc8b8f4e88eef22c2c1d028">
+    <foaf:name>Yun-Heh Chen-Burger</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7b2da3ea49f7a4297f9e7f92687b159ff299f82c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person70f4c7f6977a3e19a444660e7ac1f63e67914d16"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb4ce39808c0ad1e73fe7322cb4e70cb96878594b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person9D355AE1F425FD23CC8EEEDF630737293F02EE84"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personcf292ec7eeddcfd2aa88732528b7a9b4c8919120"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1623efaca1b0a423c364f35be09843e3403a3912"/>
+    <rdfs:label>PersonalityCentered Agents for Virtual Computer Games.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personc76a884653833a155234a657f693d1908b7fcf7b">
+    <foaf:name>S. Aitken</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document214cbd6ad5dc5ddebd79c8f55f148ab29a6bea7d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person5c2096caab9afe6cbbc8b8f4e88eef22c2c1d028"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personca2e4c7709978fcdd40fa19ad4353f612b51dba5"/>
+    <rdfs:label>Delivering Intelligent Planning Information to Mobile Device Users in Collaborative Environments.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1b2a1cb7e8cd6ee19102087d3ab5fc48bcb30a50">
+    <foaf:name>Jeffrey M. Bradshaw</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0">
+    <foaf:name>Austin Tate</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person9D355AE1F425FD23CC8EEEDF630737293F02EE84">
+    <foaf:name>A. Almeida</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1A661412FDB0E6CA8339185C2231D0FB9375DC25">
+    <foaf:name>A. Uszok</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personb4ce39808c0ad1e73fe7322cb4e70cb96878594b">
+    <foaf:name>Jeferson L. Valadares</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personebabb5dbabb10c6e44b5beb47380a83e5481e1d4">
+    <foaf:name>Andrzej Uszok</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB">
+    <foaf:name>Clauirton Siebra</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person70f4c7f6977a3e19a444660e7ac1f63e67914d16">
+    <foaf:name>D. Silva</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

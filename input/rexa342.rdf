@@ -1,0 +1,54 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documenta93728c9efb28e7dde195c8be676dfe193ec87fc">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc583926bf3a1766e90aad2cf61a999b6bd878376"/>
+    <rdfs:label>Ontology-based Web Agents.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc093fa91e6cb09b44432c098cd00a5d14baf0277">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personA6098F8C795ED95D894A429674CB901EEFC2ED1E"/>
+    <rdfs:label>Semantic web architecture: Stack or two towers.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente1f6575544f105174e60ebbed247d7340e0edfe9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc583926bf3a1766e90aad2cf61a999b6bd878376"/>
+    <rdfs:label>E-Science: The Grid and the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5e63458b078f1dc89f2b03b7e8d99e3105e93d34">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc583926bf3a1766e90aad2cf61a999b6bd878376"/>
+    <rdfs:label>Guest Editors' Introduction: E-Science.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personA6098F8C795ED95D894A429674CB901EEFC2ED1E">
+    <foaf:name>James Hendler</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5680df8c582551d5ec8e4b6f13ea3caaecaf9fc3">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc583926bf3a1766e90aad2cf61a999b6bd878376"/>
+    <rdfs:label>Accuracy of Metrics for Inferring Trust and Reputation in Semantic Web-Based Social Networks.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4c59f005e826b346da8e0e3f3a40ef179186563f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc583926bf3a1766e90aad2cf61a999b6bd878376"/>
+    <rdfs:label>Dynamic Ontologies on the Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personc583926bf3a1766e90aad2cf61a999b6bd878376">
+    <foaf:name>James A. Hendler</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

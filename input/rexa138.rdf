@@ -1,0 +1,55 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document80279324e7183f9d556e51b5ffe6ba3baebaa7f6">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <rdfs:label>P2 - Intelligent Process Panels to Support Coalition Operations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0d8aca91c3575168a02a5d820493f603d62827cb">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <rdfs:label>Formal Support for an Informal Business Modelling Method.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document4a01ad9ed462254c8a1360535d1d26ae157461aa">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <rdfs:label>Combining and Adapting Process Patterns for Flexible Workflow.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754">
+    <foaf:name>Jussi Stader</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2b4582fedb1e93e62a137a1a8239bbe907f7708f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <rdfs:label>Who Does What? Matching Agents to Tasks in Adaptive Workflow.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7c2d4431de1e9b3c3e89fbdc7dd2182dec553fa1">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <rdfs:label>Formal support for adaptive workflow systems in a distributed environment.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5833f4a64bc449c3edeff7cecffe10bd65358337">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <rdfs:label>Knowledge-based process management - an approach to handling adaptive workflow.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document30d370f8e913278c48fe1bcf740e0c477f028b4e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <rdfs:label>Formal Support for an Informal Business Modelling Method.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+</rdf:RDF>

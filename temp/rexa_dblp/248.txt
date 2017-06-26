@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#documentc281eeac6191b47bb5c2a3ee0da64c760c94b51d
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/um/DenauxDA05
+0.6808204817096106
+http://kmi.open.ac.uk/fusion/dblp#person53F9FA3C4DCE30012853D4D6EC3A75759F0B5A47
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/d/Dimitrova:Vania.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#documente12ce294beaad12b43ec12f6d81a5ae3f13e883b
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/ijait/BontchevaD04
+0.6808204817096106

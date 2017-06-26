@@ -1,0 +1,17 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#person-1382004557_274
+3
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Leonard:Thomas_E=.html
+0.8571428571428572
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Leonard:Thomas.html
+1.0
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Leonard:J=_Thomas.html
+0.8333333333333333
+http://kmi.open.ac.uk/fusion/dblp#document1808177028_173
+3
+http://dblp.uni-trier.de/rec/bibtex/conf/itrust/AhsantSLKM06
+0.21333333333333335
+http://dblp.uni-trier.de/rec/bibtex/conf/iq/HoutsmaL99
+0.2857142857142857
+http://dblp.uni-trier.de/rec/bibtex/journals/jcisd/RoyL05
+0.23636363636363636

@@ -1,0 +1,147 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document80279324e7183f9d556e51b5ffe6ba3baebaa7f6">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person905a267d6f00161af909ae69d99e0f2cead486a9"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <rdfs:label>P2 - Intelligent Process Panels to Support Coalition Operations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person4A1E4EDB984FB561880A3D011A6B19A5B20761F9">
+    <foaf:name>John Levine</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document6ab8f503fad67625de96633e0e17326d3d17c43b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personebabb5dbabb10c6e44b5beb47380a83e5481e1d4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0668C511374175EE20E1BB5AEB5972B97A6B4004"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1b2a1cb7e8cd6ee19102087d3ab5fc48bcb30a50"/>
+    <rdfs:label>Intelligent Agents for Coalition Search and Rescue Task Support.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0668C511374175EE20E1BB5AEB5972B97A6B4004">
+    <foaf:name>Stuart Aitken</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531">
+    <foaf:name>Jeff Dalton</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person995ad9870603657ec065ca9c261cb26afb5d2754">
+    <foaf:name>Jussi Stader</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persondc9640a5fe4bf5ee9240fae19904d2278d9d3485">
+    <foaf:name>Alexander Nixon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personb36babc56c3d317bed55dc58af1d997204d03c89">
+    <foaf:name>Renia Jeffers</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person905a267d6f00161af909ae69d99e0f2cead486a9">
+    <foaf:name>J. I</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5974c398d46e2b812bd89f3bf2a2f8cfca9c1b6b">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1A661412FDB0E6CA8339185C2231D0FB9375DC25"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1b2a1cb7e8cd6ee19102087d3ab5fc48bcb30a50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc76a884653833a155234a657f693d1908b7fcf7b"/>
+    <rdfs:label>Intelligent Agents for Coalition Search and Rescue Task Support, AAAI-2004 Intelligent Systems Demonstrator.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2d7ad21f3778a2b2b528e5c0e1b83494d6bb4b34">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1667bf506e0d7bfa9313ad6898eb93fa228fd49e"/>
+    <rdfs:label>I-X Task support on the Semantic Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personc76a884653833a155234a657f693d1908b7fcf7b">
+    <foaf:name>S. Aitken</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document0ca9962e31546116eb673159b02d0e669d288b3e">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb36babc56c3d317bed55dc58af1d997204d03c89"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person38bef711a0467ab201163eb48f58b694d422528e"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personebabb5dbabb10c6e44b5beb47380a83e5481e1d4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0668C511374175EE20E1BB5AEB5972B97A6B4004"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1b2a1cb7e8cd6ee19102087d3ab5fc48bcb30a50"/>
+    <rdfs:label>KAoS Policy Management for Semantic Web Services.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentfae30c22454c7b922cbc7cb1b6663d644216ef45">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc76a884653833a155234a657f693d1908b7fcf7b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4A1E4EDB984FB561880A3D011A6B19A5B20761F9"/>
+    <rdfs:label>O-P 3 : Supporting the Planning Process using Open Planning Process Panels, in Proceedings of the AAAI Workshop on Agent Based Systems in the Business Context.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1667bf506e0d7bfa9313ad6898eb93fa228fd49e">
+    <foaf:name>Stuart Potter</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1b2a1cb7e8cd6ee19102087d3ab5fc48bcb30a50">
+    <foaf:name>Jeffrey M. Bradshaw</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0">
+    <foaf:name>Austin Tate</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1A661412FDB0E6CA8339185C2231D0FB9375DC25">
+    <foaf:name>A. Uszok</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentbea42f5f2f81b5b2013b78c89358305308ef0ee0">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persondc9640a5fe4bf5ee9240fae19904d2278d9d3485"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person4A1E4EDB984FB561880A3D011A6B19A5B20761F9"/>
+    <rdfs:label>Task-Achieving Agents on the World Wide Web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personebabb5dbabb10c6e44b5beb47380a83e5481e1d4">
+    <foaf:name>Andrzej Uszok</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person38bef711a0467ab201163eb48f58b694d422528e">
+    <foaf:name>Matthew Johnson</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person502B3DE2BCAD8390952B23EBECE97F2B2CCB1CFB">
+    <foaf:name>Clauirton Siebra</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentaf11f500c1e6002d04f868de00dbdc724b90b374">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb36babc56c3d317bed55dc58af1d997204d03c89"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personebabb5dbabb10c6e44b5beb47380a83e5481e1d4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personDCA53322D7CA38167A80E8851A5DEF4EB065F0B0"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person880C6DAA06F1C930FEFCBB0BDABF48048BC6B531"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1b2a1cb7e8cd6ee19102087d3ab5fc48bcb30a50"/>
+    <rdfs:label>Applying KAoS Services to Ensure Policy Compliance for Semantic Web Services Workflow Composition and Enactment.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

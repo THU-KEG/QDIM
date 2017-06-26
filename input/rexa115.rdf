@@ -1,0 +1,40 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person6ad14e84ca04a131f84b14eb8c2b058572a533a4">
+    <foaf:name>Michelle Bachler</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person6189378aa03b0711506cd0f5acf6a3cd4c632769">
+    <foaf:name>B. R S Buckingham</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7247A58032E6D08BB9FA8B542E96FB8C6AE047B8">
+    <foaf:name>G. Li</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone1fbe4ec47a3a6ff699b6ebf328d7fa9564d1039">
+    <foaf:name>Victoria Uren</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentdf6477e9531276ffeb536035a6302fac8bb0c429">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone1fbe4ec47a3a6ff699b6ebf328d7fa9564d1039"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7247A58032E6D08BB9FA8B542E96FB8C6AE047B8"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6189378aa03b0711506cd0f5acf6a3cd4c632769"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person6ad14e84ca04a131f84b14eb8c2b058572a533a4"/>
+    <rdfs:label>submitted) Sensemaking Tools for Understanding Research Literatures: Design, Implementation and User Evaluation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,80 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personFA85503A55ADA42407242034799B193425D61065">
+    <foaf:name>Frank van Harmelen</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person625974C2B616ACA8F1C9F48020BB532B4773554B">
+    <foaf:name>Marta Sabou</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document5e847c98828b80ea6a1b51ce3e5cfbc9624c7c65">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personc74a3461aa5327d67c19ef742ebe418ef83c63c7"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person625974C2B616ACA8F1C9F48020BB532B4773554B"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personFA85503A55ADA42407242034799B193425D61065"/>
+    <rdfs:label>Supporting User Tasks through Visualisation of Light-weight Ontologies.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person56e4af469c4d25aebeac29588c164dcddb60f014">
+    <foaf:name>Dimitris Plexousakis</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4">
+    <foaf:name>Dieter Fensel</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documente1324c78053d4181c4f0cc5387e3e47352bf8c0f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persone968a9813c955980cde249a187879bb340a5bb2e"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person56e4af469c4d25aebeac29588c164dcddb60f014"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personFA85503A55ADA42407242034799B193425D61065"/>
+    <rdfs:label>editors.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persone968a9813c955980cde249a187879bb340a5bb2e">
+    <foaf:name>Sheila A. McIlraith</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person77f3368958c68ac256f5f617803ab23e6a5133d1">
+    <foaf:name>George Antoniou</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document915743d33a542e648b176be4b16ef15df1e2ddb9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person77f3368958c68ac256f5f617803ab23e6a5133d1"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personFA85503A55ADA42407242034799B193425D61065"/>
+    <rdfs:label>Annotea project homepage.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personb2f3af7a983a61ef12a58adb00e0a2e03d71e61f">
+    <foaf:name>M. Horrocks</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentdeae419d6e3a55ac284660f4ea88165c14a18cee">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persona2a3ebcd6a167cf4e1746cf2d794f7edd818c076"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb2f3af7a983a61ef12a58adb00e0a2e03d71e61f"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person69D16C84479C6AC49D791FC9FDC49D33C50BE2E4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personFA85503A55ADA42407242034799B193425D61065"/>
+    <rdfs:label>OIL &amp; UPML: A unifying framework for the knowledge web.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personc74a3461aa5327d67c19ef742ebe418ef83c63c7">
+    <foaf:name>Christiaan Fluit</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persona2a3ebcd6a167cf4e1746cf2d794f7edd818c076">
+    <foaf:name>Monica Crubezy</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

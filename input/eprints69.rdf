@@ -1,0 +1,80 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10">
+    <foaf:name>Cunningham, Dr Hamish</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-495272797_44">
+    <foaf:name>Kiryakov, Mr Atanas</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-94876842_19">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1197862175_45"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1178841122_13"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-495272797_44"/>
+    <rdfs:label>Semantic Web Enabled, Open Source Language Technology.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-656082062_11">
+    <foaf:name>Tablan, Mr Valentin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1976776206_370">
+    <foaf:name>Bontcheva, Dr. Kalina</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-2134019157_3">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1178841122_13"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-656082062_11"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <rdfs:label>Language engineering tools for collaborative corpus annotation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person495175675_50">
+    <foaf:name>Maynard, Dr Diana</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1308589130_265">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1178841122_13"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1976776206_370"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-656082062_11"/>
+    <rdfs:label>Adapting A Robust Multi-Genre Named Entity System for Automatic Content Extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1178841122_13">
+    <foaf:name>Dimitrov, Mr Marin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1197862175_45">
+    <foaf:name>Popov, Mr Borislav</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12">
+    <foaf:name>Bontcheva, Dr Kalina</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-275079877_263">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2092998676_12"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1178841122_13"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person495175675_50"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1929840644_10"/>
+    <rdfs:label>A Light-weight Approach to Coreference Resolution for Named Entities in Text.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

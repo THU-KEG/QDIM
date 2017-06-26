@@ -1,0 +1,105 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document04a508d9667cfc70f44ce446208a11a1d54719a9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Applying multiagent simulation to planetary surface operations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentdd26f47e4de0120b8817569cf40e339099f8b5f9">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>The Mobile Agents Integrated Field Test.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document2a2d8c6a248751e7d7991ebfc5bbb4c8d4485e52">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Brahms Mobile Agents: Architecture and Field Tests.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentab9c7740a2e9346b9a3e925795f43d11d54aa489">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>The Emergence of Social Order in a Robotic Society.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document231b99383e20fe6bb2f96420d94ad31e0058da1f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Empirical Requirements Analysis for Mars Surface Operations Using the Flashline Mars Arctic Research Station.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb457f7a7c94c79ecd0132b3ca357cd6f70ba386d">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Mobile Agents: A Distributed Voice-Commanded Sensory and Robotic System for Surface EVA Assistance.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentc1c8d6750ac134cb290a1ae00787a0b17db9bd8c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Strategies for Collaborative Modeling and Simulation (workshop.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7cb5c80563ac4df1b20c71c1695b348315e9761f">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Case Studies of Project Compendium in Different Organizations.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document7d3689a1d42ef34073382c22543d714dcaac76f4">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>simulating practice for work systems design.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentbc9657ba6133a82cdb1c7b9df6472dfd31f92902">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Facilitated hypertext for collective sensemaking: 15 years on from gIBIS.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b">
+    <foaf:name>Maarten Sierhuis</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb157c24ef040ba3a9b157db999127d8c133dc633">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Modeling and Simulation for Mission Operations Work System Design.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document159b530a9e01c4419f205ffa2d95841e16c4e621">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Modeling and Simulating Work Practice: A Method for Work Systems Design.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document298e43312a7769f26393bb38a81d29b19e849035">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Multiagent Modeling and Simulation in Human-Robot Mission Operations Work System Design.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentca74653afa445176ed4a9ad594c603bd767fc936">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Towards a Framework for Collaborative Modelling and Simulation.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document45647eda9d13723b0943d50e2b1fc8dc2a5ad171">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Adjustable autonomy and human-agent teamwork in practice: An interim report on space applications.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentebb66490b0bcc59311904f5dc84f15f99fa8080c">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Multiagent Plan Execution and Work Practice: Modeling plans and practices onboard the ISS.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document94c6f80c53e670920d4ebea5cf15547634d43258">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person65599fc41abe5945a1c431901ff0b3669f07fe0b"/>
+    <rdfs:label>Advantages of Brahms for Specifying and Implementing a Multiagent Human-Robotic Exploration System.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+</rdf:RDF>

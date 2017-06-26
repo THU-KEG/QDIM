@@ -1,0 +1,13 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#persone1fbe4ec47a3a6ff699b6ebf328d7fa9564d1039
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/u/Uren:Victoria_S=.html
+0.7304756148311524
+http://kmi.open.ac.uk/fusion/dblp#documentdf6477e9531276ffeb536035a6302fac8bb0c429
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/ijmms/UrenSBL06
+0.9508928571428572
+http://kmi.open.ac.uk/fusion/dblp#person6ad14e84ca04a131f84b14eb8c2b058572a533a4
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bachler:Michelle.html
+0.915012608667286

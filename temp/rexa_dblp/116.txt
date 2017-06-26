@@ -1,0 +1,9 @@
+2
+http://kmi.open.ac.uk/fusion/dblp#documentdf6477e9531276ffeb536035a6302fac8bb0c429
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/ijmms/UrenSBL06
+0.8277501620219778
+http://kmi.open.ac.uk/fusion/dblp#person6ad14e84ca04a131f84b14eb8c2b058572a533a4
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bachler:Michelle.html
+1.0

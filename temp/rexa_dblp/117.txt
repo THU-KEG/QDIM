@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#document4bccd2a1b2d586bd6bed699b50cbe24220532497
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/www/SerenoSM04
+1.0
+http://kmi.open.ac.uk/fusion/dblp#personF5B6D94FFF6474C22B6CE25F1D85DBF625E15854
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Shum:Simon_Buckingham.html
+0.8008163546125273
+http://kmi.open.ac.uk/fusion/dblp#person7cf22f31f9e8bac2fda1ea72300c16d96c45c317
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sereno:Bertrand.html
+0.901847362041824
+http://kmi.open.ac.uk/fusion/dblp#person0DF2F404B2FF7978899EBF27EF6009673E54C40B
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Motta:Enrico.html
+0.87331859198017

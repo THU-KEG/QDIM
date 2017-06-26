@@ -1,0 +1,84 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-844429065_128">
+    <foaf:name>Tate, Prof. Austin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1158295481_149">
+    <foaf:name>Frey, Prof. Jeremy</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1100951845_115">
+    <foaf:name>Komzak, Jiri</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person685752709_125">
+    <foaf:name>Potter, Dr. Stephen</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-513285942_109">
+    <foaf:name>Bachler, Michelle</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-2064080185_127">
+    <foaf:name>Shadbolt, Prof. Nigel</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person715331710_124">
+    <foaf:name>Page, Dr. Kevin</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-80393304_20">
+    <foaf:name>Chen-Burger, Dr. Yun-Heh</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-966725805_112">
+    <foaf:name>Dalton, Jeff</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document-1493235042_59">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-1656801956_122"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1158295481_149"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1933791386_123"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person685752709_125"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person715331710_124"/>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1704831554_120"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1194907177_126"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-80393304_20"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-513285942_109"/>
+    <rdfs:label>Chain ReAKTing: Collaborative Advanced Knowledge Technologies in the Comb-e-Chem Grid.</rdfs:label>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1100951845_115"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-844429065_128"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-966725805_112"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person-2064080185_127"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1933791386_123">
+    <foaf:name>Michaelides, Dr. Danius</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person-1656801956_122">
+    <foaf:name>Eisenstadt, Prof. Marc</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1194907177_126">
+    <foaf:name>De Roure, Prof. David</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1704831554_120">
+    <foaf:name>Buckingham Shum, Dr. Simon</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

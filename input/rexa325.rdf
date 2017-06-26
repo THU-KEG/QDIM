@@ -1,0 +1,105 @@
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:wot="http://xmlns.com/wot/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:apf="http://jena.hpl.hp.com/ARQ/property#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:opus="http://lsdis.cs.uga.edu/projects/semdis/opus#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns="http://kmi.open.ac.uk/fusion/dblp#"
+    xmlns:list="http://jena.hpl.hp.com/ARQ/list#"
+    xmlns:dcam="http://purl.org/dc/dcam/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person260E59C792EF043B3C38C3C965E5EC377E4CD687">
+    <foaf:name>Kiril Simov</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document42e064429174d67c778fe40be28f470e2f99ca60">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personf56ccd88e9bc8f04be8f7cb264ba379da3c4d68c"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person74fc98c76ae745afb0d67444e836a5732c0502f5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person416c59303d7c61eed668bdf92d30ee95779f1e81"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person392f0d012585844459a04d3df08810178b238075"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person98805f77a2529ebc345f3043168264138e4f6d06"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person260E59C792EF043B3C38C3C965E5EC377E4CD687"/>
+    <rdfs:label>CLaRK - an XML-based System for Corpora Development.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person98805f77a2529ebc345f3043168264138e4f6d06">
+    <foaf:name>Marin Dimitrov</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person392f0d012585844459a04d3df08810178b238075">
+    <foaf:name>Alexander Simov</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#documentb9e2a5ecd63ad8888e013b7277275366732e2561">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persona767e6ef9d53e10343475bb7d0e62d5e8bd6c503"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person7408b61d3e2a53dd9b2b91a7f5dccb626c710812"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person0ce141461139be7a557144a143dc8ff8b5cb5f1e"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person63911abb75d9602c8495c59d65e3f00b0e90ca87"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#persona4cfe39d553770caadb84a74315f3440eaa0d05b"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person74fc98c76ae745afb0d67444e836a5732c0502f5"/>
+    <rdfs:label>Experiments with geographic knowledge for information extraction.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article_in_Proceedings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person1e303701962ee89f2d826f013998e56562cf2ff4">
+    <foaf:name>Damyan Ognyanov</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person28782d90097426ea29bc0a1a887c31c617988569">
+    <foaf:name>Borislav Popov</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personf56ccd88e9bc8f04be8f7cb264ba379da3c4d68c">
+    <foaf:name>Milen Kouylekov</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person7408b61d3e2a53dd9b2b91a7f5dccb626c710812">
+    <foaf:name>Kaling Bontcheva</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person3f68b51cff82ceadcad61a19ebe1821857d45292">
+    <foaf:name>Ivan Terziev</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person416c59303d7c61eed668bdf92d30ee95779f1e81">
+    <foaf:name>Zdravko Peev</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#document44edd982fa27770f36701c996f9beee3d9acd6d4">
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#personb451b1d8932e0112506e47d6ea55bc68b4af31b8"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person28782d90097426ea29bc0a1a887c31c617988569"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person1e303701962ee89f2d826f013998e56562cf2ff4"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person74fc98c76ae745afb0d67444e836a5732c0502f5"/>
+    <opus:author rdf:resource="http://kmi.open.ac.uk/fusion/dblp#person3f68b51cff82ceadcad61a19ebe1821857d45292"/>
+    <rdfs:label>Semantic annotation, indexing, and retrieval.</rdfs:label>
+    <rdf:type rdf:resource="http://lsdis.cs.uga.edu/projects/semdis/opus#Article"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person74fc98c76ae745afb0d67444e836a5732c0502f5">
+    <foaf:name>Atanas K. Kiryakov</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persona4cfe39d553770caadb84a74315f3440eaa0d05b">
+    <foaf:name>Bojan Popov</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person63911abb75d9602c8495c59d65e3f00b0e90ca87">
+    <foaf:name>D. Manov</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#person0ce141461139be7a557144a143dc8ff8b5cb5f1e">
+    <foaf:name>H. Cunningham</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#personb451b1d8932e0112506e47d6ea55bc68b4af31b8">
+    <foaf:name>Dimitar Manov</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kmi.open.ac.uk/fusion/dblp#persona767e6ef9d53e10343475bb7d0e62d5e8bd6c503">
+    <foaf:name>Diana Maynard</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

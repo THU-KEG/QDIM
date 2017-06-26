@@ -1,0 +1,15 @@
+3
+http://kmi.open.ac.uk/fusion/dblp#document44edd982fa27770f36701c996f9beee3d9acd6d4
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/ws/KiryakovPTMO04
+0.7426323768133208
+http://kmi.open.ac.uk/fusion/dblp#person28782d90097426ea29bc0a1a887c31c617988569
+2
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Popovski:Borislav.html
+0.6026584908322323
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Popov:Borislav.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#document11538140fe78c62381073e42a430c4407d92ce86
+1
+http://dblp.uni-trier.de/rec/bibtex/journals/ki/SchefferWPODH02
+0.7426323768133208

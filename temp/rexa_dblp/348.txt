@@ -1,0 +1,17 @@
+4
+http://kmi.open.ac.uk/fusion/dblp#documentabdc3c3bf0c23ff2275abce84b926fb3f68ac278
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/esws/CabralDMPH04
+0.6657451156009938
+http://kmi.open.ac.uk/fusion/dblp#documentd3e3bedf99f51c7f51813bd48b82e877f372f4c0
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/semweb/MottaDCG03
+0.6657451156009938
+http://kmi.open.ac.uk/fusion/dblp#persone9d86967e61d8f946bb5e86385655295dfde63e2
+1
+http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cabral:Liliana.html
+1.0
+http://kmi.open.ac.uk/fusion/dblp#documentd6a9dcde84ebc56cc1824d33952f44e6c83fd6de
+1
+http://dblp.uni-trier.de/rec/bibtex/conf/ekaw/SellCGMP04
+0.6657451156009938
